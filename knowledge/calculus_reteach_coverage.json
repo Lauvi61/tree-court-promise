@@ -1,0 +1,163 @@
+{
+  "updated_at": "2026-11-04",
+  "reviewed_parts": 12,
+  "whole_series_completed": false,
+  "items": [
+    {
+      "bvid": "BV12G411U7tD",
+      "page": 1,
+      "duration_seconds": 2347.9089375,
+      "point_ids": [
+        "calculus-upper-taylor"
+      ],
+      "review_method": "完整2347.91秒转录逐段阅读；52张45秒采样板书总览、8张关键公式大图核对；不是逐帧观看或官方字幕核验",
+      "transcript_sha256": "565cec0164d918b124748d76ec0f3fecbeb2b61a2110249adb1247f6d1e7f061",
+      "review_file": "knowledge/build/calculus-reteach/lessons/BV12G411U7tD-p1/review.json",
+      "sampling_interval_seconds": 45,
+      "official_subtitles_verified": false
+    },
+    {
+      "bvid": "BV14C4y127xd",
+      "page": 1,
+      "duration_seconds": 2471.34625,
+      "point_ids": [
+        "calculus-upper-taylor-errors"
+      ],
+      "review_method": "完整2471.35秒转录逐段阅读；55张45秒采样板书总览、8张关键公式大图核对；不是逐帧观看或官方字幕核验",
+      "transcript_sha256": "4ca29cb266263485725a859b9bfbc14cbc8234c2e8360b2f0594e9fe52465307",
+      "review_file": "knowledge/build/calculus-reteach/lessons/BV14C4y127xd-p1/review.json",
+      "sampling_interval_seconds": 45,
+      "official_subtitles_verified": false
+    },
+    {
+      "bvid": "BV18SmZYrEPA",
+      "page": 1,
+      "duration_seconds": 3935.08575,
+      "point_ids": [
+        "calculus-upper-mean-value"
+      ],
+      "review_method": "逐段阅读完整3935.09秒转录；87张45秒采样板书总览、11张关键公式大图、末尾3920秒与3903秒后补取清晰作业画面核对；不是逐帧观看或官方字幕核验",
+      "transcript_sha256": "35d122f042c892330024b921f96b3e7e303af5ad028e47813df2d1a4ada8d5d6",
+      "review_file": "knowledge/build/calculus-reteach/lessons/BV18SmZYrEPA-p1/review.json",
+      "sampling_interval_seconds": 45,
+      "official_subtitles_verified": false
+    },
+    {
+      "bvid": "BV1eg1KY8EGw",
+      "page": 1,
+      "duration_seconds": 2998.02125,
+      "point_ids": [
+        "calculus-upper-squeeze"
+      ],
+      "review_method": "完整2998秒音频转录逐段阅读；全片67张45秒采样板书总览，12张关键大图核对；非逐帧观看或官方字幕核验",
+      "transcript_sha256": "da170ccf594314da5a39f5976c4b0f91ce8bc6291b1a56cece4299d252de0a75",
+      "review_file": "knowledge/build/calculus-reteach/lessons/BV1eg1KY8EGw-p1/review.json",
+      "sampling_interval_seconds": 45,
+      "official_subtitles_verified": false
+    },
+    {
+      "bvid": "BV1Fb4y1V7Bg",
+      "page": 1,
+      "duration_seconds": 3598.9333125,
+      "point_ids": [
+        "calculus-upper-limit-methods"
+      ],
+      "review_method": "逐段阅读完整3598.93秒音频转录；80张45秒采样板书总览，11张关键板书大图及3558秒末尾作业题面核对；不是逐帧观看或官方字幕核验",
+      "transcript_sha256": "f9c6730798797db74911758af6427a878dd9989dab4800e7601a03f590e3e71c",
+      "review_file": "knowledge/build/calculus-reteach/lessons/BV1Fb4y1V7Bg-p1/review.json",
+      "sampling_interval_seconds": 45,
+      "official_subtitles_verified": false
+    },
+    {
+      "bvid": "BV1fpxLeYEmX",
+      "page": 1,
+      "duration_seconds": 1767.8745,
+      "point_ids": [
+        "calculus-upper-sequence-limit"
+      ],
+      "review_method": "完整音频转录逐段阅读；39张全片45秒采样板书总览与8张关键大图核对；非逐帧观看，非官方精确字幕核验",
+      "transcript_sha256": "8b47abb64103c8876bd4e7d25d34c444a9473ae4fa8780fdc99ad99707df83bd",
+      "review_file": "knowledge/build/calculus-reteach/lessons/BV1fpxLeYEmX-p1/review.json",
+      "sampling_interval_seconds": 45,
+      "official_subtitles_verified": false
+    },
+    {
+      "bvid": "BV1LUx368E1L",
+      "page": 1,
+      "duration_seconds": 1776.047875,
+      "point_ids": [
+        "calculus-upper-continuity"
+      ],
+      "review_method": "逐段阅读完整1776.05秒转录；39张45秒采样板书总览及8张关键大图核对，不是逐帧观看或官方字幕核验",
+      "transcript_sha256": "3a4315603055b99ea3d8a19cd12849994aa5adb24a6b5e200a40a9c0fb997842",
+      "review_file": "knowledge/build/calculus-reteach/lessons/BV1LUx368E1L-p1/review.json",
+      "sampling_interval_seconds": 45,
+      "official_subtitles_verified": false
+    },
+    {
+      "bvid": "BV1mCn36NEoN",
+      "page": 1,
+      "duration_seconds": 2794.3358125,
+      "point_ids": [
+        "calculus-upper-infinitesimal"
+      ],
+      "review_method": "完整2794秒音频转录逐段阅读；全片62张45秒采样板书总览与12张关键公式大图对照；不是逐帧观看或官方字幕核验",
+      "transcript_sha256": "d6423bdb3a40cfaed1ffa5ae097953efcf29ed981631b7e48127486765b3b526",
+      "review_file": "knowledge/build/calculus-reteach/lessons/BV1mCn36NEoN-p1/review.json",
+      "sampling_interval_seconds": 45,
+      "official_subtitles_verified": false
+    },
+    {
+      "bvid": "BV1TptPeQEsW",
+      "page": 1,
+      "duration_seconds": 1166.5705625,
+      "point_ids": [
+        "calculus-upper-floor"
+      ],
+      "review_method": "完整音频转录逐段阅读 + 全片45秒采样板书总览 + 关键公式大图对照；不是逐帧观看，也不是官方字幕核验",
+      "transcript_sha256": "5be94105ad9ecbe7b3b52c4cb7efec9738777e145d44bf4442dd43d7d2d52d06",
+      "review_file": "knowledge/build/calculus-reteach/lessons/BV1TptPeQEsW-p1/review.json",
+      "sampling_interval_seconds": 45,
+      "official_subtitles_verified": false
+    },
+    {
+      "bvid": "BV1uz421q7e8",
+      "page": 1,
+      "duration_seconds": 2836.2245625,
+      "point_ids": [
+        "calculus-upper-inverse-trig"
+      ],
+      "review_method": "完整音频转录逐段阅读；全片63张45秒采样板书总览及关键公式大图对照；不是逐帧观看或官方字幕核验",
+      "transcript_sha256": "3d6944a64801cee510ba6417b6b655e636a3fcd4bcea4d95eccdf956acbae10d",
+      "review_file": "knowledge/build/calculus-reteach/lessons/BV1uz421q7e8-p1/review.json",
+      "sampling_interval_seconds": 45,
+      "official_subtitles_verified": false
+    },
+    {
+      "bvid": "BV1xhmnYFEir",
+      "page": 1,
+      "duration_seconds": 2962.07675,
+      "point_ids": [
+        "calculus-upper-function-limit"
+      ],
+      "review_method": "完整音频转录逐段阅读 + 全片45秒采样板书总览 + 关键公式大图对照；不是逐帧观看，也不是官方字幕核验",
+      "transcript_sha256": "6f54e0ffacbadd274159dc2d33bf6229534c08c748c2de831d9e23cb603488ee",
+      "review_file": "knowledge/build/calculus-reteach/lessons/BV1xhmnYFEir-p1/review.json",
+      "sampling_interval_seconds": 45,
+      "official_subtitles_verified": false
+    },
+    {
+      "bvid": "BV1Y2DGYoEEw",
+      "page": 1,
+      "duration_seconds": 3240.8555,
+      "point_ids": [
+        "calculus-upper-derivative-definition"
+      ],
+      "review_method": "逐段阅读完整3240.86秒转录；72张45秒采样板书总览、12张关键公式大图核对；并非逐帧观看或官方字幕核验",
+      "transcript_sha256": "0757bbba2c157b6fcad09be8a98a3435e07a48b61fc975fbb3c08376d8867c5d",
+      "review_file": "knowledge/build/calculus-reteach/lessons/BV1Y2DGYoEEw-p1/review.json",
+      "sampling_interval_seconds": 45,
+      "official_subtitles_verified": false
+    }
+  ]
+}

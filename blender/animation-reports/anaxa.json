@@ -1,0 +1,23 @@
+{
+  "id": "anaxa",
+  "status": "animated",
+  "clip": "TC_Anaxa_TeachPace",
+  "duration": 0.9333333333333333,
+  "rest_height": 1.7431494736811146,
+  "rest_floor": 0.0014386629918590188,
+  "target_height": 1.8,
+  "triangles": 42466,
+  "max_arm_target_error_m": 4.924151790695877e-07,
+  "bones": 511,
+  "animations": [
+    "TC_Anaxa_TeachPace"
+  ],
+  "glb": "D:\\开发项目\\树庭学习室\\tree_court\\blender\\animated\\anaxa.glb",
+  "fbx": "D:\\开发项目\\树庭学习室\\tree_court\\blender\\animated\\anaxa.fbx",
+  "motion_source": "motion\\普通走路姿势_by_不是姐姐是阿姨_e1758be912ca2ec3857a1cbbd057dfb2 (1)\\普通走路姿势.vmd",
+  "motion_author": "不是姐姐是阿姨",
+  "source_frames": [
+    8,
+    36
+  ]
+}

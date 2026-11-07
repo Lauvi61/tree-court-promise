@@ -1,0 +1,92 @@
+{
+  "cs408-2009": {
+    "paper_sha256": "06a35e0baaf67631ae311cb98b7d0a4eceb6fa292d5a19bda888d760a2e107da",
+    "solution_sha256": "7867c0cd6321445550e0d14f4677428570d6cb7d307a6c1944a4fe3d9381ec20",
+    "choices": "BCDBCBAD ABCDDCDC AADBDADD CACBAABA BBCADDCA"
+  },
+  "cs408-2010": {
+    "paper_sha256": "0c744666761bc9d4870862927c9649683ce7a7d9954d75e5ef05b60a7388ed6e",
+    "solution_sha256": "a51847417dcad0f97373047a92044367edf6dd04d1badca148142d90b0f92957",
+    "choices": "DCDCBACB BDADBBDA DBADADAC BADDBCCB CCDCBDAA"
+  },
+  "cs408-2011": {
+    "paper_sha256": "bd65487c3a2a55a2dd822560d91e2ad42439b48dd5e42adf814f22152d44de4d",
+    "solution_sha256": "7441da7c20747fb56ed0f529343375b84d2c9d1abba5329c80209d4e67af6748",
+    "choices": "ABBCCDAC DABDABDA CDCCDCBA DBDDACBC ABBDDCCB"
+  },
+  "cs408-2012": {
+    "paper_sha256": "b5e5304be94e547e38b89b374b6a7cb18a377483ed530919a2335b477feef8f2",
+    "solution_sha256": "d34d7378b038934026df401f05fbc6f269cbeb6a918007c5e3d0231591a2649c",
+    "choices": "BAABCCCA DADDBDDA CCCDDBCB BADABCAB BCABCADD"
+  },
+  "cs408-2013": {
+    "paper_sha256": "d514c3080e05bd73d12148dbe91ce850d67964a8fd0a3fc64174e3369b6dcf41",
+    "solution_sha256": "1a3b76ceeccbf3494b850f1608c1ee17d4999518961c037a3061af30023f8311",
+    "choices": "DCDBACCD CACCAACA DCBBBDAA CACBDBBB BADBABBA"
+  },
+  "cs408-2014": {
+    "paper_sha256": "ae9a35cdf1e765cc80e4a14e4c15bc6ba9ceabcde1cb1f65d0c839d7a3f4f3c0",
+    "solution_sha256": "400d22d3c21feae19a8f691c256902a3f745bb9f4fc227464ec55d94c35ffdc6",
+    "choices": "CBADCDDD DBCDCAAD ACCCDBAB DAACBACD CBDCBABD"
+  },
+  "cs408-2015": {
+    "paper_sha256": "8cf2a777421d0f9b2515e90a4cd3582f072150cdcdce9b8ce09bf543c7994abb",
+    "solution_sha256": "54ff1b454f7421365f0cb744aff2f28b8825b99de0d5b8ed1e9c716de3587b47",
+    "choices": "ABDDDCAC CCAABDCB BDCBBDBC DBAABCCC DABBACAC"
+  },
+  "cs408-2016": {
+    "paper_sha256": "727216ad7a903fa94bd8d596fecc43f4d6a731c49c3757ff638b48314d5eb9be",
+    "solution_sha256": "93c5cb3465c1141cfd023b17e2616f4392d97f74ff39443b1fc36b10c19c235f",
+    "choices": "DDCBCDBB BADCDACC CBBAAAAB CABDACDA CCDBBDCC"
+  },
+  "cs408-2017": {
+    "paper_sha256": "be9d174cfb6018c945066c94aa501675be4f3106a187037ab26757823fb51715",
+    "solution_sha256": "6799d0c083d9a32f499e4ee6c77be9b93cbd24d769a070ae98fd1637d67b00b2",
+    "choices": "BCABBDBA BBDCCADA CBADDBDC BDBDBDBB ADBADCAC"
+  },
+  "cs408-2018": {
+    "paper_sha256": "1f47b4d36458b68d261f8e58b459fc5bf7b5fba3da40075f8ade36faeb7ec5ec",
+    "solution_sha256": "411bf95ad1c23407c4d3fa6ee1de8467524146b9ea795ffff153d6af3598b507",
+    "choices": "BCAAACDB CDADCAAB CBADBCCD BACDDADC BCDDDCBD"
+  },
+  "cs408-2019": {
+    "paper_sha256": "46e45d5c4bb5afce467e6cd0228fa64c90ab2ceb138e2f8b17a9eb0747542057",
+    "solution_sha256": "a50bd04914b55d0400655a03e5fa5f02b37ac1821107827ecaf6ab09b71b3fd6",
+    "choices": "BBCACADC BDBCADDD BCBCADBC CBCBCBAC CABBBCDB"
+  },
+  "cs408-2020": {
+    "paper_sha256": "3471eff98676125de3bc5f9b5eb9113cdf3388d13f86e02aba93b22402164401",
+    "solution_sha256": "97ee67dd49d648e206cffedf71772e8d86a26ad327baeb5397aa95562a844bf8",
+    "choices": "CDACBBAB CBABADDA BACCBCBA DDBDBDBC CBCDADCD"
+  },
+  "cs408-2021": {
+    "paper_sha256": "d26b51a98a162c1239df3aded10dba92fc94886090e044393bab2ed840fb7ea3",
+    "solution_sha256": "041f3f9509475584a2abebd729d3b2e01a2bd6535c7e10ebb39ddcd8a4378de9",
+    "choices": "DDBCBDAC ACBDDACA DCCABABB CCDCBACC BABBDBDC"
+  },
+  "cs408-2022": {
+    "paper_sha256": "6850a0c624b1ec419114ed9f366cdab0b9bd7e3ad00375ba5a9dba7a3a76eecb",
+    "solution_sha256": "34561e046a8fc56fc98e01fbf88c1bf0152df80ff5e0898ed08da478549e7901",
+    "choices": "BDBCDDBD DADABACA CBDACCDA CBCDADBA BCBDBCDB"
+  },
+  "cs408-2023": {
+    "paper_sha256": "4c061880c25df3827374406426a315ec170270ac4b5c900de3dae5a5849b9cd5",
+    "solution_sha256": "20de39c0e7c4b949d8a94b78909e5e0a53f35276011f23aff07e8f0a9c04360c",
+    "choices": "DCABABBB CCDCAACB ABCDDCDA CDCDBCBD DCBCDABD"
+  },
+  "cs408-2024": {
+    "paper_sha256": "baae7ba96588d55117a31c297304927d3791d0f3576bf0c70f32fd8a9fe1766c",
+    "solution_sha256": "83146d04e95bdf2e7a58b6157a2ba00029c7b4268f1937bedd740ae7f1868523",
+    "choices": "DAABD ADABC DBBCD DCBCB ACAAD AABAC CCBCD BDDCD"
+  },
+  "cs408-2025": {
+    "paper_sha256": "28f4fd31bb5ee1a72a839c939b713ef1729271e676d99291df0df26f8ef90b37",
+    "solution_sha256": "06bb902c4f7a5421ed4dd616acd4ca6cc52570ff54f75b9d01bf8f2e6fe6e8a4",
+    "choices": "BDDBD CCCAD ADDDC BCBAA BADCC BDCCA CBBCC CBABA"
+  },
+  "cs408-2026": {
+    "paper_sha256": "c2eea4cecc5840dc35b9ce13c7abe9476ae806063201ee8875579eaee341abf1",
+    "solution_sha256": "374d8130d1f3bb70a8d26659b0d2c22bad3f7ea58c62b641cb9c5fa4cc23fa78",
+    "choices": "ADCBD DBDBA ACABA ACAAA DCCDD ACCDB DDBDB BBACD"
+  }
+}

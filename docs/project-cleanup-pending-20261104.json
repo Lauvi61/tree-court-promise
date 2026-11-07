@@ -1,0 +1,16 @@
+{
+  "root": "D:\\开发项目\\树庭学习室\\tree_court",
+  "date": "2026-11-04",
+  "targets": [],
+  "retained": [
+    {
+      "path": "web/.runtime/reviewed-production.stdout.log",
+      "reason": "上轮扫描后有变化，保留"
+    },
+    {
+      "path": "web/.runtime/social-acceptance/progress-epoch.json",
+      "reason": "数据库对应的同步纪元配置，保留"
+    }
+  ],
+  "complete": true
+}

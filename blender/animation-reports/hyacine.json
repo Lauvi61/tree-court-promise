@@ -1,0 +1,23 @@
+{
+  "id": "hyacine",
+  "status": "animated",
+  "clip": "TC_Hyacine_Assist",
+  "duration": 4,
+  "rest_height": 1.4489716632378986,
+  "rest_floor": -0.00022688937315251678,
+  "target_height": 1.57,
+  "triangles": 39687,
+  "max_arm_target_error_m": 2.640492490927778e-07,
+  "bones": 563,
+  "animations": [
+    "TC_Hyacine_Assist"
+  ],
+  "glb": "D:\\开发项目\\树庭学习室\\tree_court\\blender\\animated\\hyacine.glb",
+  "fbx": "D:\\开发项目\\树庭学习室\\tree_court\\blender\\animated\\hyacine.fbx",
+  "motion_source": "motion\\动作 思考托腮 by骞z魔王_by_骞z魔王_51a166e805d0b91faea18600517947cb.vmd",
+  "motion_author": "骞z魔王",
+  "source_frames": [
+    20,
+    20
+  ]
+}

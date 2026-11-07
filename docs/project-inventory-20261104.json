@@ -1,0 +1,1591 @@
+{
+  "date": "2026-11-04",
+  "scanned_files": 103687,
+  "scanned_bytes": 26242015056,
+  "directories": {
+    "408教材": {
+      "bytes": 939400574,
+      "files": 4
+    },
+    "408真题": {
+      "bytes": 64826072,
+      "files": 36
+    },
+    "408真题/answers": {
+      "bytes": 46322066,
+      "files": 18
+    },
+    "408真题/papers-rebuild": {
+      "bytes": 18504006,
+      "files": 18
+    },
+    "assets": {
+      "bytes": 521412481,
+      "files": 139
+    },
+    "assets/characters": {
+      "bytes": 200396352,
+      "files": 13
+    },
+    "assets/characters/styled": {
+      "bytes": 200396352,
+      "files": 13
+    },
+    "assets/exams": {
+      "bytes": 309353372,
+      "files": 105
+    },
+    "assets/exams/postgrad": {
+      "bytes": 309353372,
+      "files": 105
+    },
+    "assets/portraits": {
+      "bytes": 10371521,
+      "files": 16
+    },
+    "blender": {
+      "bytes": 4029247370,
+      "files": 1275
+    },
+    "blender/animated": {
+      "bytes": 366962901,
+      "files": 76
+    },
+    "blender/animated/anaxa.fbm": {
+      "bytes": 27933566,
+      "files": 14
+    },
+    "blender/animated/castor.fbm": {
+      "bytes": 38489009,
+      "files": 20
+    },
+    "blender/animated/hyacine.fbm": {
+      "bytes": 24133256,
+      "files": 14
+    },
+    "blender/animated/phainon.fbm": {
+      "bytes": 26857908,
+      "files": 16
+    },
+    "blender/animation-reports": {
+      "bytes": 9731461,
+      "files": 51
+    },
+    "blender/animation-reports/previews": {
+      "bytes": 7536900,
+      "files": 29
+    },
+    "blender/build": {
+      "bytes": 2862604032,
+      "files": 588
+    },
+    "blender/build/approved-npr": {
+      "bytes": 64468493,
+      "files": 9
+    },
+    "blender/build/character-integrity": {
+      "bytes": 4226546,
+      "files": 6
+    },
+    "blender/build/cinematic-classroom": {
+      "bytes": 56004470,
+      "files": 10
+    },
+    "blender/build/classroom-fuller": {
+      "bytes": 15203202,
+      "files": 19
+    },
+    "blender/build/classroom-paired": {
+      "bytes": 173348045,
+      "files": 18
+    },
+    "blender/build/companion-films": {
+      "bytes": 191081016,
+      "files": 87
+    },
+    "blender/build/outings": {
+      "bytes": 38811456,
+      "files": 21
+    },
+    "blender/build/phainon-elysia": {
+      "bytes": 361510629,
+      "files": 107
+    },
+    "blender/build/phainon-film-v3": {
+      "bytes": 135825826,
+      "files": 99
+    },
+    "blender/build/pipeline-test": {
+      "bytes": 135878,
+      "files": 3
+    },
+    "blender/build/revision-20261021": {
+      "bytes": 330171,
+      "files": 4
+    },
+    "blender/build/spatial-repair": {
+      "bytes": 1733119251,
+      "files": 82
+    },
+    "blender/build/study-companions": {
+      "bytes": 62658690,
+      "files": 30
+    },
+    "blender/build/study-room": {
+      "bytes": 3304576,
+      "files": 6
+    },
+    "blender/build/toon-anaxa": {
+      "bytes": 20006019,
+      "files": 5
+    },
+    "blender/classroom": {
+      "bytes": 3862607,
+      "files": 4
+    },
+    "blender/generated": {
+      "bytes": 295030196,
+      "files": 45
+    },
+    "blender/generated/anaxa.fbm": {
+      "bytes": 15979660,
+      "files": 7
+    },
+    "blender/generated/castor.fbm": {
+      "bytes": 21209126,
+      "files": 10
+    },
+    "blender/generated/hyacine.fbm": {
+      "bytes": 14090619,
+      "files": 7
+    },
+    "blender/generated/phainon.fbm": {
+      "bytes": 15430473,
+      "files": 8
+    },
+    "blender/materials": {
+      "bytes": 13863,
+      "files": 6
+    },
+    "blender/materials/__pycache__": {
+      "bytes": 8445,
+      "files": 2
+    },
+    "blender/repair-reports": {
+      "bytes": 17405562,
+      "files": 88
+    },
+    "blender/repair-reports/after": {
+      "bytes": 2363853,
+      "files": 13
+    },
+    "blender/repair-reports/before": {
+      "bytes": 2934746,
+      "files": 17
+    },
+    "blender/repair-reports/hidden-diagnostic": {
+      "bytes": 2390979,
+      "files": 13
+    },
+    "blender/repair-reports/style-before": {
+      "bytes": 4230083,
+      "files": 18
+    },
+    "blender/repair-reports/styled": {
+      "bytes": 3768130,
+      "files": 18
+    },
+    "blender/shading-reports": {
+      "bytes": 2131222,
+      "files": 9
+    },
+    "blender/shading-reports/ue-portraits": {
+      "bytes": 2,
+      "files": 1
+    },
+    "blender/source": {
+      "bytes": 22614740,
+      "files": 1
+    },
+    "blender/study": {
+      "bytes": 105017764,
+      "files": 18
+    },
+    "blender/study/anaxa.fbm": {
+      "bytes": 27933566,
+      "files": 14
+    },
+    "blender/study/reports": {
+      "bytes": 556,
+      "files": 1
+    },
+    "blender/vendor": {
+      "bytes": 7575501,
+      "files": 224
+    },
+    "blender/vendor/blender_BoneAnimCopy": {
+      "bytes": 93467,
+      "files": 7
+    },
+    "blender/vendor/mmd_tools": {
+      "bytes": 3845269,
+      "files": 178
+    },
+    "blender/vendor/pythonlibs": {
+      "bytes": 1177398,
+      "files": 38
+    },
+    "blender/walking": {
+      "bytes": 334872171,
+      "files": 51
+    },
+    "blender/walking/anaxa.fbm": {
+      "bytes": 15979660,
+      "files": 7
+    },
+    "blender/walking/castor.fbm": {
+      "bytes": 21209126,
+      "files": 10
+    },
+    "blender/walking/hyacine.fbm": {
+      "bytes": 14090619,
+      "files": 7
+    },
+    "blender/walking/phainon.fbm": {
+      "bytes": 15430473,
+      "files": 8
+    },
+    "blender/walking/reports": {
+      "bytes": 4116,
+      "files": 7
+    },
+    "blender/__pycache__": {
+      "bytes": 66039,
+      "files": 5
+    },
+    "characters": {
+      "bytes": 83420449,
+      "files": 75
+    },
+    "characters/references": {
+      "bytes": 78399134,
+      "files": 46
+    },
+    "characters/reports": {
+      "bytes": 4928202,
+      "files": 21
+    },
+    "characters/reports/romance-v2": {
+      "bytes": 2113528,
+      "files": 8
+    },
+    "characters/reports/social": {
+      "bytes": 2814674,
+      "files": 13
+    },
+    "data": {
+      "bytes": 2958411934,
+      "files": 4941
+    },
+    "data/cinematics": {
+      "bytes": 18712,
+      "files": 5
+    },
+    "data/curriculum": {
+      "bytes": 17074927,
+      "files": 2
+    },
+    "data/exams": {
+      "bytes": 295116,
+      "files": 4
+    },
+    "data/exams/converted": {
+      "bytes": 40356,
+      "files": 1
+    },
+    "data/lectures": {
+      "bytes": 120653341,
+      "files": 1
+    },
+    "data/lectures/network": {
+      "bytes": 120653341,
+      "files": 1
+    },
+    "data/progress-backups": {
+      "bytes": 541792,
+      "files": 9
+    },
+    "data/progress-backups/20261024-023750": {
+      "bytes": 57717,
+      "files": 3
+    },
+    "data/progress-backups/20261024-024117": {
+      "bytes": 242038,
+      "files": 3
+    },
+    "data/progress-backups/20261024-153716": {
+      "bytes": 242037,
+      "files": 3
+    },
+    "data/references": {
+      "bytes": 1878088,
+      "files": 15
+    },
+    "data/references/lesson-audit": {
+      "bytes": 35642,
+      "files": 8
+    },
+    "data/runtime": {
+      "bytes": 242106,
+      "files": 9
+    },
+    "data/runtime/materials": {
+      "bytes": 345,
+      "files": 6
+    },
+    "data/vocabulary": {
+      "bytes": 22348884,
+      "files": 2
+    },
+    "data/voice": {
+      "bytes": 2793730649,
+      "files": 4888
+    },
+    "data/voice/generated": {
+      "bytes": 2782831726,
+      "files": 4839
+    },
+    "data/voice/research": {
+      "bytes": 2323034,
+      "files": 43
+    },
+    "data/voice/samples": {
+      "bytes": 3114460,
+      "files": 5
+    },
+    "dist": {
+      "bytes": 38282814,
+      "files": 1
+    },
+    "docs": {
+      "bytes": 16869466,
+      "files": 43
+    },
+    "game": {
+      "bytes": 93420,
+      "files": 4
+    },
+    "knowledge": {
+      "bytes": 1402880703,
+      "files": 7775
+    },
+    "knowledge/build": {
+      "bytes": 1393153858,
+      "files": 7693
+    },
+    "knowledge/build/408-textbooks": {
+      "bytes": 21048154,
+      "files": 18
+    },
+    "knowledge/build/408-upstream": {
+      "bytes": 61178732,
+      "files": 8
+    },
+    "knowledge/build/all-course-voice": {
+      "bytes": 57209,
+      "files": 1
+    },
+    "knowledge/build/calculus": {
+      "bytes": 32623549,
+      "files": 21
+    },
+    "knowledge/build/calculus-reteach": {
+      "bytes": 1127672910,
+      "files": 7347
+    },
+    "knowledge/build/cet4-core-vocabulary": {
+      "bytes": 35993692,
+      "files": 97
+    },
+    "knowledge/build/cet6": {
+      "bytes": 15401586,
+      "files": 2
+    },
+    "knowledge/build/cs408-before": {
+      "bytes": 389964,
+      "files": 2
+    },
+    "knowledge/build/exams": {
+      "bytes": 239549,
+      "files": 5
+    },
+    "knowledge/build/linear": {
+      "bytes": 15043224,
+      "files": 2
+    },
+    "knowledge/build/network-handout": {
+      "bytes": 43253645,
+      "files": 150
+    },
+    "knowledge/build/postgrad": {
+      "bytes": 16373229,
+      "files": 2
+    },
+    "knowledge/build/postgrad-exams": {
+      "bytes": 7674450,
+      "files": 29
+    },
+    "knowledge/build/probability": {
+      "bytes": 15844118,
+      "files": 2
+    },
+    "knowledge/build/vocabulary-classroom": {
+      "bytes": 309597,
+      "files": 5
+    },
+    "knowledge/__pycache__": {
+      "bytes": 175534,
+      "files": 9
+    },
+    "mcp": {
+      "bytes": 62213,
+      "files": 20
+    },
+    "mcp/scripts": {
+      "bytes": 46482,
+      "files": 16
+    },
+    "motion": {
+      "bytes": 378288,
+      "files": 5
+    },
+    "motion/普通走路姿势_by_不是姐姐是阿姨_e1758be912ca2ec3857a1cbbd057dfb2 (1)": {
+      "bytes": 331927,
+      "files": 4
+    },
+    "pics": {
+      "bytes": 37331086,
+      "files": 42
+    },
+    "pics/previews": {
+      "bytes": 22980815,
+      "files": 26
+    },
+    "pics/ref": {
+      "bytes": 853491,
+      "files": 3
+    },
+    "py_site": {
+      "bytes": 51491918,
+      "files": 4834
+    },
+    "py_site/altgraph": {
+      "bytes": 121332,
+      "files": 14
+    },
+    "py_site/altgraph/__pycache__": {
+      "bytes": 67645,
+      "files": 7
+    },
+    "py_site/altgraph-0.17.5.dist-info": {
+      "bytes": 10111,
+      "files": 7
+    },
+    "py_site/bin": {
+      "bytes": 325008,
+      "files": 3
+    },
+    "py_site/ordlookup": {
+      "bytes": 52574,
+      "files": 8
+    },
+    "py_site/ordlookup/__pycache__": {
+      "bytes": 31992,
+      "files": 4
+    },
+    "py_site/packaging": {
+      "bytes": 1055033,
+      "files": 45
+    },
+    "py_site/packaging/licenses": {
+      "bytes": 120022,
+      "files": 4
+    },
+    "py_site/packaging/__pycache__": {
+      "bytes": 512493,
+      "files": 20
+    },
+    "py_site/packaging-26.3.dist-info": {
+      "bytes": 18926,
+      "files": 7
+    },
+    "py_site/packaging-26.3.dist-info/licenses": {
+      "bytes": 11715,
+      "files": 3
+    },
+    "py_site/pefile-2024.8.26.dist-info": {
+      "bytes": 3780,
+      "files": 6
+    },
+    "py_site/pip": {
+      "bytes": 11342204,
+      "files": 854
+    },
+    "py_site/pip/_internal": {
+      "bytes": 2913731,
+      "files": 306
+    },
+    "py_site/pip/_vendor": {
+      "bytes": 8421395,
+      "files": 541
+    },
+    "py_site/pip/__pycache__": {
+      "bytes": 4112,
+      "files": 3
+    },
+    "py_site/pip-26.2.1.dist-info": {
+      "bytes": 149075,
+      "files": 28
+    },
+    "py_site/pip-26.2.1.dist-info/licenses": {
+      "bytes": 75301,
+      "files": 22
+    },
+    "py_site/pygame": {
+      "bytes": 26068147,
+      "files": 653
+    },
+    "py_site/pygame/docs": {
+      "bytes": 6566727,
+      "files": 205
+    },
+    "py_site/pygame/examples": {
+      "bytes": 2579307,
+      "files": 147
+    },
+    "py_site/pygame/tests": {
+      "bytes": 5714968,
+      "files": 138
+    },
+    "py_site/pygame/_sdl2": {
+      "bytes": 694723,
+      "files": 19
+    },
+    "py_site/pygame/__briefcase": {
+      "bytes": 8121,
+      "files": 4
+    },
+    "py_site/pygame/__pycache__": {
+      "bytes": 253144,
+      "files": 20
+    },
+    "py_site/pygame/__pyinstaller": {
+      "bytes": 3683,
+      "files": 4
+    },
+    "py_site/pygame_ce-2.5.8.dist-info": {
+      "bytes": 67383,
+      "files": 6
+    },
+    "py_site/PyInstaller": {
+      "bytes": 4331544,
+      "files": 1124
+    },
+    "py_site/PyInstaller/archive": {
+      "bytes": 58138,
+      "files": 8
+    },
+    "py_site/PyInstaller/bootloader": {
+      "bytes": 1302931,
+      "files": 6
+    },
+    "py_site/PyInstaller/building": {
+      "bytes": 571517,
+      "files": 22
+    },
+    "py_site/PyInstaller/depend": {
+      "bytes": 367505,
+      "files": 16
+    },
+    "py_site/PyInstaller/fake-modules": {
+      "bytes": 52073,
+      "files": 10
+    },
+    "py_site/PyInstaller/hooks": {
+      "bytes": 729149,
+      "files": 961
+    },
+    "py_site/PyInstaller/isolated": {
+      "bytes": 45503,
+      "files": 6
+    },
+    "py_site/PyInstaller/lib": {
+      "bytes": 256222,
+      "files": 13
+    },
+    "py_site/PyInstaller/loader": {
+      "bytes": 102551,
+      "files": 12
+    },
+    "py_site/PyInstaller/utils": {
+      "bytes": 722959,
+      "files": 52
+    },
+    "py_site/PyInstaller/__pycache__": {
+      "bytes": 60487,
+      "files": 9
+    },
+    "py_site/pyinstaller-6.22.2.dist-info": {
+      "bytes": 142745,
+      "files": 7
+    },
+    "py_site/pyinstaller-6.22.2.dist-info/licenses": {
+      "bytes": 32138,
+      "files": 1
+    },
+    "py_site/pyinstaller_hooks_contrib-2026.7.dist-info": {
+      "bytes": 187480,
+      "files": 7
+    },
+    "py_site/pyinstaller_hooks_contrib-2026.7.dist-info/licenses": {
+      "bytes": 27666,
+      "files": 1
+    },
+    "py_site/pywin32_ctypes-0.2.3.dist-info": {
+      "bytes": 11312,
+      "files": 6
+    },
+    "py_site/setuptools": {
+      "bytes": 5711419,
+      "files": 556
+    },
+    "py_site/setuptools/command": {
+      "bytes": 487075,
+      "files": 48
+    },
+    "py_site/setuptools/compat": {
+      "bytes": 5810,
+      "files": 10
+    },
+    "py_site/setuptools/config": {
+      "bytes": 1014369,
+      "files": 26
+    },
+    "py_site/setuptools/_distutils": {
+      "bytes": 1198741,
+      "files": 130
+    },
+    "py_site/setuptools/_vendor": {
+      "bytes": 2289541,
+      "files": 265
+    },
+    "py_site/setuptools/__pycache__": {
+      "bytes": 363536,
+      "files": 33
+    },
+    "py_site/setuptools-84.0.0.dist-info": {
+      "bytes": 58862,
+      "files": 7
+    },
+    "py_site/setuptools-84.0.0.dist-info/licenses": {
+      "bytes": 1023,
+      "files": 1
+    },
+    "py_site/win32ctypes": {
+      "bytes": 168689,
+      "files": 68
+    },
+    "py_site/win32ctypes/core": {
+      "bytes": 77145,
+      "files": 42
+    },
+    "py_site/win32ctypes/pywin32": {
+      "bytes": 34499,
+      "files": 8
+    },
+    "py_site/win32ctypes/tests": {
+      "bytes": 54037,
+      "files": 8
+    },
+    "py_site/win32ctypes/__pycache__": {
+      "bytes": 1727,
+      "files": 5
+    },
+    "py_site/_distutils_hack": {
+      "bytes": 18863,
+      "files": 4
+    },
+    "py_site/_distutils_hack/__pycache__": {
+      "bytes": 12019,
+      "files": 2
+    },
+    "py_site/_pyinstaller_hooks_contrib": {
+      "bytes": 1020406,
+      "files": 1419
+    },
+    "py_site/_pyinstaller_hooks_contrib/pre_find_module_path": {
+      "bytes": 659,
+      "files": 2
+    },
+    "py_site/_pyinstaller_hooks_contrib/pre_safe_import_module": {
+      "bytes": 6412,
+      "files": 6
+    },
+    "py_site/_pyinstaller_hooks_contrib/rthooks": {
+      "bytes": 36930,
+      "files": 30
+    },
+    "py_site/_pyinstaller_hooks_contrib/stdhooks": {
+      "bytes": 929939,
+      "files": 1368
+    },
+    "py_site/_pyinstaller_hooks_contrib/utils": {
+      "bytes": 39306,
+      "files": 8
+    },
+    "py_site/_pyinstaller_hooks_contrib/__pycache__": {
+      "bytes": 2884,
+      "files": 2
+    },
+    "py_site/__pycache__": {
+      "bytes": 306740,
+      "files": 2
+    },
+    "saves": {
+      "bytes": 1600,
+      "files": 2
+    },
+    "tmp": {
+      "bytes": 146661750,
+      "files": 8179
+    },
+    "tmp/mcp": {
+      "bytes": 142325997,
+      "files": 8156
+    },
+    "tmp/mcp/unreal-blender-mcp": {
+      "bytes": 3433783,
+      "files": 107
+    },
+    "tmp/mcp/venv": {
+      "bytes": 138852171,
+      "files": 8038
+    },
+    "tmp/plugins": {
+      "bytes": 4335753,
+      "files": 23
+    },
+    "tmp/plugins/blender_BoneAnimCopy": {
+      "bytes": 4334602,
+      "files": 20
+    },
+    "tools": {
+      "bytes": 507999770,
+      "files": 15578
+    },
+    "tools/kimodo": {
+      "bytes": 253003528,
+      "files": 15527
+    },
+    "tools/kimodo/.venv": {
+      "bytes": 172604945,
+      "files": 15176
+    },
+    "tools/kimodo/assets": {
+      "bytes": 13786897,
+      "files": 7
+    },
+    "tools/kimodo/benchmark": {
+      "bytes": 74668,
+      "files": 5
+    },
+    "tools/kimodo/docs": {
+      "bytes": 5805808,
+      "files": 81
+    },
+    "tools/kimodo/kimodo": {
+      "bytes": 60312278,
+      "files": 209
+    },
+    "tools/kimodo/MotionCorrection": {
+      "bytes": 350140,
+      "files": 35
+    },
+    "tools/kimodo-local": {
+      "bytes": 254803968,
+      "files": 1
+    },
+    "tools/kimodo-local/toolchain": {
+      "bytes": 254803968,
+      "files": 1
+    },
+    "ue5": {
+      "bytes": 574461145,
+      "files": 688
+    },
+    "ue5/reports": {
+      "bytes": 1184955,
+      "files": 7
+    },
+    "ue5/TreeCourt": {
+      "bytes": 573175217,
+      "files": 655
+    },
+    "ue5/TreeCourt/.codex": {
+      "bytes": 59,
+      "files": 1
+    },
+    "ue5/TreeCourt/.cursor": {
+      "bytes": 84,
+      "files": 1
+    },
+    "ue5/TreeCourt/.gemini": {
+      "bytes": 88,
+      "files": 1
+    },
+    "ue5/TreeCourt/.vscode": {
+      "bytes": 100,
+      "files": 1
+    },
+    "ue5/TreeCourt/Config": {
+      "bytes": 12832,
+      "files": 4
+    },
+    "ue5/TreeCourt/Content": {
+      "bytes": 560762939,
+      "files": 572
+    },
+    "ue5/TreeCourt/Intermediate": {
+      "bytes": 37513,
+      "files": 7
+    },
+    "ue5/TreeCourt/Saved": {
+      "bytes": 12360460,
+      "files": 65
+    },
+    "voice": {
+      "bytes": 12997155508,
+      "files": 43759
+    },
+    "voice/.venv": {
+      "bytes": 8348326500,
+      "files": 43690
+    },
+    "voice/.venv/Lib": {
+      "bytes": 8344185014,
+      "files": 43648
+    },
+    "voice/.venv/Scripts": {
+      "bytes": 4134450,
+      "files": 40
+    },
+    "voice/.venv/share": {
+      "bytes": 6659,
+      "files": 1
+    },
+    "voice/backups": {
+      "bytes": 102811409,
+      "files": 36
+    },
+    "voice/backups/20261020-094620": {
+      "bytes": 7018,
+      "files": 1
+    },
+    "voice/backups/20261020-094808": {
+      "bytes": 9788,
+      "files": 1
+    },
+    "voice/backups/20261020-095016": {
+      "bytes": 11068,
+      "files": 1
+    },
+    "voice/backups/20261021-174758": {
+      "bytes": 84788,
+      "files": 1
+    },
+    "voice/backups/20261021-184906": {
+      "bytes": 198739,
+      "files": 1
+    },
+    "voice/backups/20261021-215501": {
+      "bytes": 469285,
+      "files": 1
+    },
+    "voice/backups/20261022-214726": {
+      "bytes": 469285,
+      "files": 1
+    },
+    "voice/backups/20261022-222356": {
+      "bytes": 1152686,
+      "files": 1
+    },
+    "voice/backups/20261022-223101": {
+      "bytes": 1368264,
+      "files": 1
+    },
+    "voice/backups/20261023-011016": {
+      "bytes": 1649436,
+      "files": 1
+    },
+    "voice/backups/20261024-012830": {
+      "bytes": 2081636,
+      "files": 1
+    },
+    "voice/backups/20261024-024135": {
+      "bytes": 2275064,
+      "files": 1
+    },
+    "voice/backups/20261024-153736": {
+      "bytes": 2656161,
+      "files": 1
+    },
+    "voice/backups/20261024-153947": {
+      "bytes": 2656173,
+      "files": 1
+    },
+    "voice/backups/20261024-212642": {
+      "bytes": 3282032,
+      "files": 1
+    },
+    "voice/backups/20261024-214033": {
+      "bytes": 3292702,
+      "files": 1
+    },
+    "voice/backups/20261025-125353": {
+      "bytes": 3837299,
+      "files": 1
+    },
+    "voice/backups/20261025-130032": {
+      "bytes": 3848484,
+      "files": 1
+    },
+    "voice/backups/20261025-131635": {
+      "bytes": 3898292,
+      "files": 1
+    },
+    "voice/backups/20261025-132506": {
+      "bytes": 3911159,
+      "files": 1
+    },
+    "voice/backups/20261025-175205": {
+      "bytes": 4224440,
+      "files": 1
+    },
+    "voice/backups/20261025-182244": {
+      "bytes": 4236590,
+      "files": 1
+    },
+    "voice/backups/20261025-183908": {
+      "bytes": 4288756,
+      "files": 1
+    },
+    "voice/backups/20261025-184502": {
+      "bytes": 4300035,
+      "files": 1
+    },
+    "voice/backups/20261103-143609": {
+      "bytes": 5332766,
+      "files": 1
+    },
+    "voice/backups/20261103-144345": {
+      "bytes": 5347537,
+      "files": 1
+    },
+    "voice/backups/20261103-173322": {
+      "bytes": 5362862,
+      "files": 1
+    },
+    "voice/backups/20261103-180036": {
+      "bytes": 5378123,
+      "files": 1
+    },
+    "voice/backups/20261103-181917": {
+      "bytes": 5393713,
+      "files": 1
+    },
+    "voice/backups/20261103-223909": {
+      "bytes": 5408787,
+      "files": 1
+    },
+    "voice/backups/20261103-231945": {
+      "bytes": 5424144,
+      "files": 1
+    },
+    "voice/backups/20261103-233859": {
+      "bytes": 5439496,
+      "files": 1
+    },
+    "voice/backups/20261104-093129": {
+      "bytes": 5455559,
+      "files": 1
+    },
+    "voice/backups/integration-20261020-093338": {
+      "bytes": 59242,
+      "files": 3
+    },
+    "voice/models": {
+      "bytes": 4544230706,
+      "files": 13
+    },
+    "voice/models/Qwen3-TTS-12Hz-1.7B-Base": {
+      "bytes": 4544230706,
+      "files": 13
+    },
+    "voice/references": {
+      "bytes": 1761076,
+      "files": 9
+    },
+    "voice/__pycache__": {
+      "bytes": 11085,
+      "files": 3
+    },
+    "web": {
+      "bytes": 804717951,
+      "files": 15822
+    },
+    "web/.deps": {
+      "bytes": 393493961,
+      "files": 4509
+    },
+    "web/.deps/bin": {
+      "bytes": 744341,
+      "files": 6
+    },
+    "web/.deps/colorama": {
+      "bytes": 148275,
+      "files": 26
+    },
+    "web/.deps/colorama-0.4.6.dist-info": {
+      "bytes": 20932,
+      "files": 5
+    },
+    "web/.deps/cv2": {
+      "bytes": 117861236,
+      "files": 52
+    },
+    "web/.deps/fitz": {
+      "bytes": 2049,
+      "files": 6
+    },
+    "web/.deps/flatbuffers": {
+      "bytes": 217667,
+      "files": 20
+    },
+    "web/.deps/flatbuffers-25.12.19.dist-info": {
+      "bytes": 2871,
+      "files": 5
+    },
+    "web/.deps/google": {
+      "bytes": 2735915,
+      "files": 117
+    },
+    "web/.deps/networkx": {
+      "bytes": 16156853,
+      "files": 1181
+    },
+    "web/.deps/networkx-3.7.dist-info": {
+      "bytes": 111694,
+      "files": 7
+    },
+    "web/.deps/numpy": {
+      "bytes": 32570472,
+      "files": 1328
+    },
+    "web/.deps/numpy-2.5.4.dist-info": {
+      "bytes": 213093,
+      "files": 23
+    },
+    "web/.deps/numpy.libs": {
+      "bytes": 21164112,
+      "files": 2
+    },
+    "web/.deps/onnxruntime": {
+      "bytes": 47742742,
+      "files": 624
+    },
+    "web/.deps/onnxruntime-1.31.0.dist-info": {
+      "bytes": 66936,
+      "files": 6
+    },
+    "web/.deps/opencv_python-5.0.0.93.dist-info": {
+      "bytes": 208894,
+      "files": 7
+    },
+    "web/.deps/packaging": {
+      "bytes": 976580,
+      "files": 45
+    },
+    "web/.deps/packaging-26.3.dist-info": {
+      "bytes": 18926,
+      "files": 7
+    },
+    "web/.deps/PIL": {
+      "bytes": 16163281,
+      "files": 211
+    },
+    "web/.deps/pillow-13.0.0.dist-info": {
+      "bytes": 123943,
+      "files": 7
+    },
+    "web/.deps/protobuf-7.36.2.dist-info": {
+      "bytes": 11979,
+      "files": 5
+    },
+    "web/.deps/psutil": {
+      "bytes": 808382,
+      "files": 21
+    },
+    "web/.deps/psutil-7.2.2.dist-info": {
+      "bytes": 26204,
+      "files": 6
+    },
+    "web/.deps/pyclipper": {
+      "bytes": 224780,
+      "files": 5
+    },
+    "web/.deps/pyclipper-1.4.0.dist-info": {
+      "bytes": 10927,
+      "files": 6
+    },
+    "web/.deps/pymupdf": {
+      "bytes": 109179515,
+      "files": 225
+    },
+    "web/.deps/pymupdf-2.0.dist-info": {
+      "bytes": 76885,
+      "files": 8
+    },
+    "web/.deps/pymupdf4llm": {
+      "bytes": 1277650,
+      "files": 76
+    },
+    "web/.deps/pymupdf4llm-2.0.dist-info": {
+      "bytes": 744,
+      "files": 4
+    },
+    "web/.deps/pymupdf_layout-2.0.dist-info": {
+      "bytes": 764,
+      "files": 4
+    },
+    "web/.deps/pyyaml-6.0.3.dist-info": {
+      "bytes": 6320,
+      "files": 6
+    },
+    "web/.deps/rapidocr_onnxruntime": {
+      "bytes": 16387560,
+      "files": 44
+    },
+    "web/.deps/rapidocr_onnxruntime-1.4.4.dist-info": {
+      "bytes": 6057,
+      "files": 7
+    },
+    "web/.deps/shapely": {
+      "bytes": 2974278,
+      "files": 271
+    },
+    "web/.deps/shapely-2.2.0.dist-info": {
+      "bytes": 59330,
+      "files": 8
+    },
+    "web/.deps/shapely.libs": {
+      "bytes": 3686760,
+      "files": 3
+    },
+    "web/.deps/six-1.17.0.dist-info": {
+      "bytes": 3402,
+      "files": 6
+    },
+    "web/.deps/tabulate": {
+      "bytes": 210278,
+      "files": 2
+    },
+    "web/.deps/tabulate-0.10.0.dist-info": {
+      "bytes": 42820,
+      "files": 7
+    },
+    "web/.deps/tqdm": {
+      "bytes": 384516,
+      "files": 64
+    },
+    "web/.deps/tqdm-4.70.1.dist-info": {
+      "bytes": 64037,
+      "files": 7
+    },
+    "web/.deps/yaml": {
+      "bytes": 721647,
+      "files": 35
+    },
+    "web/.deps/_yaml": {
+      "bytes": 2267,
+      "files": 2
+    },
+    "web/.deps/__pycache__": {
+      "bytes": 41344,
+      "files": 1
+    },
+    "web/.runtime": {
+      "bytes": 74490311,
+      "files": 416
+    },
+    "web/.runtime/408-exam-browser": {
+      "bytes": 856428,
+      "files": 7
+    },
+    "web/.runtime/408-exam-qa": {
+      "bytes": 40960,
+      "files": 2
+    },
+    "web/.runtime/408-upstream-qa": {
+      "bytes": 40960,
+      "files": 2
+    },
+    "web/.runtime/all-course-voice-qa": {
+      "bytes": 40960,
+      "files": 2
+    },
+    "web/.runtime/animation-qa": {
+      "bytes": 28672,
+      "files": 1
+    },
+    "web/.runtime/backups": {
+      "bytes": 173913,
+      "files": 4
+    },
+    "web/.runtime/browser": {
+      "bytes": 1495711,
+      "files": 5
+    },
+    "web/.runtime/calculus-acceptance": {
+      "bytes": 49152,
+      "files": 2
+    },
+    "web/.runtime/calculus-browser": {
+      "bytes": 2801040,
+      "files": 11
+    },
+    "web/.runtime/calculus-qa": {
+      "bytes": 40960,
+      "files": 2
+    },
+    "web/.runtime/castor-material-review": {
+      "bytes": 7176482,
+      "files": 13
+    },
+    "web/.runtime/cet6-browser": {
+      "bytes": 808543,
+      "files": 8
+    },
+    "web/.runtime/cet6-qa": {
+      "bytes": 40960,
+      "files": 2
+    },
+    "web/.runtime/classroom-layout": {
+      "bytes": 2562210,
+      "files": 8
+    },
+    "web/.runtime/classroom-style": {
+      "bytes": 5615149,
+      "files": 16
+    },
+    "web/.runtime/companion-layout": {
+      "bytes": 1494577,
+      "files": 2
+    },
+    "web/.runtime/companion-qa-data": {
+      "bytes": 40960,
+      "files": 2
+    },
+    "web/.runtime/companion-review": {
+      "bytes": 7630160,
+      "files": 11
+    },
+    "web/.runtime/cs408-qa": {
+      "bytes": 28672,
+      "files": 1
+    },
+    "web/.runtime/curriculum-v2-qa": {
+      "bytes": 38808,
+      "files": 3
+    },
+    "web/.runtime/elysia-review": {
+      "bytes": 1146416,
+      "files": 2
+    },
+    "web/.runtime/exams-qa": {
+      "bytes": 40960,
+      "files": 2
+    },
+    "web/.runtime/focus-study": {
+      "bytes": 891014,
+      "files": 1
+    },
+    "web/.runtime/game": {
+      "bytes": 990852,
+      "files": 5
+    },
+    "web/.runtime/hub-browser": {
+      "bytes": 16848102,
+      "files": 11
+    },
+    "web/.runtime/hub-qa": {
+      "bytes": 40960,
+      "files": 2
+    },
+    "web/.runtime/linear-browser": {
+      "bytes": 1033354,
+      "files": 7
+    },
+    "web/.runtime/linear-qa": {
+      "bytes": 40960,
+      "files": 2
+    },
+    "web/.runtime/network-course-qa": {
+      "bytes": 40960,
+      "files": 2
+    },
+    "web/.runtime/paired-board": {
+      "bytes": 231017,
+      "files": 1
+    },
+    "web/.runtime/phainon-film-qa": {
+      "bytes": 40960,
+      "files": 2
+    },
+    "web/.runtime/phainon-film-v2-qa": {
+      "bytes": 40960,
+      "files": 2
+    },
+    "web/.runtime/postgrad-browser": {
+      "bytes": 2407038,
+      "files": 7
+    },
+    "web/.runtime/postgrad-exams-browser": {
+      "bytes": 767653,
+      "files": 10
+    },
+    "web/.runtime/postgrad-exams-qa": {
+      "bytes": 40960,
+      "files": 2
+    },
+    "web/.runtime/postgrad-qa": {
+      "bytes": 40960,
+      "files": 2
+    },
+    "web/.runtime/probability-browser": {
+      "bytes": 3754134,
+      "files": 8
+    },
+    "web/.runtime/probability-qa": {
+      "bytes": 40960,
+      "files": 2
+    },
+    "web/.runtime/reviewed-calculus-qa": {
+      "bytes": 2868736,
+      "files": 12
+    },
+    "web/.runtime/romance-v2-qa": {
+      "bytes": 118784,
+      "files": 2
+    },
+    "web/.runtime/skills-paired-qa": {
+      "bytes": 28672,
+      "files": 1
+    },
+    "web/.runtime/social-acceptance": {
+      "bytes": 57441,
+      "files": 3
+    },
+    "web/.runtime/social-browser": {
+      "bytes": 3140039,
+      "files": 13
+    },
+    "web/.runtime/story-qa": {
+      "bytes": 28672,
+      "files": 1
+    },
+    "web/.runtime/study-hand-qa-data": {
+      "bytes": 40960,
+      "files": 2
+    },
+    "web/.runtime/study-wallpaper": {
+      "bytes": 4032498,
+      "files": 5
+    },
+    "web/.runtime/teaching-layout": {
+      "bytes": 419834,
+      "files": 3
+    },
+    "web/.runtime/textbook-qa": {
+      "bytes": 49152,
+      "files": 2
+    },
+    "web/.runtime/tmphtkk8y6x": {
+      "bytes": 12288,
+      "files": 1
+    },
+    "web/.runtime/treecourt-audio-3l6swy84": {
+      "bytes": 207,
+      "files": 2
+    },
+    "web/.runtime/treecourt-test-d20nnk4y": {
+      "bytes": 28672,
+      "files": 1
+    },
+    "web/.runtime/treecourt-test-n38rs6kx": {
+      "bytes": 40960,
+      "files": 2
+    },
+    "web/.runtime/treecourt-test-scl556ad": {
+      "bytes": 28672,
+      "files": 1
+    },
+    "web/.runtime/treecourt-test-v4vmsny9": {
+      "bytes": 40960,
+      "files": 2
+    },
+    "web/.runtime/treecourt-test-vd7atr2o": {
+      "bytes": 28672,
+      "files": 1
+    },
+    "web/.runtime/treecourt-test-yzlwphuv": {
+      "bytes": 40960,
+      "files": 2
+    },
+    "web/.runtime/treecourt-voice-test-ndmecj38": {
+      "bytes": 28672,
+      "files": 1
+    },
+    "web/.runtime/vocabulary-classroom-qa": {
+      "bytes": 40960,
+      "files": 2
+    },
+    "web/.runtime/vocabulary-qa": {
+      "bytes": 40960,
+      "files": 2
+    },
+    "web/.runtime/voice-preview": {
+      "bytes": 28672,
+      "files": 1
+    },
+    "web/.runtime/walk-v3-qa": {
+      "bytes": 28672,
+      "files": 1
+    },
+    "web/.venv": {
+      "bytes": 290957997,
+      "files": 9557
+    },
+    "web/.venv/Lib": {
+      "bytes": 287686230,
+      "files": 9531
+    },
+    "web/.venv/Scripts": {
+      "bytes": 3271354,
+      "files": 25
+    },
+    "web/backend": {
+      "bytes": 198001,
+      "files": 28
+    },
+    "web/backend/__pycache__": {
+      "bytes": 112971,
+      "files": 13
+    },
+    "web/frontend": {
+      "bytes": 3483870,
+      "files": 49
+    },
+    "web/frontend/draco": {
+      "bytes": 763341,
+      "files": 3
+    },
+    "web/renderer": {
+      "bytes": 41625624,
+      "files": 1147
+    },
+    "web/renderer/node_modules": {
+      "bytes": 41522178,
+      "files": 1131
+    },
+    "web/tests": {
+      "bytes": 455862,
+      "files": 110
+    },
+    "web/tests/__pycache__": {
+      "bytes": 116317,
+      "files": 10
+    },
+    "哀丽秘榭的麦田_by_小二今天吃啥啊_a75da35763d9f35621c965f43c74fa09": {
+      "bytes": 79675635,
+      "files": 4
+    },
+    "四六级真题": {
+      "bytes": 578112035,
+      "files": 198
+    },
+    "数据": {
+      "bytes": 142457,
+      "files": 11
+    },
+    "数据/chapters": {
+      "bytes": 142457,
+      "files": 11
+    },
+    "星穹铁道—白厄_by_崩坏：星穹铁道_3b1fc8e379df673b244a81553c415750": {
+      "bytes": 215878136,
+      "files": 98
+    },
+    "星穹铁道—白厄_by_崩坏：星穹铁道_3b1fc8e379df673b244a81553c415750/星穹铁道—白厄_by_崩坏：星穹铁道_3b1fc8e379df673b244a81553c415750": {
+      "bytes": 107939068,
+      "files": 49
+    },
+    "星穹铁道—白厄_by_崩坏：星穹铁道_3b1fc8e379df673b244a81553c415750/星穹铁道—白厄_by_崩坏：星穹铁道_3b1fc8e379df673b244a81553c415750/星穹铁道—白厄（变身）": {
+      "bytes": 40294261,
+      "files": 25
+    },
+    "星穹铁道—白厄_by_崩坏：星穹铁道_3b1fc8e379df673b244a81553c415750/星穹铁道—白厄_by_崩坏：星穹铁道_3b1fc8e379df673b244a81553c415750/星穹铁道—白厄（含武器）": {
+      "bytes": 21934257,
+      "files": 23
+    },
+    "星穹铁道—白厄_by_崩坏：星穹铁道_3b1fc8e379df673b244a81553c415750/星穹铁道—白厄（变身）": {
+      "bytes": 40294261,
+      "files": 25
+    },
+    "星穹铁道—白厄_by_崩坏：星穹铁道_3b1fc8e379df673b244a81553c415750/星穹铁道—白厄（含武器）": {
+      "bytes": 21934257,
+      "files": 23
+    },
+    "星穹铁道—遐蝶（含武器）_by_崩坏：星穹铁道_7a0b8ffe5225310880bf35c5b7907c69": {
+      "bytes": 30744730,
+      "files": 26
+    },
+    "星穹铁道—那刻夏（含武器）_by_崩坏：星穹铁道_7e5f46589002ced9199be5c5ae8da88f": {
+      "bytes": 131432153,
+      "files": 72
+    },
+    "星穹铁道—那刻夏（含武器）_by_崩坏：星穹铁道_7e5f46589002ced9199be5c5ae8da88f/星穹铁道—白厄_by_崩坏：星穹铁道_3b1fc8e379df673b244a81553c415750": {
+      "bytes": 107939068,
+      "files": 49
+    },
+    "星穹铁道—那刻夏（含武器）_by_崩坏：星穹铁道_7e5f46589002ced9199be5c5ae8da88f/星穹铁道—白厄_by_崩坏：星穹铁道_3b1fc8e379df673b244a81553c415750/星穹铁道—白厄（变身）": {
+      "bytes": 40294261,
+      "files": 25
+    },
+    "星穹铁道—那刻夏（含武器）_by_崩坏：星穹铁道_7e5f46589002ced9199be5c5ae8da88f/星穹铁道—白厄_by_崩坏：星穹铁道_3b1fc8e379df673b244a81553c415750/星穹铁道—白厄（含武器）": {
+      "bytes": 21934257,
+      "files": 23
+    },
+    "星穹铁道—风堇（含武器）_by_崩坏：星穹铁道_f83f23e3cbce69f9982d3589847ccf01 (2)": {
+      "bytes": 28537198,
+      "files": 40
+    },
+    "星穹铁道—风堇（含武器）_by_崩坏：星穹铁道_f83f23e3cbce69f9982d3589847ccf01 (2)/小伊卡": {
+      "bytes": 5769227,
+      "files": 14
+    },
+    "游戏": {
+      "bytes": 6692,
+      "files": 1
+    }
+  }
+}

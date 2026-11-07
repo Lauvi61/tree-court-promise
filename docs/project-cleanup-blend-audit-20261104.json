@@ -1,0 +1,181 @@
+{
+  "passed": true,
+  "blends": [
+    {
+      "blend": "blender/animated/anaxa.blend",
+      "external_dependencies": 7,
+      "deleted_dependencies": []
+    },
+    {
+      "blend": "blender/animated/castor.blend",
+      "external_dependencies": 10,
+      "deleted_dependencies": []
+    },
+    {
+      "blend": "blender/animated/hyacine.blend",
+      "external_dependencies": 7,
+      "deleted_dependencies": []
+    },
+    {
+      "blend": "blender/animated/phainon.blend",
+      "external_dependencies": 8,
+      "deleted_dependencies": []
+    },
+    {
+      "blend": "blender/build/cinematic-classroom/story_classroom.blend",
+      "external_dependencies": 0,
+      "deleted_dependencies": []
+    },
+    {
+      "blend": "blender/build/classroom-paired/story_classroom.blend",
+      "external_dependencies": 0,
+      "deleted_dependencies": []
+    },
+    {
+      "blend": "blender/build/classroom-paired/characters/castor.blend",
+      "external_dependencies": 18,
+      "deleted_dependencies": []
+    },
+    {
+      "blend": "blender/build/classroom-paired/characters/phainon.blend",
+      "external_dependencies": 12,
+      "deleted_dependencies": []
+    },
+    {
+      "blend": "blender/build/companion-films/anaxa-rain/anaxa_outing.blend",
+      "external_dependencies": 7,
+      "deleted_dependencies": []
+    },
+    {
+      "blend": "blender/build/companion-films/castor-dusk/castor_outing.blend",
+      "external_dependencies": 10,
+      "deleted_dependencies": []
+    },
+    {
+      "blend": "blender/build/companion-films/hyacine-tea/hyacine_outing.blend",
+      "external_dependencies": 7,
+      "deleted_dependencies": []
+    },
+    {
+      "blend": "blender/build/outings/courtyard.blend",
+      "external_dependencies": 0,
+      "deleted_dependencies": []
+    },
+    {
+      "blend": "blender/build/outings/grove.blend",
+      "external_dependencies": 0,
+      "deleted_dependencies": []
+    },
+    {
+      "blend": "blender/build/outings/terrace.blend",
+      "external_dependencies": 0,
+      "deleted_dependencies": []
+    },
+    {
+      "blend": "blender/build/outings/wheat.blend",
+      "external_dependencies": 0,
+      "deleted_dependencies": []
+    },
+    {
+      "blend": "blender/build/phainon-elysia/phainon_wheat_film.blend",
+      "external_dependencies": 8,
+      "deleted_dependencies": []
+    },
+    {
+      "blend": "blender/build/phainon-elysia/responses/name-call_you/response.blend",
+      "external_dependencies": 8,
+      "deleted_dependencies": []
+    },
+    {
+      "blend": "blender/build/phainon-elysia/responses/name-stay/response.blend",
+      "external_dependencies": 8,
+      "deleted_dependencies": []
+    },
+    {
+      "blend": "blender/build/phainon-elysia/responses/waymark-blank/response.blend",
+      "external_dependencies": 8,
+      "deleted_dependencies": []
+    },
+    {
+      "blend": "blender/build/phainon-elysia/responses/waymark-next_place/response.blend",
+      "external_dependencies": 8,
+      "deleted_dependencies": []
+    },
+    {
+      "blend": "blender/build/phainon-film-v3/phainon_wheat_film.blend",
+      "external_dependencies": 8,
+      "deleted_dependencies": []
+    },
+    {
+      "blend": "blender/build/study-companions/anaxa/anaxa_study.blend",
+      "external_dependencies": 7,
+      "deleted_dependencies": []
+    },
+    {
+      "blend": "blender/build/study-companions/castor/castor_study.blend",
+      "external_dependencies": 10,
+      "deleted_dependencies": []
+    },
+    {
+      "blend": "blender/build/study-companions/hyacine/hyacine_study.blend",
+      "external_dependencies": 7,
+      "deleted_dependencies": []
+    },
+    {
+      "blend": "blender/build/study-companions/phainon/phainon_study.blend",
+      "external_dependencies": 8,
+      "deleted_dependencies": []
+    },
+    {
+      "blend": "blender/build/study-room/study_room.blend",
+      "external_dependencies": 0,
+      "deleted_dependencies": []
+    },
+    {
+      "blend": "blender/generated/anaxa.blend",
+      "external_dependencies": 7,
+      "deleted_dependencies": []
+    },
+    {
+      "blend": "blender/generated/castor.blend",
+      "external_dependencies": 10,
+      "deleted_dependencies": []
+    },
+    {
+      "blend": "blender/generated/hyacine.blend",
+      "external_dependencies": 7,
+      "deleted_dependencies": []
+    },
+    {
+      "blend": "blender/generated/phainon.blend",
+      "external_dependencies": 8,
+      "deleted_dependencies": []
+    },
+    {
+      "blend": "blender/source/phainon-wheat-base.blend",
+      "external_dependencies": 8,
+      "deleted_dependencies": []
+    },
+    {
+      "blend": "blender/walking/anaxa.blend",
+      "external_dependencies": 7,
+      "deleted_dependencies": []
+    },
+    {
+      "blend": "blender/walking/castor.blend",
+      "external_dependencies": 10,
+      "deleted_dependencies": []
+    },
+    {
+      "blend": "blender/walking/hyacine.blend",
+      "external_dependencies": 7,
+      "deleted_dependencies": []
+    },
+    {
+      "blend": "blender/walking/phainon.blend",
+      "external_dependencies": 8,
+      "deleted_dependencies": []
+    }
+  ],
+  "errors": []
+}

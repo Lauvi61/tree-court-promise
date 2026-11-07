@@ -1,0 +1,4802 @@
+[
+ {
+  "word": "abandon",
+  "meaning": "放弃；抛弃",
+  "clues": [
+   {
+    "text": "谐音「阿板凳」：板凳被丢在角落 → 放弃",
+    "meaning": "放弃；抛弃",
+    "correct": true
+   },
+   {
+    "text": "谐音乱猜：听着像在念「abundant」→ 丰富的；大量的？",
+    "meaning": "丰富的；大量的",
+    "correct": false
+   },
+   {
+    "text": "词根误判：拼写看着像「能力；才能」那一族？",
+    "meaning": "能力；才能",
+    "correct": false
+   }
+  ],
+  "example": "Never abandon hope even in darkness.",
+  "tip": "谐音「阿板凳」：板凳被丢在角落 → 放弃",
+  "chapter": 1
+ },
+ {
+  "word": "ability",
+  "meaning": "能力；才能",
+  "clues": [
+   {
+    "text": "词根误判：拼写看着像「达成；实现」那一族？",
+    "meaning": "达成；实现",
+    "correct": false
+   },
+   {
+    "text": "词根 abil(能)+ity → able 的名词 → 能力",
+    "meaning": "能力；才能",
+    "correct": true
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「指控；指责」的场合？",
+    "meaning": "指控；指责",
+    "correct": false
+   }
+  ],
+  "example": "She has the ability to learn quickly.",
+  "tip": "词根 abil(能)+ity → able 的名词 → 能力",
+  "chapter": 1
+ },
+ {
+  "word": "absorb",
+  "meaning": "吸收；使专心",
+  "clues": [
+   {
+    "text": "语境陷阱：似乎有人把它用在「指控；指责」的场合？",
+    "meaning": "指控；指责",
+    "correct": false
+   },
+   {
+    "text": "模糊印象：好像和「access」（进入；通道）差不多？",
+    "meaning": "进入；通道",
+    "correct": false
+   },
+   {
+    "text": "ab(去)+sorb(吸) → 吸进去，像海绵吸水",
+    "meaning": "吸收；使专心",
+    "correct": true
+   }
+  ],
+  "example": "Plants absorb sunlight for energy.",
+  "tip": "ab(去)+sorb(吸) → 吸进去，像海绵吸水",
+  "chapter": 1
+ },
+ {
+  "word": "abstract",
+  "meaning": "抽象的",
+  "clues": [
+   {
+    "text": "abs(分离)+tract(拉) → 从现实拉出来 → 抽象",
+    "meaning": "抽象的",
+    "correct": true
+   },
+   {
+    "text": "模糊印象：好像和「abundant」（丰富的；大量的）差不多？",
+    "meaning": "丰富的；大量的",
+    "correct": false
+   },
+   {
+    "text": "谐音乱猜：听着像在念「affect」→ 影响？",
+    "meaning": "影响",
+    "correct": false
+   }
+  ],
+  "example": "The painting is too abstract for me.",
+  "tip": "abs(分离)+tract(拉) → 从现实拉出来 → 抽象",
+  "chapter": 1
+ },
+ {
+  "word": "abundant",
+  "meaning": "丰富的；大量的",
+  "clues": [
+   {
+    "text": "谐音乱猜：听着像在念「absorb」→ 吸收；使专心？",
+    "meaning": "吸收；使专心",
+    "correct": false
+   },
+   {
+    "text": "谐音「啊，板凳多」→ 数量多 → 丰富",
+    "meaning": "丰富的；大量的",
+    "correct": true
+   },
+   {
+    "text": "词根误判：拼写看着像「承认；准许进入」那一族？",
+    "meaning": "承认；准许进入",
+    "correct": false
+   }
+  ],
+  "example": "The forest has abundant resources.",
+  "tip": "谐音「啊，板凳多」→ 数量多 → 丰富",
+  "chapter": 1
+ },
+ {
+  "word": "access",
+  "meaning": "进入；通道",
+  "clues": [
+   {
+    "text": "词根误判：拼写看着像「能力；才能」那一族？",
+    "meaning": "能力；才能",
+    "correct": false
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「放弃；抛弃」的场合？",
+    "meaning": "放弃；抛弃",
+    "correct": false
+   },
+   {
+    "text": "ac(向)+cess(走) → 走向 → 进入",
+    "meaning": "进入；通道",
+    "correct": true
+   }
+  ],
+  "example": "Students have free access to the library.",
+  "tip": "ac(向)+cess(走) → 走向 → 进入",
+  "chapter": 1
+ },
+ {
+  "word": "accompany",
+  "meaning": "陪伴；伴随",
+  "clues": [
+   {
+    "text": "ac+company(伙伴) → 成为伙伴 → 陪伴",
+    "meaning": "陪伴；伴随",
+    "correct": true
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「吸收；使专心」的场合？",
+    "meaning": "吸收；使专心",
+    "correct": false
+   },
+   {
+    "text": "模糊印象：好像和「accurate」（精确的）差不多？",
+    "meaning": "精确的",
+    "correct": false
+   }
+  ],
+  "example": "Her friends accompany her to class.",
+  "tip": "ac+company(伙伴) → 成为伙伴 → 陪伴",
+  "chapter": 1
+ },
+ {
+  "word": "accurate",
+  "meaning": "精确的",
+  "clues": [
+   {
+    "text": "模糊印象：好像和「accuse」（指控；指责）差不多？",
+    "meaning": "指控；指责",
+    "correct": false
+   },
+   {
+    "text": "ac+cur(关心)+ate → 事事上心 → 精确",
+    "meaning": "精确的",
+    "correct": true
+   },
+   {
+    "text": "谐音乱猜：听着像在念「adventure」→ 冒险；奇遇？",
+    "meaning": "冒险；奇遇",
+    "correct": false
+   }
+  ],
+  "example": "The clock in the hall is very accurate.",
+  "tip": "ac+cur(关心)+ate → 事事上心 → 精确",
+  "chapter": 1
+ },
+ {
+  "word": "accuse",
+  "meaning": "指控；指责",
+  "clues": [
+   {
+    "text": "谐音乱猜：听着像在念「abandon」→ 放弃；抛弃？",
+    "meaning": "放弃；抛弃",
+    "correct": false
+   },
+   {
+    "text": "词根误判：拼写看着像「影响」那一族？",
+    "meaning": "影响",
+    "correct": false
+   },
+   {
+    "text": "ac+cuse(=cause 理由) → 拿理由质问 → 指控",
+    "meaning": "指控；指责",
+    "correct": true
+   }
+  ],
+  "example": "They accuse him of cheating.",
+  "tip": "ac+cuse(=cause 理由) → 拿理由质问 → 指控",
+  "chapter": 1
+ },
+ {
+  "word": "achieve",
+  "meaning": "达成；实现",
+  "clues": [
+   {
+    "text": "a+chieve(=chief 头) → 到达顶点 → 达成",
+    "meaning": "达成；实现",
+    "correct": true
+   },
+   {
+    "text": "词根误判：拼写看着像「陪伴；伴随」那一族？",
+    "meaning": "陪伴；伴随",
+    "correct": false
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「影响」的场合？",
+    "meaning": "影响",
+    "correct": false
+   }
+  ],
+  "example": "Work hard and you will achieve your goal.",
+  "tip": "a+chieve(=chief 头) → 到达顶点 → 达成",
+  "chapter": 1
+ },
+ {
+  "word": "acquire",
+  "meaning": "获得；学到",
+  "clues": [
+   {
+    "text": "语境陷阱：似乎有人把它用在「承认；准许进入」的场合？",
+    "meaning": "承认；准许进入",
+    "correct": false
+   },
+   {
+    "text": "ac+quire(寻求) → 寻求到手 → 获得",
+    "meaning": "获得；学到",
+    "correct": true
+   },
+   {
+    "text": "模糊印象：好像和「accurate」（精确的）差不多？",
+    "meaning": "精确的",
+    "correct": false
+   }
+  ],
+  "example": "He acquired a new skill this year.",
+  "tip": "ac+quire(寻求) → 寻求到手 → 获得",
+  "chapter": 1
+ },
+ {
+  "word": "adapt",
+  "meaning": "适应；改编",
+  "clues": [
+   {
+    "text": "模糊印象：好像和「adopt」（采纳；收养）差不多？",
+    "meaning": "采纳；收养",
+    "correct": false
+   },
+   {
+    "text": "谐音乱猜：听着像在念「accuse」→ 指控；指责？",
+    "meaning": "指控；指责",
+    "correct": false
+   },
+   {
+    "text": "ad+apt(合适) → 使自己合适 → 适应",
+    "meaning": "适应；改编",
+    "correct": true
+   }
+  ],
+  "example": "We must adapt to the new school life.",
+  "tip": "ad+apt(合适) → 使自己合适 → 适应",
+  "chapter": 1
+ },
+ {
+  "word": "adjust",
+  "meaning": "调整；校准",
+  "clues": [
+   {
+    "text": "ad+just(正好) → 弄到正好 → 调整",
+    "meaning": "调整；校准",
+    "correct": true
+   },
+   {
+    "text": "谐音乱猜：听着像在念「abandon」→ 放弃；抛弃？",
+    "meaning": "放弃；抛弃",
+    "correct": false
+   },
+   {
+    "text": "词根误判：拼写看着像「进入；通道」那一族？",
+    "meaning": "进入；通道",
+    "correct": false
+   }
+  ],
+  "example": "Please adjust the mirror before driving.",
+  "tip": "ad+just(正好) → 弄到正好 → 调整",
+  "chapter": 1
+ },
+ {
+  "word": "admire",
+  "meaning": "钦佩；欣赏",
+  "clues": [
+   {
+    "text": "词根误判：拼写看着像「承认；准许进入」那一族？",
+    "meaning": "承认；准许进入",
+    "correct": false
+   },
+   {
+    "text": "ad+mire(惊奇地看) → 钦佩",
+    "meaning": "钦佩；欣赏",
+    "correct": true
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「获得；学到」的场合？",
+    "meaning": "获得；学到",
+    "correct": false
+   }
+  ],
+  "example": "I admire her courage deeply.",
+  "tip": "ad+mire(惊奇地看) → 钦佩",
+  "chapter": 1
+ },
+ {
+  "word": "admit",
+  "meaning": "承认；准许进入",
+  "clues": [
+   {
+    "text": "语境陷阱：似乎有人把它用在「指控；指责」的场合？",
+    "meaning": "指控；指责",
+    "correct": false
+   },
+   {
+    "text": "模糊印象：好像和「abundant」（丰富的；大量的）差不多？",
+    "meaning": "丰富的；大量的",
+    "correct": false
+   },
+   {
+    "text": "ad+mit(送) → 把心里话送出去 → 承认",
+    "meaning": "承认；准许进入",
+    "correct": true
+   }
+  ],
+  "example": "He admitted his mistake in class.",
+  "tip": "ad+mit(送) → 把心里话送出去 → 承认",
+  "chapter": 1
+ },
+ {
+  "word": "adopt",
+  "meaning": "采纳；收养",
+  "clues": [
+   {
+    "text": "ad+opt(选择) → 选过来 → 采纳",
+    "meaning": "采纳；收养",
+    "correct": true
+   },
+   {
+    "text": "模糊印象：好像和「accompany」（陪伴；伴随）差不多？",
+    "meaning": "陪伴；伴随",
+    "correct": false
+   },
+   {
+    "text": "谐音乱猜：听着像在念「acquire」→ 获得；学到？",
+    "meaning": "获得；学到",
+    "correct": false
+   }
+  ],
+  "example": "They decided to adopt a new plan.",
+  "tip": "ad+opt(选择) → 选过来 → 采纳",
+  "chapter": 1
+ },
+ {
+  "word": "advance",
+  "meaning": "前进；进展",
+  "clues": [
+   {
+    "text": "谐音乱猜：听着像在念「abstract」→ 抽象的？",
+    "meaning": "抽象的",
+    "correct": false
+   },
+   {
+    "text": "ad+vance(前) → 向前推进",
+    "meaning": "前进；进展",
+    "correct": true
+   },
+   {
+    "text": "词根误判：拼写看着像「吸收；使专心」那一族？",
+    "meaning": "吸收；使专心",
+    "correct": false
+   }
+  ],
+  "example": "Technology continues to advance.",
+  "tip": "ad+vance(前) → 向前推进",
+  "chapter": 1
+ },
+ {
+  "word": "adventure",
+  "meaning": "冒险；奇遇",
+  "clues": [
+   {
+    "text": "词根误判：拼写看着像「调整；校准」那一族？",
+    "meaning": "调整；校准",
+    "correct": false
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「抽象的」的场合？",
+    "meaning": "抽象的",
+    "correct": false
+   },
+   {
+    "text": "ad+vent(来) → 未知之事来临 → 冒险",
+    "meaning": "冒险；奇遇",
+    "correct": true
+   }
+  ],
+  "example": "The trip was a great adventure.",
+  "tip": "ad+vent(来) → 未知之事来临 → 冒险",
+  "chapter": 1
+ },
+ {
+  "word": "affect",
+  "meaning": "影响",
+  "clues": [
+   {
+    "text": "af+fect(做) → 对它做了点什么 → 影响",
+    "meaning": "影响",
+    "correct": true
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「适应；改编」的场合？",
+    "meaning": "适应；改编",
+    "correct": false
+   },
+   {
+    "text": "模糊印象：好像和「afford」（负担得起）差不多？",
+    "meaning": "负担得起",
+    "correct": false
+   }
+  ],
+  "example": "The weather affects our mood.",
+  "tip": "af+fect(做) → 对它做了点什么 → 影响",
+  "chapter": 1
+ },
+ {
+  "word": "afford",
+  "meaning": "负担得起",
+  "clues": [
+   {
+    "text": "模糊印象：好像和「accuse」（指控；指责）差不多？",
+    "meaning": "指控；指责",
+    "correct": false
+   },
+   {
+    "text": "af+ford(福特车) → 买得起福特 → 负担得起",
+    "meaning": "负担得起",
+    "correct": true
+   },
+   {
+    "text": "谐音乱猜：听着像在念「ability」→ 能力；才能？",
+    "meaning": "能力；才能",
+    "correct": false
+   }
+  ],
+  "example": "I can't afford such an expensive book.",
+  "tip": "af+ford(福特车) → 买得起福特 → 负担得起",
+  "chapter": 1
+ },
+ {
+  "word": "agenda",
+  "meaning": "议程；日程",
+  "clues": [
+   {
+    "text": "谐音乱猜：听着像在念「appropriate」→ 合适的；恰当的？",
+    "meaning": "合适的；恰当的",
+    "correct": false
+   },
+   {
+    "text": "词根误判：拼写看着像「逮捕；阻止」那一族？",
+    "meaning": "逮捕；阻止",
+    "correct": false
+   },
+   {
+    "text": "ag(做)+enda → 要做之事 → 议程",
+    "meaning": "议程；日程",
+    "correct": true
+   }
+  ],
+  "example": "The first item on the agenda is homework.",
+  "tip": "ag(做)+enda → 要做之事 → 议程",
+  "chapter": 2
+ },
+ {
+  "word": "alarm",
+  "meaning": "警报；闹钟",
+  "clues": [
+   {
+    "text": "谐音「啊！狼！」→ 一喊狼来了 → 警报",
+    "meaning": "警报；闹钟",
+    "correct": true
+   },
+   {
+    "text": "词根误判：拼写看着像「雄心；抱负」那一族？",
+    "meaning": "雄心；抱负",
+    "correct": false
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「任命；约定」的场合？",
+    "meaning": "任命；约定",
+    "correct": false
+   }
+  ],
+  "example": "The alarm rang at six this morning.",
+  "tip": "谐音「啊！狼！」→ 一喊狼来了 → 警报",
+  "chapter": 2
+ },
+ {
+  "word": "allocate",
+  "meaning": "分配；划拨",
+  "clues": [
+   {
+    "text": "语境陷阱：似乎有人把它用在「使惊奇」的场合？",
+    "meaning": "使惊奇",
+    "correct": false
+   },
+   {
+    "text": "al+loc(地方)+ate → 分到各处 → 分配",
+    "meaning": "分配；划拨",
+    "correct": true
+   },
+   {
+    "text": "模糊印象：好像和「arrest」（逮捕；阻止）差不多？",
+    "meaning": "逮捕；阻止",
+    "correct": false
+   }
+  ],
+  "example": "The school will allocate funds to clubs.",
+  "tip": "al+loc(地方)+ate → 分到各处 → 分配",
+  "chapter": 2
+ },
+ {
+  "word": "amaze",
+  "meaning": "使惊奇",
+  "clues": [
+   {
+    "text": "模糊印象：好像和「apparent」（明显的；表面的）差不多？",
+    "meaning": "明显的；表面的",
+    "correct": false
+   },
+   {
+    "text": "谐音乱猜：听着像在念「apply」→ 申请；应用？",
+    "meaning": "申请；应用",
+    "correct": false
+   },
+   {
+    "text": "谐音「啊，美哉」→ 惊叹",
+    "meaning": "使惊奇",
+    "correct": true
+   }
+  ],
+  "example": "The view from the tower amazed us.",
+  "tip": "谐音「啊，美哉」→ 惊叹",
+  "chapter": 2
+ },
+ {
+  "word": "ambition",
+  "meaning": "雄心；抱负",
+  "clues": [
+   {
+    "text": "谐音「俺必胜」→ 雄心",
+    "meaning": "雄心；抱负",
+    "correct": true
+   },
+   {
+    "text": "谐音乱猜：听着像在念「aspect」→ 方面；外观？",
+    "meaning": "方面；外观",
+    "correct": false
+   },
+   {
+    "text": "词根误判：拼写看着像「宣布；通告」那一族？",
+    "meaning": "宣布；通告",
+    "correct": false
+   }
+  ],
+  "example": "Her ambition is to become a doctor.",
+  "tip": "谐音「俺必胜」→ 雄心",
+  "chapter": 2
+ },
+ {
+  "word": "analyze",
+  "meaning": "分析",
+  "clues": [
+   {
+    "text": "词根误判：拼写看着像「分配；划拨」那一族？",
+    "meaning": "分配；划拨",
+    "correct": false
+   },
+   {
+    "text": "ana(分开)+lyze(松解) → 拆开研究 → 分析",
+    "meaning": "分析",
+    "correct": true
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「警报；闹钟」的场合？",
+    "meaning": "警报；闹钟",
+    "correct": false
+   }
+  ],
+  "example": "We analyze the data carefully.",
+  "tip": "ana(分开)+lyze(松解) → 拆开研究 → 分析",
+  "chapter": 2
+ },
+ {
+  "word": "ancient",
+  "meaning": "古代的；古老的",
+  "clues": [
+   {
+    "text": "语境陷阱：似乎有人把它用在「每年的；年度的」的场合？",
+    "meaning": "每年的；年度的",
+    "correct": false
+   },
+   {
+    "text": "模糊印象：好像和「apparent」（明显的；表面的）差不多？",
+    "meaning": "明显的；表面的",
+    "correct": false
+   },
+   {
+    "text": "谐音「安神的」→ 古庙里的安神香 → 古代",
+    "meaning": "古代的；古老的",
+    "correct": true
+   }
+  ],
+  "example": "This is an ancient temple.",
+  "tip": "谐音「安神的」→ 古庙里的安神香 → 古代",
+  "chapter": 2
+ },
+ {
+  "word": "announce",
+  "meaning": "宣布；通告",
+  "clues": [
+   {
+    "text": "an+nounce(报告) → 向外报告 → 宣布",
+    "meaning": "宣布；通告",
+    "correct": true
+   },
+   {
+    "text": "模糊印象：好像和「allocate」（分配；划拨）差不多？",
+    "meaning": "分配；划拨",
+    "correct": false
+   },
+   {
+    "text": "谐音乱猜：听着像在念「annual」→ 每年的；年度的？",
+    "meaning": "每年的；年度的",
+    "correct": false
+   }
+  ],
+  "example": "The teacher announced the exam date.",
+  "tip": "an+nounce(报告) → 向外报告 → 宣布",
+  "chapter": 2
+ },
+ {
+  "word": "annual",
+  "meaning": "每年的；年度的",
+  "clues": [
+   {
+    "text": "谐音乱猜：听着像在念「amaze」→ 使惊奇？",
+    "meaning": "使惊奇",
+    "correct": false
+   },
+   {
+    "text": "ann(年)+ual → 每年的",
+    "meaning": "每年的；年度的",
+    "correct": true
+   },
+   {
+    "text": "词根误判：拼写看着像「任命；约定」那一族？",
+    "meaning": "任命；约定",
+    "correct": false
+   }
+  ],
+  "example": "The annual festival is held in spring.",
+  "tip": "ann(年)+ual → 每年的",
+  "chapter": 2
+ },
+ {
+  "word": "anxious",
+  "meaning": "焦虑的；渴望的",
+  "clues": [
+   {
+    "text": "词根误判：拼写看着像「每年的；年度的」那一族？",
+    "meaning": "每年的；年度的",
+    "correct": false
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「合适的；恰当的」的场合？",
+    "meaning": "合适的；恰当的",
+    "correct": false
+   },
+   {
+    "text": "谐音「俺可歇死」→ 急得没法歇 → 焦虑",
+    "meaning": "焦虑的；渴望的",
+    "correct": true
+   }
+  ],
+  "example": "She felt anxious before the test.",
+  "tip": "谐音「俺可歇死」→ 急得没法歇 → 焦虑",
+  "chapter": 2
+ },
+ {
+  "word": "apparent",
+  "meaning": "明显的；表面的",
+  "clues": [
+   {
+    "text": "ap+par(出现)+ent → 显现出来 → 明显",
+    "meaning": "明显的；表面的",
+    "correct": true
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「申请；应用」的场合？",
+    "meaning": "申请；应用",
+    "correct": false
+   },
+   {
+    "text": "模糊印象：好像和「analyze」（分析）差不多？",
+    "meaning": "分析",
+    "correct": false
+   }
+  ],
+  "example": "It was apparent that he was tired.",
+  "tip": "ap+par(出现)+ent → 显现出来 → 明显",
+  "chapter": 2
+ },
+ {
+  "word": "appeal",
+  "meaning": "呼吁；吸引",
+  "clues": [
+   {
+    "text": "模糊印象：好像和「apply」（申请；应用）差不多？",
+    "meaning": "申请；应用",
+    "correct": false
+   },
+   {
+    "text": "ap+peal(拉) → 拉人注意 → 呼吁/吸引",
+    "meaning": "呼吁；吸引",
+    "correct": true
+   },
+   {
+    "text": "谐音乱猜：听着像在念「aspect」→ 方面；外观？",
+    "meaning": "方面；外观",
+    "correct": false
+   }
+  ],
+  "example": "The design appeals to young people.",
+  "tip": "ap+peal(拉) → 拉人注意 → 呼吁/吸引",
+  "chapter": 2
+ },
+ {
+  "word": "apply",
+  "meaning": "申请；应用",
+  "clues": [
+   {
+    "text": "谐音乱猜：听着像在念「ancient」→ 古代的；古老的？",
+    "meaning": "古代的；古老的",
+    "correct": false
+   },
+   {
+    "text": "词根误判：拼写看着像「每年的；年度的」那一族？",
+    "meaning": "每年的；年度的",
+    "correct": false
+   },
+   {
+    "text": "ap+ply(折叠) → 把自己贴上去 → 申请",
+    "meaning": "申请；应用",
+    "correct": true
+   }
+  ],
+  "example": "She applied for the scholarship.",
+  "tip": "ap+ply(折叠) → 把自己贴上去 → 申请",
+  "chapter": 2
+ },
+ {
+  "word": "appoint",
+  "meaning": "任命；约定",
+  "clues": [
+   {
+    "text": "ap+point(点) → 点名指派 → 任命",
+    "meaning": "任命；约定",
+    "correct": true
+   },
+   {
+    "text": "词根误判：拼写看着像「分配；划拨」那一族？",
+    "meaning": "分配；划拨",
+    "correct": false
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「分析」的场合？",
+    "meaning": "分析",
+    "correct": false
+   }
+  ],
+  "example": "He was appointed as our monitor.",
+  "tip": "ap+point(点) → 点名指派 → 任命",
+  "chapter": 2
+ },
+ {
+  "word": "approach",
+  "meaning": "接近；方法",
+  "clues": [
+   {
+    "text": "语境陷阱：似乎有人把它用在「逮捕；阻止」的场合？",
+    "meaning": "逮捕；阻止",
+    "correct": false
+   },
+   {
+    "text": "ap+proach(近) → 靠近",
+    "meaning": "接近；方法",
+    "correct": true
+   },
+   {
+    "text": "模糊印象：好像和「announce」（宣布；通告）差不多？",
+    "meaning": "宣布；通告",
+    "correct": false
+   }
+  ],
+  "example": "Winter is approaching fast.",
+  "tip": "ap+proach(近) → 靠近",
+  "chapter": 2
+ },
+ {
+  "word": "appropriate",
+  "meaning": "合适的；恰当的",
+  "clues": [
+   {
+    "text": "模糊印象：好像和「analyze」（分析）差不多？",
+    "meaning": "分析",
+    "correct": false
+   },
+   {
+    "text": "谐音乱猜：听着像在念「approach」→ 接近；方法？",
+    "meaning": "接近；方法",
+    "correct": false
+   },
+   {
+    "text": "ap+propri(自己的)+ate → 恰如其分 → 合适",
+    "meaning": "合适的；恰当的",
+    "correct": true
+   }
+  ],
+  "example": "Jeans are not appropriate for the ceremony.",
+  "tip": "ap+propri(自己的)+ate → 恰如其分 → 合适",
+  "chapter": 2
+ },
+ {
+  "word": "approve",
+  "meaning": "批准；赞同",
+  "clues": [
+   {
+    "text": "ap+prove(证明) → 证明可行 → 批准",
+    "meaning": "批准；赞同",
+    "correct": true
+   },
+   {
+    "text": "谐音乱猜：听着像在念「apply」→ 申请；应用？",
+    "meaning": "申请；应用",
+    "correct": false
+   },
+   {
+    "text": "词根误判：拼写看着像「每年的；年度的」那一族？",
+    "meaning": "每年的；年度的",
+    "correct": false
+   }
+  ],
+  "example": "The plan was approved by the dean.",
+  "tip": "ap+prove(证明) → 证明可行 → 批准",
+  "chapter": 2
+ },
+ {
+  "word": "arrange",
+  "meaning": "安排；排列",
+  "clues": [
+   {
+    "text": "词根误判：拼写看着像「逮捕；阻止」那一族？",
+    "meaning": "逮捕；阻止",
+    "correct": false
+   },
+   {
+    "text": "ar+range(排列) → 排列好 → 安排",
+    "meaning": "安排；排列",
+    "correct": true
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「宣布；通告」的场合？",
+    "meaning": "宣布；通告",
+    "correct": false
+   }
+  ],
+  "example": "We arranged the chairs in a circle.",
+  "tip": "ar+range(排列) → 排列好 → 安排",
+  "chapter": 2
+ },
+ {
+  "word": "arrest",
+  "meaning": "逮捕；阻止",
+  "clues": [
+   {
+    "text": "语境陷阱：似乎有人把它用在「明显的；表面的」的场合？",
+    "meaning": "明显的；表面的",
+    "correct": false
+   },
+   {
+    "text": "模糊印象：好像和「alarm」（警报；闹钟）差不多？",
+    "meaning": "警报；闹钟",
+    "correct": false
+   },
+   {
+    "text": "ar+rest(休息) → 强制「休息」→ 逮捕",
+    "meaning": "逮捕；阻止",
+    "correct": true
+   }
+  ],
+  "example": "The police arrested the thief.",
+  "tip": "ar+rest(休息) → 强制「休息」→ 逮捕",
+  "chapter": 2
+ },
+ {
+  "word": "aspect",
+  "meaning": "方面；外观",
+  "clues": [
+   {
+    "text": "a+spect(看) → 看到的一面 → 方面",
+    "meaning": "方面；外观",
+    "correct": true
+   },
+   {
+    "text": "模糊印象：好像和「announce」（宣布；通告）差不多？",
+    "meaning": "宣布；通告",
+    "correct": false
+   },
+   {
+    "text": "谐音乱猜：听着像在念「alarm」→ 警报；闹钟？",
+    "meaning": "警报；闹钟",
+    "correct": false
+   }
+  ],
+  "example": "Every aspect of the plan matters.",
+  "tip": "a+spect(看) → 看到的一面 → 方面",
+  "chapter": 2
+ },
+ {
+  "word": "assemble",
+  "meaning": "集合；组装",
+  "clues": [
+   {
+    "text": "谐音乱猜：听着像在念「authority」→ 权威；当局？",
+    "meaning": "权威；当局",
+    "correct": false
+   },
+   {
+    "text": "as+semble(同) → 聚到同一处 → 集合",
+    "meaning": "集合；组装",
+    "correct": true
+   },
+   {
+    "text": "词根误判：拼写看着像「避免；避开」那一族？",
+    "meaning": "避免；避开",
+    "correct": false
+   }
+  ],
+  "example": "The students assembled in the hall.",
+  "tip": "as+semble(同) → 聚到同一处 → 集合",
+  "chapter": 3
+ },
+ {
+  "word": "assess",
+  "meaning": "评估；评定",
+  "clues": [
+   {
+    "text": "词根误判：拼写看着像「态度；看法」那一族？",
+    "meaning": "态度；看法",
+    "correct": false
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「帮助；协助」的场合？",
+    "meaning": "帮助；协助",
+    "correct": false
+   },
+   {
+    "text": "as+sess(坐) → 坐在旁边打分 → 评估",
+    "meaning": "评估；评定",
+    "correct": true
+   }
+  ],
+  "example": "Teachers assess our essays weekly.",
+  "tip": "as+sess(坐) → 坐在旁边打分 → 评估",
+  "chapter": 3
+ },
+ {
+  "word": "assign",
+  "meaning": "指派；分配",
+  "clues": [
+   {
+    "text": "as+sign(标记) → 做标记分派 → 指派",
+    "meaning": "指派；分配",
+    "correct": true
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「达到；获得」的场合？",
+    "meaning": "达到；获得",
+    "correct": false
+   },
+   {
+    "text": "模糊印象：好像和「authority」（权威；当局）差不多？",
+    "meaning": "权威；当局",
+    "correct": false
+   }
+  ],
+  "example": "He was assigned to clean the board.",
+  "tip": "as+sign(标记) → 做标记分派 → 指派",
+  "chapter": 3
+ },
+ {
+  "word": "assist",
+  "meaning": "帮助；协助",
+  "clues": [
+   {
+    "text": "模糊印象：好像和「attain」（达到；获得）差不多？",
+    "meaning": "达到；获得",
+    "correct": false
+   },
+   {
+    "text": "as+sist(站) → 站在旁边 → 协助",
+    "meaning": "帮助；协助",
+    "correct": true
+   },
+   {
+    "text": "谐音乱猜：听着像在念「balance」→ 平衡；余额？",
+    "meaning": "平衡；余额",
+    "correct": false
+   }
+  ],
+  "example": "She assisted the old man across the road.",
+  "tip": "as+sist(站) → 站在旁边 → 协助",
+  "chapter": 3
+ },
+ {
+  "word": "assume",
+  "meaning": "假定；承担",
+  "clues": [
+   {
+    "text": "谐音乱猜：听着像在念「avoid」→ 避免；避开？",
+    "meaning": "避免；避开",
+    "correct": false
+   },
+   {
+    "text": "词根误判：拼写看着像「意识到的；知道的」那一族？",
+    "meaning": "意识到的；知道的",
+    "correct": false
+   },
+   {
+    "text": "as+sume(拿) → 先拿一个想法 → 假定",
+    "meaning": "假定；承担",
+    "correct": true
+   }
+  ],
+  "example": "I assume you have finished reading.",
+  "tip": "as+sume(拿) → 先拿一个想法 → 假定",
+  "chapter": 3
+ },
+ {
+  "word": "assure",
+  "meaning": "保证；使确信",
+  "clues": [
+   {
+    "text": "as+sure(确定) → 使人确定 → 保证",
+    "meaning": "保证；使确信",
+    "correct": true
+   },
+   {
+    "text": "词根误判：拼写看着像「假定；承担」那一族？",
+    "meaning": "假定；承担",
+    "correct": false
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「态度；看法」的场合？",
+    "meaning": "态度；看法",
+    "correct": false
+   }
+  ],
+  "example": "I assure you everything is fine.",
+  "tip": "as+sure(确定) → 使人确定 → 保证",
+  "chapter": 3
+ },
+ {
+  "word": "attach",
+  "meaning": "附上；系上",
+  "clues": [
+   {
+    "text": "语境陷阱：似乎有人把它用在「假定；承担」的场合？",
+    "meaning": "假定；承担",
+    "correct": false
+   },
+   {
+    "text": "at+tach(钉子) → 钉上去 → 附上",
+    "meaning": "附上；系上",
+    "correct": true
+   },
+   {
+    "text": "模糊印象：好像和「attempt」（尝试；企图）差不多？",
+    "meaning": "尝试；企图",
+    "correct": false
+   }
+  ],
+  "example": "Please attach your photo to the form.",
+  "tip": "at+tach(钉子) → 钉上去 → 附上",
+  "chapter": 3
+ },
+ {
+  "word": "attain",
+  "meaning": "达到；获得",
+  "clues": [
+   {
+    "text": "模糊印象：好像和「barrier」（障碍；屏障）差不多？",
+    "meaning": "障碍；屏障",
+    "correct": false
+   },
+   {
+    "text": "谐音乱猜：听着像在念「basis」→ 基础；根据？",
+    "meaning": "基础；根据",
+    "correct": false
+   },
+   {
+    "text": "at+tain(握住) → 握到手里 → 达到",
+    "meaning": "达到；获得",
+    "correct": true
+   }
+  ],
+  "example": "She attained the top score.",
+  "tip": "at+tain(握住) → 握到手里 → 达到",
+  "chapter": 3
+ },
+ {
+  "word": "attempt",
+  "meaning": "尝试；企图",
+  "clues": [
+   {
+    "text": "at+tempt(试) → 尝试",
+    "meaning": "尝试；企图",
+    "correct": true
+   },
+   {
+    "text": "谐音乱猜：听着像在念「attitude」→ 态度；看法？",
+    "meaning": "态度；看法",
+    "correct": false
+   },
+   {
+    "text": "词根误判：拼写看着像「奖励；授予」那一族？",
+    "meaning": "奖励；授予",
+    "correct": false
+   }
+  ],
+  "example": "He attempted to climb the tower.",
+  "tip": "at+tempt(试) → 尝试",
+  "chapter": 3
+ },
+ {
+  "word": "attitude",
+  "meaning": "态度；看法",
+  "clues": [
+   {
+    "text": "词根误判：拼写看着像「基础；根据」那一族？",
+    "meaning": "基础；根据",
+    "correct": false
+   },
+   {
+    "text": "谐音「俺的态度」→ 态度",
+    "meaning": "态度；看法",
+    "correct": true
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「避免；避开」的场合？",
+    "meaning": "避免；避开",
+    "correct": false
+   }
+  ],
+  "example": "A positive attitude helps learning.",
+  "tip": "谐音「俺的态度」→ 态度",
+  "chapter": 3
+ },
+ {
+  "word": "attract",
+  "meaning": "吸引",
+  "clues": [
+   {
+    "text": "语境陷阱：似乎有人把它用在「可用的；有空的」的场合？",
+    "meaning": "可用的；有空的",
+    "correct": false
+   },
+   {
+    "text": "模糊印象：好像和「attain」（达到；获得）差不多？",
+    "meaning": "达到；获得",
+    "correct": false
+   },
+   {
+    "text": "at+tract(拉) → 拉过来 → 吸引",
+    "meaning": "吸引",
+    "correct": true
+   }
+  ],
+  "example": "The garden attracts many visitors.",
+  "tip": "at+tract(拉) → 拉过来 → 吸引",
+  "chapter": 3
+ },
+ {
+  "word": "authority",
+  "meaning": "权威；当局",
+  "clues": [
+   {
+    "text": "author(作者)+ity → 有著作之言 → 权威",
+    "meaning": "权威；当局",
+    "correct": true
+   },
+   {
+    "text": "模糊印象：好像和「assume」（假定；承担）差不多？",
+    "meaning": "假定；承担",
+    "correct": false
+   },
+   {
+    "text": "谐音乱猜：听着像在念「ban」→ 禁止；禁令？",
+    "meaning": "禁止；禁令",
+    "correct": false
+   }
+  ],
+  "example": "He is an authority on grammar.",
+  "tip": "author(作者)+ity → 有著作之言 → 权威",
+  "chapter": 3
+ },
+ {
+  "word": "available",
+  "meaning": "可用的；有空的",
+  "clues": [
+   {
+    "text": "谐音乱猜：听着像在念「balance」→ 平衡；余额？",
+    "meaning": "平衡；余额",
+    "correct": false
+   },
+   {
+    "text": "a+vail(价值)+able → 有价值可用 → 可用的",
+    "meaning": "可用的；有空的",
+    "correct": true
+   },
+   {
+    "text": "词根误判：拼写看着像「指派；分配」那一族？",
+    "meaning": "指派；分配",
+    "correct": false
+   }
+  ],
+  "example": "The room is available this afternoon.",
+  "tip": "a+vail(价值)+able → 有价值可用 → 可用的",
+  "chapter": 3
+ },
+ {
+  "word": "avoid",
+  "meaning": "避免；避开",
+  "clues": [
+   {
+    "text": "词根误判：拼写看着像「评估；评定」那一族？",
+    "meaning": "评估；评定",
+    "correct": false
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「帮助；协助」的场合？",
+    "meaning": "帮助；协助",
+    "correct": false
+   },
+   {
+    "text": "a+void(空) → 使落空 → 避免",
+    "meaning": "避免；避开",
+    "correct": true
+   }
+  ],
+  "example": "Avoid making the same mistake twice.",
+  "tip": "a+void(空) → 使落空 → 避免",
+  "chapter": 3
+ },
+ {
+  "word": "award",
+  "meaning": "奖励；授予",
+  "clues": [
+   {
+    "text": "a+ward(守护) → 守护者颁下的 → 奖励",
+    "meaning": "奖励；授予",
+    "correct": true
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「假定；承担」的场合？",
+    "meaning": "假定；承担",
+    "correct": false
+   },
+   {
+    "text": "模糊印象：好像和「assure」（保证；使确信）差不多？",
+    "meaning": "保证；使确信",
+    "correct": false
+   }
+  ],
+  "example": "She won the first award in speech.",
+  "tip": "a+ward(守护) → 守护者颁下的 → 奖励",
+  "chapter": 3
+ },
+ {
+  "word": "aware",
+  "meaning": "意识到的；知道的",
+  "clues": [
+   {
+    "text": "模糊印象：好像和「avoid」（避免；避开）差不多？",
+    "meaning": "避免；避开",
+    "correct": false
+   },
+   {
+    "text": "a+ware(注意) → 意识到的",
+    "meaning": "意识到的；知道的",
+    "correct": true
+   },
+   {
+    "text": "谐音乱猜：听着像在念「assign」→ 指派；分配？",
+    "meaning": "指派；分配",
+    "correct": false
+   }
+  ],
+  "example": "Be aware of the rules here.",
+  "tip": "a+ware(注意) → 意识到的",
+  "chapter": 3
+ },
+ {
+  "word": "balance",
+  "meaning": "平衡；余额",
+  "clues": [
+   {
+    "text": "谐音乱猜：听着像在念「available」→ 可用的；有空的？",
+    "meaning": "可用的；有空的",
+    "correct": false
+   },
+   {
+    "text": "词根误判：拼写看着像「基础；根据」那一族？",
+    "meaning": "基础；根据",
+    "correct": false
+   },
+   {
+    "text": "ba+lance(长枪) → 枪尖上的平衡 → 平衡",
+    "meaning": "平衡；余额",
+    "correct": true
+   }
+  ],
+  "example": "Keep a balance between work and rest.",
+  "tip": "ba+lance(长枪) → 枪尖上的平衡 → 平衡",
+  "chapter": 3
+ },
+ {
+  "word": "ban",
+  "meaning": "禁止；禁令",
+  "clues": [
+   {
+    "text": "谐音「颁(禁令)」→ 禁止",
+    "meaning": "禁止；禁令",
+    "correct": true
+   },
+   {
+    "text": "词根误判：拼写看着像「奖励；授予」那一族？",
+    "meaning": "奖励；授予",
+    "correct": false
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「平衡；余额」的场合？",
+    "meaning": "平衡；余额",
+    "correct": false
+   }
+  ],
+  "example": "The library bans loud talking.",
+  "tip": "谐音「颁(禁令)」→ 禁止",
+  "chapter": 3
+ },
+ {
+  "word": "barrier",
+  "meaning": "障碍；屏障",
+  "clues": [
+   {
+    "text": "语境陷阱：似乎有人把它用在「尝试；企图」的场合？",
+    "meaning": "尝试；企图",
+    "correct": false
+   },
+   {
+    "text": "bar(栏杆)+rier → 栏杆成障碍",
+    "meaning": "障碍；屏障",
+    "correct": true
+   },
+   {
+    "text": "模糊印象：好像和「ban」（禁止；禁令）差不多？",
+    "meaning": "禁止；禁令",
+    "correct": false
+   }
+  ],
+  "example": "Fear is a barrier to progress.",
+  "tip": "bar(栏杆)+rier → 栏杆成障碍",
+  "chapter": 3
+ },
+ {
+  "word": "basis",
+  "meaning": "基础；根据",
+  "clues": [
+   {
+    "text": "模糊印象：好像和「assemble」（集合；组装）差不多？",
+    "meaning": "集合；组装",
+    "correct": false
+   },
+   {
+    "text": "谐音乱猜：听着像在念「assist」→ 帮助；协助？",
+    "meaning": "帮助；协助",
+    "correct": false
+   },
+   {
+    "text": "base(基础) 的变体 → 基础",
+    "meaning": "基础；根据",
+    "correct": true
+   }
+  ],
+  "example": "Trust is the basis of friendship.",
+  "tip": "base(基础) 的变体 → 基础",
+  "chapter": 3
+ },
+ {
+  "word": "behalf",
+  "meaning": "代表；利益",
+  "clues": [
+   {
+    "text": "be+half(一半) → 替另一半说话 → 代表",
+    "meaning": "代表；利益",
+    "correct": true
+   },
+   {
+    "text": "谐音乱猜：听着像在念「cautious」→ 谨慎的；小心的？",
+    "meaning": "谨慎的；小心的",
+    "correct": false
+   },
+   {
+    "text": "词根误判：拼写看着像「树枝；分支」那一族？",
+    "meaning": "树枝；分支",
+    "correct": false
+   }
+  ],
+  "example": "On behalf of our class, thank you.",
+  "tip": "be+half(一半) → 替另一半说话 → 代表",
+  "chapter": 4
+ },
+ {
+  "word": "behave",
+  "meaning": "表现；举止",
+  "clues": [
+   {
+    "text": "词根误判：拼写看着像「预算」那一族？",
+    "meaning": "预算",
+    "correct": false
+   },
+   {
+    "text": "be+have(拥有) → 举止所呈现的 → 表现",
+    "meaning": "表现；举止",
+    "correct": true
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「开花；繁荣」的场合？",
+    "meaning": "开花；繁荣",
+    "correct": false
+   }
+  ],
+  "example": "The children behaved well today.",
+  "tip": "be+have(拥有) → 举止所呈现的 → 表现",
+  "chapter": 4
+ },
+ {
+  "word": "benefit",
+  "meaning": "益处；受益于",
+  "clues": [
+   {
+    "text": "语境陷阱：似乎有人把它用在「简短的；简报」的场合？",
+    "meaning": "简短的；简报",
+    "correct": false
+   },
+   {
+    "text": "模糊印象：好像和「cancel」（取消；撤销）差不多？",
+    "meaning": "取消；撤销",
+    "correct": false
+   },
+   {
+    "text": "bene(好)+fit(做) → 做好事 → 益处",
+    "meaning": "益处；受益于",
+    "correct": true
+   }
+  ],
+  "example": "Exercise benefits both body and mind.",
+  "tip": "bene(好)+fit(做) → 做好事 → 益处",
+  "chapter": 4
+ },
+ {
+  "word": "blame",
+  "meaning": "责备；归咎于",
+  "clues": [
+   {
+    "text": "谐音「不来么」→ 没来被责备",
+    "meaning": "责备；归咎于",
+    "correct": true
+   },
+   {
+    "text": "模糊印象：好像和「border」（边界；边境）差不多？",
+    "meaning": "边界；边境",
+    "correct": false
+   },
+   {
+    "text": "谐音乱猜：听着像在念「capable」→ 有能力的？",
+    "meaning": "有能力的",
+    "correct": false
+   }
+  ],
+  "example": "Don't blame others for your mistake.",
+  "tip": "谐音「不来么」→ 没来被责备",
+  "chapter": 4
+ },
+ {
+  "word": "bloom",
+  "meaning": "开花；繁荣",
+  "clues": [
+   {
+    "text": "谐音乱猜：听着像在念「behalf」→ 代表；利益？",
+    "meaning": "代表；利益",
+    "correct": false
+   },
+   {
+    "text": "谐音「布露幕」→ 花开掀幕 → 开花",
+    "meaning": "开花；繁荣",
+    "correct": true
+   },
+   {
+    "text": "词根误判：拼写看着像「树枝；分支」那一族？",
+    "meaning": "树枝；分支",
+    "correct": false
+   }
+  ],
+  "example": "The cherry trees bloom in April.",
+  "tip": "谐音「布露幕」→ 花开掀幕 → 开花",
+  "chapter": 4
+ },
+ {
+  "word": "boast",
+  "meaning": "自夸；夸耀",
+  "clues": [
+   {
+    "text": "词根误判：拼写看着像「职业；生涯」那一族？",
+    "meaning": "职业；生涯",
+    "correct": false
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「边界；边境」的场合？",
+    "meaning": "边界；边境",
+    "correct": false
+   },
+   {
+    "text": "谐音「不死他」→ 夸不死他 → 自夸",
+    "meaning": "自夸；夸耀",
+    "correct": true
+   }
+  ],
+  "example": "He boasted about his new sword.",
+  "tip": "谐音「不死他」→ 夸不死他 → 自夸",
+  "chapter": 4
+ },
+ {
+  "word": "border",
+  "meaning": "边界；边境",
+  "clues": [
+   {
+    "text": "b+order(秩序) → 秩序尽头 → 边界",
+    "meaning": "边界；边境",
+    "correct": true
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「职业；生涯」的场合？",
+    "meaning": "职业；生涯",
+    "correct": false
+   },
+   {
+    "text": "模糊印象：好像和「blame」（责备；归咎于）差不多？",
+    "meaning": "责备；归咎于",
+    "correct": false
+   }
+  ],
+  "example": "The river marks the border.",
+  "tip": "b+order(秩序) → 秩序尽头 → 边界",
+  "chapter": 4
+ },
+ {
+  "word": "bother",
+  "meaning": "打扰；费心",
+  "clues": [
+   {
+    "text": "模糊印象：好像和「brief」（简短的；简报）差不多？",
+    "meaning": "简短的；简报",
+    "correct": false
+   },
+   {
+    "text": "谐音「爸在(睡)」→ 别打扰 → 打扰",
+    "meaning": "打扰；费心",
+    "correct": true
+   },
+   {
+    "text": "谐音乱猜：听着像在念「career」→ 职业；生涯？",
+    "meaning": "职业；生涯",
+    "correct": false
+   }
+  ],
+  "example": "Sorry to bother you so late.",
+  "tip": "谐音「爸在(睡)」→ 别打扰 → 打扰",
+  "chapter": 4
+ },
+ {
+  "word": "bound",
+  "meaning": "必然的；跳跃",
+  "clues": [
+   {
+    "text": "谐音乱猜：听着像在念「border」→ 边界；边境？",
+    "meaning": "边界；边境",
+    "correct": false
+   },
+   {
+    "text": "词根误判：拼写看着像「开花；繁荣」那一族？",
+    "meaning": "开花；繁荣",
+    "correct": false
+   },
+   {
+    "text": "bind(绑) 的亲戚 → 被绑向某处 → 必然",
+    "meaning": "必然的；跳跃",
+    "correct": true
+   }
+  ],
+  "example": "You are bound to succeed someday.",
+  "tip": "bind(绑) 的亲戚 → 被绑向某处 → 必然",
+  "chapter": 4
+ },
+ {
+  "word": "branch",
+  "meaning": "树枝；分支",
+  "clues": [
+   {
+    "text": "树庭巨树的 branch → 树枝/分支",
+    "meaning": "树枝；分支",
+    "correct": true
+   },
+   {
+    "text": "词根误判：拼写看着像「负担；重担」那一族？",
+    "meaning": "负担；重担",
+    "correct": false
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「自夸；夸耀」的场合？",
+    "meaning": "自夸；夸耀",
+    "correct": false
+   }
+  ],
+  "example": "A bird sits on the branch.",
+  "tip": "树庭巨树的 branch → 树枝/分支",
+  "chapter": 4
+ },
+ {
+  "word": "brief",
+  "meaning": "简短的；简报",
+  "clues": [
+   {
+    "text": "语境陷阱：似乎有人把它用在「谨慎的；小心的」的场合？",
+    "meaning": "谨慎的；小心的",
+    "correct": false
+   },
+   {
+    "text": "谐音「不理复」→ 不啰嗦 → 简短",
+    "meaning": "简短的；简报",
+    "correct": true
+   },
+   {
+    "text": "模糊印象：好像和「career」（职业；生涯）差不多？",
+    "meaning": "职业；生涯",
+    "correct": false
+   }
+  ],
+  "example": "Please keep your answer brief.",
+  "tip": "谐音「不理复」→ 不啰嗦 → 简短",
+  "chapter": 4
+ },
+ {
+  "word": "budget",
+  "meaning": "预算",
+  "clues": [
+   {
+    "text": "模糊印象：好像和「behalf」（代表；利益）差不多？",
+    "meaning": "代表；利益",
+    "correct": false
+   },
+   {
+    "text": "谐音乱猜：听着像在念「brief」→ 简短的；简报？",
+    "meaning": "简短的；简报",
+    "correct": false
+   },
+   {
+    "text": "bud(芽)+get → 发芽前先算计 → 预算",
+    "meaning": "预算",
+    "correct": true
+   }
+  ],
+  "example": "Our club has a tight budget.",
+  "tip": "bud(芽)+get → 发芽前先算计 → 预算",
+  "chapter": 4
+ },
+ {
+  "word": "burden",
+  "meaning": "负担；重担",
+  "clues": [
+   {
+    "text": "谐音「背担」→ 负担",
+    "meaning": "负担；重担",
+    "correct": true
+   },
+   {
+    "text": "谐音乱猜：听着像在念「capture」→ 捕获；夺取？",
+    "meaning": "捕获；夺取",
+    "correct": false
+   },
+   {
+    "text": "词根误判：拼写看着像「代表；利益」那一族？",
+    "meaning": "代表；利益",
+    "correct": false
+   }
+  ],
+  "example": "Don't let homework become a burden.",
+  "tip": "谐音「背担」→ 负担",
+  "chapter": 4
+ },
+ {
+  "word": "campaign",
+  "meaning": "运动；战役",
+  "clues": [
+   {
+    "text": "词根误判：拼写看着像「责备；归咎于」那一族？",
+    "meaning": "责备；归咎于",
+    "correct": false
+   },
+   {
+    "text": "camp(营地)+aign → 营地出征 → 运动",
+    "meaning": "运动；战役",
+    "correct": true
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「预算」的场合？",
+    "meaning": "预算",
+    "correct": false
+   }
+  ],
+  "example": "They launched a reading campaign.",
+  "tip": "camp(营地)+aign → 营地出征 → 运动",
+  "chapter": 4
+ },
+ {
+  "word": "cancel",
+  "meaning": "取消；撤销",
+  "clues": [
+   {
+    "text": "语境陷阱：似乎有人把它用在「树枝；分支」的场合？",
+    "meaning": "树枝；分支",
+    "correct": false
+   },
+   {
+    "text": "模糊印象：好像和「bother」（打扰；费心）差不多？",
+    "meaning": "打扰；费心",
+    "correct": false
+   },
+   {
+    "text": "谐音「看馊」→ 饭馊了取消聚餐",
+    "meaning": "取消；撤销",
+    "correct": true
+   }
+  ],
+  "example": "The meeting was cancelled yesterday.",
+  "tip": "谐音「看馊」→ 饭馊了取消聚餐",
+  "chapter": 4
+ },
+ {
+  "word": "capable",
+  "meaning": "有能力的",
+  "clues": [
+   {
+    "text": "cap(抓)+able → 抓得住 → 有能力的",
+    "meaning": "有能力的",
+    "correct": true
+   },
+   {
+    "text": "模糊印象：好像和「behave」（表现；举止）差不多？",
+    "meaning": "表现；举止",
+    "correct": false
+   },
+   {
+    "text": "谐音乱猜：听着像在念「bother」→ 打扰；费心？",
+    "meaning": "打扰；费心",
+    "correct": false
+   }
+  ],
+  "example": "She is capable of leading the team.",
+  "tip": "cap(抓)+able → 抓得住 → 有能力的",
+  "chapter": 4
+ },
+ {
+  "word": "capture",
+  "meaning": "捕获；夺取",
+  "clues": [
+   {
+    "text": "谐音乱猜：听着像在念「cease」→ 停止；终止？",
+    "meaning": "停止；终止",
+    "correct": false
+   },
+   {
+    "text": "cap(抓)+ture → 捕获",
+    "meaning": "捕获；夺取",
+    "correct": true
+   },
+   {
+    "text": "词根误判：拼写看着像「益处；受益于」那一族？",
+    "meaning": "益处；受益于",
+    "correct": false
+   }
+  ],
+  "example": "The hunter captured a rare butterfly.",
+  "tip": "cap(抓)+ture → 捕获",
+  "chapter": 4
+ },
+ {
+  "word": "career",
+  "meaning": "职业；生涯",
+  "clues": [
+   {
+    "text": "词根误判：拼写看着像「益处；受益于」那一族？",
+    "meaning": "益处；受益于",
+    "correct": false
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「有能力的」的场合？",
+    "meaning": "有能力的",
+    "correct": false
+   },
+   {
+    "text": "car+eer → 「车」走的路 → 职业道路",
+    "meaning": "职业；生涯",
+    "correct": true
+   }
+  ],
+  "example": "She chose teaching as her career.",
+  "tip": "car+eer → 「车」走的路 → 职业道路",
+  "chapter": 4
+ },
+ {
+  "word": "cautious",
+  "meaning": "谨慎的；小心的",
+  "clues": [
+   {
+    "text": "caut(小心)+ious → 谨慎的",
+    "meaning": "谨慎的；小心的",
+    "correct": true
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「益处；受益于」的场合？",
+    "meaning": "益处；受益于",
+    "correct": false
+   },
+   {
+    "text": "模糊印象：好像和「career」（职业；生涯）差不多？",
+    "meaning": "职业；生涯",
+    "correct": false
+   }
+  ],
+  "example": "Be cautious with unknown words.",
+  "tip": "caut(小心)+ious → 谨慎的",
+  "chapter": 4
+ },
+ {
+  "word": "cease",
+  "meaning": "停止；终止",
+  "clues": [
+   {
+    "text": "模糊印象：好像和「bloom」（开花；繁荣）差不多？",
+    "meaning": "开花；繁荣",
+    "correct": false
+   },
+   {
+    "text": "谐音「息止」→ 停止",
+    "meaning": "停止；终止",
+    "correct": true
+   },
+   {
+    "text": "谐音乱猜：听着像在念「cautious」→ 谨慎的；小心的？",
+    "meaning": "谨慎的；小心的",
+    "correct": false
+   }
+  ],
+  "example": "The rain ceased at dawn.",
+  "tip": "谐音「息止」→ 停止",
+  "chapter": 4
+ },
+ {
+  "word": "celebrate",
+  "meaning": "庆祝；赞美",
+  "clues": [
+   {
+    "text": "谐音乱猜：听着像在念「compel」→ 强迫；迫使？",
+    "meaning": "强迫；迫使",
+    "correct": false
+   },
+   {
+    "text": "词根误判：拼写看着像「抱怨；诉苦」那一族？",
+    "meaning": "抱怨；诉苦",
+    "correct": false
+   },
+   {
+    "text": "celebr(著名)+ate → 为盛事喝彩 → 庆祝",
+    "meaning": "庆祝；赞美",
+    "correct": true
+   }
+  ],
+  "example": "We celebrated her birthday together.",
+  "tip": "celebr(著名)+ate → 为盛事喝彩 → 庆祝",
+  "chapter": 5
+ },
+ {
+  "word": "challenge",
+  "meaning": "挑战；质疑",
+  "clues": [
+   {
+    "text": "谐音「拆灵机」→ 拆灵机是挑战",
+    "meaning": "挑战；质疑",
+    "correct": true
+   },
+   {
+    "text": "词根误判：拼写看着像「公民的；文明的」那一族？",
+    "meaning": "公民的；文明的",
+    "correct": false
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「同事；同僚」的场合？",
+    "meaning": "同事；同僚",
+    "correct": false
+   }
+  ],
+  "example": "This puzzle is a real challenge.",
+  "tip": "谐音「拆灵机」→ 拆灵机是挑战",
+  "chapter": 5
+ },
+ {
+  "word": "channel",
+  "meaning": "频道；渠道",
+  "clues": [
+   {
+    "text": "语境陷阱：似乎有人把它用在「竞争；比赛」的场合？",
+    "meaning": "竞争；比赛",
+    "correct": false
+   },
+   {
+    "text": "can(能)+al → 能通行的道 → 渠道",
+    "meaning": "频道；渠道",
+    "correct": true
+   },
+   {
+    "text": "模糊印象：好像和「community」（社区；共同体）差不多？",
+    "meaning": "社区；共同体",
+    "correct": false
+   }
+  ],
+  "example": "Water flows through the channel.",
+  "tip": "can(能)+al → 能通行的道 → 渠道",
+  "chapter": 5
+ },
+ {
+  "word": "charity",
+  "meaning": "慈善；仁爱",
+  "clues": [
+   {
+    "text": "模糊印象：好像和「claim」（声称；索取）差不多？",
+    "meaning": "声称；索取",
+    "correct": false
+   },
+   {
+    "text": "谐音乱猜：听着像在念「complain」→ 抱怨；诉苦？",
+    "meaning": "抱怨；诉苦",
+    "correct": false
+   },
+   {
+    "text": "char(亲爱)+ity → 仁爱之举 → 慈善",
+    "meaning": "慈善；仁爱",
+    "correct": true
+   }
+  ],
+  "example": "She gave her old books to charity.",
+  "tip": "char(亲爱)+ity → 仁爱之举 → 慈善",
+  "chapter": 5
+ },
+ {
+  "word": "cherish",
+  "meaning": "珍惜；珍爱",
+  "clues": [
+   {
+    "text": "谐音「切利时」→ 珍惜得利之时",
+    "meaning": "珍惜；珍爱",
+    "correct": true
+   },
+   {
+    "text": "谐音乱猜：听着像在念「claim」→ 声称；索取？",
+    "meaning": "声称；索取",
+    "correct": false
+   },
+   {
+    "text": "词根误判：拼写看着像「结合；联合」那一族？",
+    "meaning": "结合；联合",
+    "correct": false
+   }
+  ],
+  "example": "Cherish every day in the tree court.",
+  "tip": "谐音「切利时」→ 珍惜得利之时",
+  "chapter": 5
+ },
+ {
+  "word": "circumstance",
+  "meaning": "环境；境况",
+  "clues": [
+   {
+    "text": "词根误判：拼写看着像「承诺；犯(错)」那一族？",
+    "meaning": "承诺；犯(错)",
+    "correct": false
+   },
+   {
+    "text": "circum(周围)+stance(站) → 环立之物 → 环境",
+    "meaning": "环境；境况",
+    "correct": true
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「评论；意见」的场合？",
+    "meaning": "评论；意见",
+    "correct": false
+   }
+  ],
+  "example": "Under no circumstances should you give up.",
+  "tip": "circum(周围)+stance(站) → 环立之物 → 环境",
+  "chapter": 5
+ },
+ {
+  "word": "civil",
+  "meaning": "公民的；文明的",
+  "clues": [
+   {
+    "text": "语境陷阱：似乎有人把它用在「比较；对照」的场合？",
+    "meaning": "比较；对照",
+    "correct": false
+   },
+   {
+    "text": "模糊印象：好像和「compete」（竞争；比赛）差不多？",
+    "meaning": "竞争；比赛",
+    "correct": false
+   },
+   {
+    "text": "civ(城市)+il → 城里的 → 公民的",
+    "meaning": "公民的；文明的",
+    "correct": true
+   }
+  ],
+  "example": "We have a civil duty to study.",
+  "tip": "civ(城市)+il → 城里的 → 公民的",
+  "chapter": 5
+ },
+ {
+  "word": "claim",
+  "meaning": "声称；索取",
+  "clues": [
+   {
+    "text": "c+laim(喊) → 喊出来 → 声称",
+    "meaning": "声称；索取",
+    "correct": true
+   },
+   {
+    "text": "模糊印象：好像和「compare」（比较；对照）差不多？",
+    "meaning": "比较；对照",
+    "correct": false
+   },
+   {
+    "text": "谐音乱猜：听着像在念「charity」→ 慈善；仁爱？",
+    "meaning": "慈善；仁爱",
+    "correct": false
+   }
+  ],
+  "example": "He claimed the book was his.",
+  "tip": "c+laim(喊) → 喊出来 → 声称",
+  "chapter": 5
+ },
+ {
+  "word": "clarify",
+  "meaning": "澄清；阐明",
+  "clues": [
+   {
+    "text": "谐音乱猜：听着像在念「claim」→ 声称；索取？",
+    "meaning": "声称；索取",
+    "correct": false
+   },
+   {
+    "text": "clar(清楚)+ify → 使清楚 → 澄清",
+    "meaning": "澄清；阐明",
+    "correct": true
+   },
+   {
+    "text": "词根误判：拼写看着像「复杂的；综合体」那一族？",
+    "meaning": "复杂的；综合体",
+    "correct": false
+   }
+  ],
+  "example": "Let me clarify the rule again.",
+  "tip": "clar(清楚)+ify → 使清楚 → 澄清",
+  "chapter": 5
+ },
+ {
+  "word": "colleague",
+  "meaning": "同事；同僚",
+  "clues": [
+   {
+    "text": "词根误判：拼写看着像「频道；渠道」那一族？",
+    "meaning": "频道；渠道",
+    "correct": false
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「命令；掌握」的场合？",
+    "meaning": "命令；掌握",
+    "correct": false
+   },
+   {
+    "text": "col(一起)+league(联盟) → 同联盟 → 同事",
+    "meaning": "同事；同僚",
+    "correct": true
+   }
+  ],
+  "example": "My colleague lent me a pen.",
+  "tip": "col(一起)+league(联盟) → 同联盟 → 同事",
+  "chapter": 5
+ },
+ {
+  "word": "combine",
+  "meaning": "结合；联合",
+  "clues": [
+   {
+    "text": "com(共同)+bine(二) → 合二为一 → 结合",
+    "meaning": "结合；联合",
+    "correct": true
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「庆祝；赞美」的场合？",
+    "meaning": "庆祝；赞美",
+    "correct": false
+   },
+   {
+    "text": "模糊印象：好像和「complain」（抱怨；诉苦）差不多？",
+    "meaning": "抱怨；诉苦",
+    "correct": false
+   }
+  ],
+  "example": "Combine theory with practice.",
+  "tip": "com(共同)+bine(二) → 合二为一 → 结合",
+  "chapter": 5
+ },
+ {
+  "word": "command",
+  "meaning": "命令；掌握",
+  "clues": [
+   {
+    "text": "模糊印象：好像和「claim」（声称；索取）差不多？",
+    "meaning": "声称；索取",
+    "correct": false
+   },
+   {
+    "text": "com+mand(委托) → 受托指挥 → 命令/掌握",
+    "meaning": "命令；掌握",
+    "correct": true
+   },
+   {
+    "text": "谐音乱猜：听着像在念「complex」→ 复杂的；综合体？",
+    "meaning": "复杂的；综合体",
+    "correct": false
+   }
+  ],
+  "example": "She has a good command of English.",
+  "tip": "com+mand(委托) → 受托指挥 → 命令/掌握",
+  "chapter": 5
+ },
+ {
+  "word": "comment",
+  "meaning": "评论；意见",
+  "clues": [
+   {
+    "text": "谐音乱猜：听着像在念「celebrate」→ 庆祝；赞美？",
+    "meaning": "庆祝；赞美",
+    "correct": false
+   },
+   {
+    "text": "词根误判：拼写看着像「频道；渠道」那一族？",
+    "meaning": "频道；渠道",
+    "correct": false
+   },
+   {
+    "text": "com+ment(心智) → 用心发表 → 评论",
+    "meaning": "评论；意见",
+    "correct": true
+   }
+  ],
+  "example": "He made a comment on my essay.",
+  "tip": "com+ment(心智) → 用心发表 → 评论",
+  "chapter": 5
+ },
+ {
+  "word": "commit",
+  "meaning": "承诺；犯(错)",
+  "clues": [
+   {
+    "text": "com+mit(送) → 全身心送出去 → 承诺",
+    "meaning": "承诺；犯(错)",
+    "correct": true
+   },
+   {
+    "text": "词根误判：拼写看着像「挑战；质疑」那一族？",
+    "meaning": "挑战；质疑",
+    "correct": false
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「声称；索取」的场合？",
+    "meaning": "声称；索取",
+    "correct": false
+   }
+  ],
+  "example": "She committed herself to the project.",
+  "tip": "com+mit(送) → 全身心送出去 → 承诺",
+  "chapter": 5
+ },
+ {
+  "word": "community",
+  "meaning": "社区；共同体",
+  "clues": [
+   {
+    "text": "语境陷阱：似乎有人把它用在「频道；渠道」的场合？",
+    "meaning": "频道；渠道",
+    "correct": false
+   },
+   {
+    "text": "com+mun(公共)+ity → 公共体 → 社区",
+    "meaning": "社区；共同体",
+    "correct": true
+   },
+   {
+    "text": "模糊印象：好像和「challenge」（挑战；质疑）差不多？",
+    "meaning": "挑战；质疑",
+    "correct": false
+   }
+  ],
+  "example": "Our community plants trees every spring.",
+  "tip": "com+mun(公共)+ity → 公共体 → 社区",
+  "chapter": 5
+ },
+ {
+  "word": "compare",
+  "meaning": "比较；对照",
+  "clues": [
+   {
+    "text": "模糊印象：好像和「combine」（结合；联合）差不多？",
+    "meaning": "结合；联合",
+    "correct": false
+   },
+   {
+    "text": "谐音乱猜：听着像在念「channel」→ 频道；渠道？",
+    "meaning": "频道；渠道",
+    "correct": false
+   },
+   {
+    "text": "com+pare(配对) → 配对比一比 → 比较",
+    "meaning": "比较；对照",
+    "correct": true
+   }
+  ],
+  "example": "Compare your answer with hers.",
+  "tip": "com+pare(配对) → 配对比一比 → 比较",
+  "chapter": 5
+ },
+ {
+  "word": "compel",
+  "meaning": "强迫；迫使",
+  "clues": [
+   {
+    "text": "com+pel(推) → 合力推 → 强迫",
+    "meaning": "强迫；迫使",
+    "correct": true
+   },
+   {
+    "text": "谐音乱猜：听着像在念「compete」→ 竞争；比赛？",
+    "meaning": "竞争；比赛",
+    "correct": false
+   },
+   {
+    "text": "词根误判：拼写看着像「声称；索取」那一族？",
+    "meaning": "声称；索取",
+    "correct": false
+   }
+  ],
+  "example": "Duty compelled him to act.",
+  "tip": "com+pel(推) → 合力推 → 强迫",
+  "chapter": 5
+ },
+ {
+  "word": "compete",
+  "meaning": "竞争；比赛",
+  "clues": [
+   {
+    "text": "词根误判：拼写看着像「澄清；阐明」那一族？",
+    "meaning": "澄清；阐明",
+    "correct": false
+   },
+   {
+    "text": "com+pete(追求) → 共同追求 → 竞争",
+    "meaning": "竞争；比赛",
+    "correct": true
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「比较；对照」的场合？",
+    "meaning": "比较；对照",
+    "correct": false
+   }
+  ],
+  "example": "The two teams compete for the cup.",
+  "tip": "com+pete(追求) → 共同追求 → 竞争",
+  "chapter": 5
+ },
+ {
+  "word": "complain",
+  "meaning": "抱怨；诉苦",
+  "clues": [
+   {
+    "text": "语境陷阱：似乎有人把它用在「公民的；文明的」的场合？",
+    "meaning": "公民的；文明的",
+    "correct": false
+   },
+   {
+    "text": "模糊印象：好像和「compete」（竞争；比赛）差不多？",
+    "meaning": "竞争；比赛",
+    "correct": false
+   },
+   {
+    "text": "com+plain(捶胸) → 捶胸诉苦 → 抱怨",
+    "meaning": "抱怨；诉苦",
+    "correct": true
+   }
+  ],
+  "example": "Don't complain about the weather.",
+  "tip": "com+plain(捶胸) → 捶胸诉苦 → 抱怨",
+  "chapter": 5
+ },
+ {
+  "word": "complex",
+  "meaning": "复杂的；综合体",
+  "clues": [
+   {
+    "text": "com+plex(折叠) → 层层折叠 → 复杂",
+    "meaning": "复杂的；综合体",
+    "correct": true
+   },
+   {
+    "text": "模糊印象：好像和「cherish」（珍惜；珍爱）差不多？",
+    "meaning": "珍惜；珍爱",
+    "correct": false
+   },
+   {
+    "text": "谐音乱猜：听着像在念「compare」→ 比较；对照？",
+    "meaning": "比较；对照",
+    "correct": false
+   }
+  ],
+  "example": "This grammar rule is complex.",
+  "tip": "com+plex(折叠) → 层层折叠 → 复杂",
+  "chapter": 5
+ },
+ {
+  "word": "compose",
+  "meaning": "组成；创作",
+  "clues": [
+   {
+    "text": "谐音乱猜：听着像在念「confirm」→ 确认；证实？",
+    "meaning": "确认；证实",
+    "correct": false
+   },
+   {
+    "text": "com+pose(放) → 放到一起 → 组成",
+    "meaning": "组成；创作",
+    "correct": true
+   },
+   {
+    "text": "词根误判：拼写看着像「考虑；认为」那一族？",
+    "meaning": "考虑；认为",
+    "correct": false
+   }
+  ],
+  "example": "Water is composed of hydrogen and oxygen.",
+  "tip": "com+pose(放) → 放到一起 → 组成",
+  "chapter": 6
+ },
+ {
+  "word": "concentrate",
+  "meaning": "集中；浓缩",
+  "clues": [
+   {
+    "text": "词根误判：拼写看着像「结果；后果」那一族？",
+    "meaning": "结果；后果",
+    "correct": false
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「坦白；承认」的场合？",
+    "meaning": "坦白；承认",
+    "correct": false
+   },
+   {
+    "text": "con+centr(中心)+ate → 向中心聚拢 → 集中",
+    "meaning": "集中；浓缩",
+    "correct": true
+   }
+  ],
+  "example": "Concentrate on the word, please.",
+  "tip": "con+centr(中心)+ate → 向中心聚拢 → 集中",
+  "chapter": 6
+ },
+ {
+  "word": "concept",
+  "meaning": "概念；观念",
+  "clues": [
+   {
+    "text": "con+cept(拿) → 脑中拿住的东西 → 概念",
+    "meaning": "概念；观念",
+    "correct": true
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「下结论；结束」的场合？",
+    "meaning": "下结论；结束",
+    "correct": false
+   },
+   {
+    "text": "模糊印象：好像和「construct」（建造；构建）差不多？",
+    "meaning": "建造；构建",
+    "correct": false
+   }
+  ],
+  "example": "The concept of gravity is key.",
+  "tip": "con+cept(拿) → 脑中拿住的东西 → 概念",
+  "chapter": 6
+ },
+ {
+  "word": "concern",
+  "meaning": "关心；涉及",
+  "clues": [
+   {
+    "text": "模糊印象：好像和「consequence」（结果；后果）差不多？",
+    "meaning": "结果；后果",
+    "correct": false
+   },
+   {
+    "text": "con+cern(筛) → 一起过筛 → 关切/涉及",
+    "meaning": "关心；涉及",
+    "correct": true
+   },
+   {
+    "text": "谐音乱猜：听着像在念「conquer」→ 征服；克服？",
+    "meaning": "征服；克服",
+    "correct": false
+   }
+  ],
+  "example": "This matter concerns everyone.",
+  "tip": "con+cern(筛) → 一起过筛 → 关切/涉及",
+  "chapter": 6
+ },
+ {
+  "word": "conclude",
+  "meaning": "下结论；结束",
+  "clues": [
+   {
+    "text": "谐音乱猜：听着像在念「consequence」→ 结果；后果？",
+    "meaning": "结果；后果",
+    "correct": false
+   },
+   {
+    "text": "词根误判：拼写看着像「建造；构建」那一族？",
+    "meaning": "建造；构建",
+    "correct": false
+   },
+   {
+    "text": "con+clude(关) → 把话关住 → 下结论",
+    "meaning": "下结论；结束",
+    "correct": true
+   }
+  ],
+  "example": "We concluded the meeting at five.",
+  "tip": "con+clude(关) → 把话关住 → 下结论",
+  "chapter": 6
+ },
+ {
+  "word": "condition",
+  "meaning": "条件；状况",
+  "clues": [
+   {
+    "text": "con+dit(说)+ion → 事先说好的 → 条件",
+    "meaning": "条件；状况",
+    "correct": true
+   },
+   {
+    "text": "词根误判：拼写看着像「保护；节约」那一族？",
+    "meaning": "保护；节约",
+    "correct": false
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「集中；浓缩」的场合？",
+    "meaning": "集中；浓缩",
+    "correct": false
+   }
+  ],
+  "example": "The car is in good condition.",
+  "tip": "con+dit(说)+ion → 事先说好的 → 条件",
+  "chapter": 6
+ },
+ {
+  "word": "conduct",
+  "meaning": "实施；引导；行为",
+  "clues": [
+   {
+    "text": "语境陷阱：似乎有人把它用在「关心；涉及」的场合？",
+    "meaning": "关心；涉及",
+    "correct": false
+   },
+   {
+    "text": "con+duct(引导) → 引导/实施",
+    "meaning": "实施；引导；行为",
+    "correct": true
+   },
+   {
+    "text": "模糊印象：好像和「concentrate」（集中；浓缩）差不多？",
+    "meaning": "集中；浓缩",
+    "correct": false
+   }
+  ],
+  "example": "They conduct experiments weekly.",
+  "tip": "con+duct(引导) → 引导/实施",
+  "chapter": 6
+ },
+ {
+  "word": "confess",
+  "meaning": "坦白；承认",
+  "clues": [
+   {
+    "text": "模糊印象：好像和「conscious」（有意识的；自觉的）差不多？",
+    "meaning": "有意识的；自觉的",
+    "correct": false
+   },
+   {
+    "text": "谐音乱猜：听着像在念「connect」→ 连接；联系？",
+    "meaning": "连接；联系",
+    "correct": false
+   },
+   {
+    "text": "con+fess(说) → 全部说出来 → 坦白",
+    "meaning": "坦白；承认",
+    "correct": true
+   }
+  ],
+  "example": "He confessed his love to her.",
+  "tip": "con+fess(说) → 全部说出来 → 坦白",
+  "chapter": 6
+ },
+ {
+  "word": "confirm",
+  "meaning": "确认；证实",
+  "clues": [
+   {
+    "text": "con+firm(坚固) → 使坚固 → 确认",
+    "meaning": "确认；证实",
+    "correct": true
+   },
+   {
+    "text": "谐音乱猜：听着像在念「concern」→ 关心；涉及？",
+    "meaning": "关心；涉及",
+    "correct": false
+   },
+   {
+    "text": "词根误判：拼写看着像「坦白；承认」那一族？",
+    "meaning": "坦白；承认",
+    "correct": false
+   }
+  ],
+  "example": "Please confirm your seat number.",
+  "tip": "con+firm(坚固) → 使坚固 → 确认",
+  "chapter": 6
+ },
+ {
+  "word": "conflict",
+  "meaning": "冲突；矛盾",
+  "clues": [
+   {
+    "text": "词根误判：拼写看着像「实施；引导；行为」那一族？",
+    "meaning": "实施；引导；行为",
+    "correct": false
+   },
+   {
+    "text": "con+flict(打) → 对打 → 冲突",
+    "meaning": "冲突；矛盾",
+    "correct": true
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「建造；构建」的场合？",
+    "meaning": "建造；构建",
+    "correct": false
+   }
+  ],
+  "example": "Their opinions conflict with mine.",
+  "tip": "con+flict(打) → 对打 → 冲突",
+  "chapter": 6
+ },
+ {
+  "word": "confuse",
+  "meaning": "使困惑；混淆",
+  "clues": [
+   {
+    "text": "语境陷阱：似乎有人把它用在「持续的；不变的」的场合？",
+    "meaning": "持续的；不变的",
+    "correct": false
+   },
+   {
+    "text": "模糊印象：好像和「conserve」（保护；节约）差不多？",
+    "meaning": "保护；节约",
+    "correct": false
+   },
+   {
+    "text": "con+fuse(流) → 思绪乱流 → 困惑",
+    "meaning": "使困惑；混淆",
+    "correct": true
+   }
+  ],
+  "example": "The map confused the tourists.",
+  "tip": "con+fuse(流) → 思绪乱流 → 困惑",
+  "chapter": 6
+ },
+ {
+  "word": "connect",
+  "meaning": "连接；联系",
+  "clues": [
+   {
+    "text": "con+nect(绑) → 绑到一起 → 连接",
+    "meaning": "连接；联系",
+    "correct": true
+   },
+   {
+    "text": "模糊印象：好像和「conclude」（下结论；结束）差不多？",
+    "meaning": "下结论；结束",
+    "correct": false
+   },
+   {
+    "text": "谐音乱猜：听着像在念「consequence」→ 结果；后果？",
+    "meaning": "结果；后果",
+    "correct": false
+   }
+  ],
+  "example": "The bridge connects two islands.",
+  "tip": "con+nect(绑) → 绑到一起 → 连接",
+  "chapter": 6
+ },
+ {
+  "word": "conquer",
+  "meaning": "征服；克服",
+  "clues": [
+   {
+    "text": "谐音乱猜：听着像在念「condition」→ 条件；状况？",
+    "meaning": "条件；状况",
+    "correct": false
+   },
+   {
+    "text": "con+quer(求) → 全力求取 → 征服",
+    "meaning": "征服；克服",
+    "correct": true
+   },
+   {
+    "text": "词根误判：拼写看着像「确认；证实」那一族？",
+    "meaning": "确认；证实",
+    "correct": false
+   }
+  ],
+  "example": "We can conquer any difficulty.",
+  "tip": "con+quer(求) → 全力求取 → 征服",
+  "chapter": 6
+ },
+ {
+  "word": "conscious",
+  "meaning": "有意识的；自觉的",
+  "clues": [
+   {
+    "text": "词根误判：拼写看着像「保护；节约」那一族？",
+    "meaning": "保护；节约",
+    "correct": false
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「坦白；承认」的场合？",
+    "meaning": "坦白；承认",
+    "correct": false
+   },
+   {
+    "text": "con+sci(知)+ous → 心里明白 → 有意识",
+    "meaning": "有意识的；自觉的",
+    "correct": true
+   }
+  ],
+  "example": "She is conscious of her duty.",
+  "tip": "con+sci(知)+ous → 心里明白 → 有意识",
+  "chapter": 6
+ },
+ {
+  "word": "consequence",
+  "meaning": "结果；后果",
+  "clues": [
+   {
+    "text": "con+sequ(跟随)+ence → 跟随而来 → 结果",
+    "meaning": "结果；后果",
+    "correct": true
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「概念；观念」的场合？",
+    "meaning": "概念；观念",
+    "correct": false
+   },
+   {
+    "text": "模糊印象：好像和「conserve」（保护；节约）差不多？",
+    "meaning": "保护；节约",
+    "correct": false
+   }
+  ],
+  "example": "Every choice has a consequence.",
+  "tip": "con+sequ(跟随)+ence → 跟随而来 → 结果",
+  "chapter": 6
+ },
+ {
+  "word": "conserve",
+  "meaning": "保护；节约",
+  "clues": [
+   {
+    "text": "模糊印象：好像和「constant」（持续的；不变的）差不多？",
+    "meaning": "持续的；不变的",
+    "correct": false
+   },
+   {
+    "text": "con+serve(保持) → 保持住 → 保护/节约",
+    "meaning": "保护；节约",
+    "correct": true
+   },
+   {
+    "text": "谐音乱猜：听着像在念「concern」→ 关心；涉及？",
+    "meaning": "关心；涉及",
+    "correct": false
+   }
+  ],
+  "example": "We should conserve water.",
+  "tip": "con+serve(保持) → 保持住 → 保护/节约",
+  "chapter": 6
+ },
+ {
+  "word": "consider",
+  "meaning": "考虑；认为",
+  "clues": [
+   {
+    "text": "谐音乱猜：听着像在念「concentrate」→ 集中；浓缩？",
+    "meaning": "集中；浓缩",
+    "correct": false
+   },
+   {
+    "text": "词根误判：拼写看着像「持续的；不变的」那一族？",
+    "meaning": "持续的；不变的",
+    "correct": false
+   },
+   {
+    "text": "con+sider(星) → 对星沉思 → 考虑",
+    "meaning": "考虑；认为",
+    "correct": true
+   }
+  ],
+  "example": "Consider the meaning carefully.",
+  "tip": "con+sider(星) → 对星沉思 → 考虑",
+  "chapter": 6
+ },
+ {
+  "word": "consist",
+  "meaning": "由…组成",
+  "clues": [
+   {
+    "text": "con+sist(站) → 站在一起 → 组成",
+    "meaning": "由…组成",
+    "correct": true
+   },
+   {
+    "text": "词根误判：拼写看着像「组成；创作」那一族？",
+    "meaning": "组成；创作",
+    "correct": false
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「概念；观念」的场合？",
+    "meaning": "概念；观念",
+    "correct": false
+   }
+  ],
+  "example": "The team consists of five members.",
+  "tip": "con+sist(站) → 站在一起 → 组成",
+  "chapter": 6
+ },
+ {
+  "word": "constant",
+  "meaning": "持续的；不变的",
+  "clues": [
+   {
+    "text": "语境陷阱：似乎有人把它用在「坦白；承认」的场合？",
+    "meaning": "坦白；承认",
+    "correct": false
+   },
+   {
+    "text": "con+stant(站) → 一直站着 → 持续",
+    "meaning": "持续的；不变的",
+    "correct": true
+   },
+   {
+    "text": "模糊印象：好像和「condition」（条件；状况）差不多？",
+    "meaning": "条件；状况",
+    "correct": false
+   }
+  ],
+  "example": "Practice needs constant effort.",
+  "tip": "con+stant(站) → 一直站着 → 持续",
+  "chapter": 6
+ },
+ {
+  "word": "construct",
+  "meaning": "建造；构建",
+  "clues": [
+   {
+    "text": "模糊印象：好像和「conscious」（有意识的；自觉的）差不多？",
+    "meaning": "有意识的；自觉的",
+    "correct": false
+   },
+   {
+    "text": "谐音乱猜：听着像在念「conserve」→ 保护；节约？",
+    "meaning": "保护；节约",
+    "correct": false
+   },
+   {
+    "text": "con+struct(建) → 建造",
+    "meaning": "建造；构建",
+    "correct": true
+   }
+  ],
+  "example": "They construct a new bridge this year.",
+  "tip": "con+struct(建) → 建造",
+  "chapter": 6
+ },
+ {
+  "word": "consume",
+  "meaning": "消耗；消费",
+  "clues": [
+   {
+    "text": "con+sume(拿) → 全部拿走 → 消耗",
+    "meaning": "消耗；消费",
+    "correct": true
+   },
+   {
+    "text": "谐音乱猜：听着像在念「crash」→ 碰撞；崩溃？",
+    "meaning": "碰撞；崩溃",
+    "correct": false
+   },
+   {
+    "text": "词根误判：拼写看着像「贡献；捐助」那一族？",
+    "meaning": "贡献；捐助",
+    "correct": false
+   }
+  ],
+  "example": "The task consumed much time.",
+  "tip": "con+sume(拿) → 全部拿走 → 消耗",
+  "chapter": 7
+ },
+ {
+  "word": "contact",
+  "meaning": "联系；接触",
+  "clues": [
+   {
+    "text": "词根误判：拼写看着像「相符；通信」那一族？",
+    "meaning": "相符；通信",
+    "correct": false
+   },
+   {
+    "text": "con+tact(触) → 相互触碰 → 联系",
+    "meaning": "联系；接触",
+    "correct": true
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「包含；容纳」的场合？",
+    "meaning": "包含；容纳",
+    "correct": false
+   }
+  ],
+  "example": "Keep in contact with old friends.",
+  "tip": "con+tact(触) → 相互触碰 → 联系",
+  "chapter": 7
+ },
+ {
+  "word": "contain",
+  "meaning": "包含；容纳",
+  "clues": [
+   {
+    "text": "语境陷阱：似乎有人把它用在「相反的；反面」的场合？",
+    "meaning": "相反的；反面",
+    "correct": false
+   },
+   {
+    "text": "模糊印象：好像和「correspond」（相符；通信）差不多？",
+    "meaning": "相符；通信",
+    "correct": false
+   },
+   {
+    "text": "con+tain(握) → 握在其中 → 包含",
+    "meaning": "包含；容纳",
+    "correct": true
+   }
+  ],
+  "example": "This box contains old letters.",
+  "tip": "con+tain(握) → 握在其中 → 包含",
+  "chapter": 7
+ },
+ {
+  "word": "content",
+  "meaning": "内容；满足的",
+  "clues": [
+   {
+    "text": "con+tent(伸展) → 装在里面的 → 内容",
+    "meaning": "内容；满足的",
+    "correct": true
+   },
+   {
+    "text": "模糊印象：好像和「consume」（消耗；消费）差不多？",
+    "meaning": "消耗；消费",
+    "correct": false
+   },
+   {
+    "text": "谐音乱猜：听着像在念「correspond」→ 相符；通信？",
+    "meaning": "相符；通信",
+    "correct": false
+   }
+  ],
+  "example": "She is content with a simple life.",
+  "tip": "con+tent(伸展) → 装在里面的 → 内容",
+  "chapter": 7
+ },
+ {
+  "word": "contest",
+  "meaning": "竞赛；争夺",
+  "clues": [
+   {
+    "text": "谐音乱猜：听着像在念「convert」→ 转变；兑换？",
+    "meaning": "转变；兑换",
+    "correct": false
+   },
+   {
+    "text": "con+test(测试) → 同场测试 → 竞赛",
+    "meaning": "竞赛；争夺",
+    "correct": true
+   },
+   {
+    "text": "词根误判：拼写看着像「手艺；精心制作」那一族？",
+    "meaning": "手艺；精心制作",
+    "correct": false
+   }
+  ],
+  "example": "He won the speech contest.",
+  "tip": "con+test(测试) → 同场测试 → 竞赛",
+  "chapter": 7
+ },
+ {
+  "word": "contract",
+  "meaning": "合同；收缩",
+  "clues": [
+   {
+    "text": "词根误判：拼写看着像「说服；使信服」那一族？",
+    "meaning": "说服；使信服",
+    "correct": false
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「勇气；胆量」的场合？",
+    "meaning": "勇气；胆量",
+    "correct": false
+   },
+   {
+    "text": "con+tract(拉) → 拉到一起签字 → 合同",
+    "meaning": "合同；收缩",
+    "correct": true
+   }
+  ],
+  "example": "They signed a contract today.",
+  "tip": "con+tract(拉) → 拉到一起签字 → 合同",
+  "chapter": 7
+ },
+ {
+  "word": "contrary",
+  "meaning": "相反的；反面",
+  "clues": [
+   {
+    "text": "contra(反)+ry → 相反",
+    "meaning": "相反的；反面",
+    "correct": true
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「学分；信用」的场合？",
+    "meaning": "学分；信用",
+    "correct": false
+   },
+   {
+    "text": "模糊印象：好像和「crash」（碰撞；崩溃）差不多？",
+    "meaning": "碰撞；崩溃",
+    "correct": false
+   }
+  ],
+  "example": "On the contrary, I agree with you.",
+  "tip": "contra(反)+ry → 相反",
+  "chapter": 7
+ },
+ {
+  "word": "contribute",
+  "meaning": "贡献；捐助",
+  "clues": [
+   {
+    "text": "模糊印象：好像和「contest」（竞赛；争夺）差不多？",
+    "meaning": "竞赛；争夺",
+    "correct": false
+   },
+   {
+    "text": "con+tribute(给予) → 共同给予 → 贡献",
+    "meaning": "贡献；捐助",
+    "correct": true
+   },
+   {
+    "text": "谐音乱猜：听着像在念「contrary」→ 相反的；反面？",
+    "meaning": "相反的；反面",
+    "correct": false
+   }
+  ],
+  "example": "Everyone contributed a book.",
+  "tip": "con+tribute(给予) → 共同给予 → 贡献",
+  "chapter": 7
+ },
+ {
+  "word": "control",
+  "meaning": "控制；支配",
+  "clues": [
+   {
+    "text": "谐音乱猜：听着像在念「convince」→ 说服；使信服？",
+    "meaning": "说服；使信服",
+    "correct": false
+   },
+   {
+    "text": "词根误判：拼写看着像「相反的；反面」那一族？",
+    "meaning": "相反的；反面",
+    "correct": false
+   },
+   {
+    "text": "contr(反)+rol(轮) → 反向扳轮 → 控制",
+    "meaning": "控制；支配",
+    "correct": true
+   }
+  ],
+  "example": "Learn to control your time.",
+  "tip": "contr(反)+rol(轮) → 反向扳轮 → 控制",
+  "chapter": 7
+ },
+ {
+  "word": "convert",
+  "meaning": "转变；兑换",
+  "clues": [
+   {
+    "text": "con+vert(转) → 转变",
+    "meaning": "转变；兑换",
+    "correct": true
+   },
+   {
+    "text": "词根误判：拼写看着像「联系；接触」那一族？",
+    "meaning": "联系；接触",
+    "correct": false
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「学分；信用」的场合？",
+    "meaning": "学分；信用",
+    "correct": false
+   }
+  ],
+  "example": "They converted the attic into a study.",
+  "tip": "con+vert(转) → 转变",
+  "chapter": 7
+ },
+ {
+  "word": "convince",
+  "meaning": "说服；使信服",
+  "clues": [
+   {
+    "text": "语境陷阱：似乎有人把它用在「联系；接触」的场合？",
+    "meaning": "联系；接触",
+    "correct": false
+   },
+   {
+    "text": "con+vince(征服) → 以理征服 → 说服",
+    "meaning": "说服；使信服",
+    "correct": true
+   },
+   {
+    "text": "模糊印象：好像和「cooperate」（合作；配合）差不多？",
+    "meaning": "合作；配合",
+    "correct": false
+   }
+  ],
+  "example": "He convinced me to join the club.",
+  "tip": "con+vince(征服) → 以理征服 → 说服",
+  "chapter": 7
+ },
+ {
+  "word": "cooperate",
+  "meaning": "合作；配合",
+  "clues": [
+   {
+    "text": "模糊印象：好像和「contact」（联系；接触）差不多？",
+    "meaning": "联系；接触",
+    "correct": false
+   },
+   {
+    "text": "谐音乱猜：听着像在念「crisis」→ 危机；关头？",
+    "meaning": "危机；关头",
+    "correct": false
+   },
+   {
+    "text": "co+operate(操作) → 共同操作 → 合作",
+    "meaning": "合作；配合",
+    "correct": true
+   }
+  ],
+  "example": "The four of us cooperate well.",
+  "tip": "co+operate(操作) → 共同操作 → 合作",
+  "chapter": 7
+ },
+ {
+  "word": "cope",
+  "meaning": "应付；处理",
+  "clues": [
+   {
+    "text": "谐音「靠谱」→ 应付得靠谱 → 应付",
+    "meaning": "应付；处理",
+    "correct": true
+   },
+   {
+    "text": "谐音乱猜：听着像在念「crisis」→ 危机；关头？",
+    "meaning": "危机；关头",
+    "correct": false
+   },
+   {
+    "text": "词根误判：拼写看着像「碰撞；崩溃」那一族？",
+    "meaning": "碰撞；崩溃",
+    "correct": false
+   }
+  ],
+  "example": "She copes well with pressure.",
+  "tip": "谐音「靠谱」→ 应付得靠谱 → 应付",
+  "chapter": 7
+ },
+ {
+  "word": "correspond",
+  "meaning": "相符；通信",
+  "clues": [
+   {
+    "text": "词根误判：拼写看着像「创造；创作」那一族？",
+    "meaning": "创造；创作",
+    "correct": false
+   },
+   {
+    "text": "cor+re+spond(应答) → 互相应答 → 相符",
+    "meaning": "相符；通信",
+    "correct": true
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「危机；关头」的场合？",
+    "meaning": "危机；关头",
+    "correct": false
+   }
+  ],
+  "example": "His words correspond with facts.",
+  "tip": "cor+re+spond(应答) → 互相应答 → 相符",
+  "chapter": 7
+ },
+ {
+  "word": "courage",
+  "meaning": "勇气；胆量",
+  "clues": [
+   {
+    "text": "语境陷阱：似乎有人把它用在「合同；收缩」的场合？",
+    "meaning": "合同；收缩",
+    "correct": false
+   },
+   {
+    "text": "模糊印象：好像和「contact」（联系；接触）差不多？",
+    "meaning": "联系；接触",
+    "correct": false
+   },
+   {
+    "text": "cour(心)+age → 心中之力 → 勇气",
+    "meaning": "勇气；胆量",
+    "correct": true
+   }
+  ],
+  "example": "It takes courage to ask questions.",
+  "tip": "cour(心)+age → 心中之力 → 勇气",
+  "chapter": 7
+ },
+ {
+  "word": "craft",
+  "meaning": "手艺；精心制作",
+  "clues": [
+   {
+    "text": "谐音「刻镂夫特」→ 精雕细琢 → 手艺",
+    "meaning": "手艺；精心制作",
+    "correct": true
+   },
+   {
+    "text": "模糊印象：好像和「create」（创造；创作）差不多？",
+    "meaning": "创造；创作",
+    "correct": false
+   },
+   {
+    "text": "谐音乱猜：听着像在念「contain」→ 包含；容纳？",
+    "meaning": "包含；容纳",
+    "correct": false
+   }
+  ],
+  "example": "The book is a work of craft.",
+  "tip": "谐音「刻镂夫特」→ 精雕细琢 → 手艺",
+  "chapter": 7
+ },
+ {
+  "word": "crash",
+  "meaning": "碰撞；崩溃",
+  "clues": [
+   {
+    "text": "谐音乱猜：听着像在念「contract」→ 合同；收缩？",
+    "meaning": "合同；收缩",
+    "correct": false
+   },
+   {
+    "text": "拟声「哐啷」→ 碰撞",
+    "meaning": "碰撞；崩溃",
+    "correct": true
+   },
+   {
+    "text": "词根误判：拼写看着像「包含；容纳」那一族？",
+    "meaning": "包含；容纳",
+    "correct": false
+   }
+  ],
+  "example": "The cup crashed onto the floor.",
+  "tip": "拟声「哐啷」→ 碰撞",
+  "chapter": 7
+ },
+ {
+  "word": "create",
+  "meaning": "创造；创作",
+  "clues": [
+   {
+    "text": "词根误判：拼写看着像「包含；容纳」那一族？",
+    "meaning": "包含；容纳",
+    "correct": false
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「贡献；捐助」的场合？",
+    "meaning": "贡献；捐助",
+    "correct": false
+   },
+   {
+    "text": "cre(生长)+ate → 使生长 → 创造",
+    "meaning": "创造；创作",
+    "correct": true
+   }
+  ],
+  "example": "Writers create new worlds.",
+  "tip": "cre(生长)+ate → 使生长 → 创造",
+  "chapter": 7
+ },
+ {
+  "word": "credit",
+  "meaning": "学分；信用",
+  "clues": [
+   {
+    "text": "cred(相信)+it → 可相信 → 信用/学分",
+    "meaning": "学分；信用",
+    "correct": true
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「应付；处理」的场合？",
+    "meaning": "应付；处理",
+    "correct": false
+   },
+   {
+    "text": "模糊印象：好像和「content」（内容；满足的）差不多？",
+    "meaning": "内容；满足的",
+    "correct": false
+   }
+  ],
+  "example": "This course is worth three credits.",
+  "tip": "cred(相信)+it → 可相信 → 信用/学分",
+  "chapter": 7
+ },
+ {
+  "word": "crisis",
+  "meaning": "危机；关头",
+  "clues": [
+   {
+    "text": "模糊印象：好像和「credit」（学分；信用）差不多？",
+    "meaning": "学分；信用",
+    "correct": false
+   },
+   {
+    "text": "谐音「快来兮死」→ 危急时刻 → 危机",
+    "meaning": "危机；关头",
+    "correct": true
+   },
+   {
+    "text": "谐音乱猜：听着像在念「contribute」→ 贡献；捐助？",
+    "meaning": "贡献；捐助",
+    "correct": false
+   }
+  ],
+  "example": "We stayed calm in the crisis.",
+  "tip": "谐音「快来兮死」→ 危急时刻 → 危机",
+  "chapter": 7
+ },
+ {
+  "word": "crucial",
+  "meaning": "关键的；决定性的",
+  "clues": [
+   {
+    "text": "谐音乱猜：听着像在念「demand」→ 要求；需求？",
+    "meaning": "要求；需求",
+    "correct": false
+   },
+   {
+    "text": "词根误判：拼写看着像「好奇的；求知的」那一族？",
+    "meaning": "好奇的；求知的",
+    "correct": false
+   },
+   {
+    "text": "cruc(十字)+ial → 十字路口 → 关键",
+    "meaning": "关键的；决定性的",
+    "correct": true
+   }
+  ],
+  "example": "This is a crucial moment for us.",
+  "tip": "cruc(十字)+ial → 十字路口 → 关键",
+  "chapter": 8
+ },
+ {
+  "word": "cultivate",
+  "meaning": "培养；耕作",
+  "clues": [
+   {
+    "text": "cult(耕)+ivate → 耕耘 → 培养",
+    "meaning": "培养；耕作",
+    "correct": true
+   },
+   {
+    "text": "词根误判：拼写看着像「当前的；水流」那一族？",
+    "meaning": "当前的；水流",
+    "correct": false
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「保卫；辩护」的场合？",
+    "meaning": "保卫；辩护",
+    "correct": false
+   }
+  ],
+  "example": "Reading cultivates the mind.",
+  "tip": "cult(耕)+ivate → 耕耘 → 培养",
+  "chapter": 8
+ },
+ {
+  "word": "curious",
+  "meaning": "好奇的；求知的",
+  "clues": [
+   {
+    "text": "语境陷阱：似乎有人把它用在「要求；需求」的场合？",
+    "meaning": "要求；需求",
+    "correct": false
+   },
+   {
+    "text": "cur(关心)+ious → 事事关心 → 好奇",
+    "meaning": "好奇的；求知的",
+    "correct": true
+   },
+   {
+    "text": "模糊印象：好像和「delicate」（精致的；脆弱的）差不多？",
+    "meaning": "精致的；脆弱的",
+    "correct": false
+   }
+  ],
+  "example": "The curious child asked why.",
+  "tip": "cur(关心)+ious → 事事关心 → 好奇",
+  "chapter": 8
+ },
+ {
+  "word": "current",
+  "meaning": "当前的；水流",
+  "clues": [
+   {
+    "text": "模糊印象：好像和「decorate」（装饰；布置）差不多？",
+    "meaning": "装饰；布置",
+    "correct": false
+   },
+   {
+    "text": "谐音乱猜：听着像在念「declare」→ 宣布；声明？",
+    "meaning": "宣布；声明",
+    "correct": false
+   },
+   {
+    "text": "curr(跑)+ent → 正在奔流的 → 当前",
+    "meaning": "当前的；水流",
+    "correct": true
+   }
+  ],
+  "example": "The current situation is stable.",
+  "tip": "curr(跑)+ent → 正在奔流的 → 当前",
+  "chapter": 8
+ },
+ {
+  "word": "curse",
+  "meaning": "诅咒；咒骂",
+  "clues": [
+   {
+    "text": "谐音「克死」→ 诅咒",
+    "meaning": "诅咒；咒骂",
+    "correct": true
+   },
+   {
+    "text": "谐音乱猜：听着像在念「debate」→ 辩论；争论？",
+    "meaning": "辩论；争论",
+    "correct": false
+   },
+   {
+    "text": "词根误判：拼写看着像「装饰；布置」那一族？",
+    "meaning": "装饰；布置",
+    "correct": false
+   }
+  ],
+  "example": "The witch put a curse on the tower.",
+  "tip": "谐音「克死」→ 诅咒",
+  "chapter": 8
+ },
+ {
+  "word": "custom",
+  "meaning": "习俗；惯例",
+  "clues": [
+   {
+    "text": "词根误判：拼写看着像「腐烂；衰落」那一族？",
+    "meaning": "腐烂；衰落",
+    "correct": false
+   },
+   {
+    "text": "谐音「卡死特姆」→ 老规矩 → 习俗",
+    "meaning": "习俗；惯例",
+    "correct": true
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「宣布；声明」的场合？",
+    "meaning": "宣布；声明",
+    "correct": false
+   }
+  ],
+  "example": "It is the custom to bow here.",
+  "tip": "谐音「卡死特姆」→ 老规矩 → 习俗",
+  "chapter": 8
+ },
+ {
+  "word": "damage",
+  "meaning": "损害；损失",
+  "clues": [
+   {
+    "text": "语境陷阱：似乎有人把它用在「击败；战胜」的场合？",
+    "meaning": "击败；战胜",
+    "correct": false
+   },
+   {
+    "text": "模糊印象：好像和「curse」（诅咒；咒骂）差不多？",
+    "meaning": "诅咒；咒骂",
+    "correct": false
+   },
+   {
+    "text": "dam(坝)+age → 坝坏成灾 → 损害",
+    "meaning": "损害；损失",
+    "correct": true
+   }
+  ],
+  "example": "The storm damaged the roof.",
+  "tip": "dam(坝)+age → 坝坏成灾 → 损害",
+  "chapter": 8
+ },
+ {
+  "word": "debate",
+  "meaning": "辩论；争论",
+  "clues": [
+   {
+    "text": "de+bate(打) → 以言相打 → 辩论",
+    "meaning": "辩论；争论",
+    "correct": true
+   },
+   {
+    "text": "模糊印象：好像和「decline」（下降；婉拒）差不多？",
+    "meaning": "下降；婉拒",
+    "correct": false
+   },
+   {
+    "text": "谐音乱猜：听着像在念「define」→ 下定义；界定？",
+    "meaning": "下定义；界定",
+    "correct": false
+   }
+  ],
+  "example": "We had a debate about heroes.",
+  "tip": "de+bate(打) → 以言相打 → 辩论",
+  "chapter": 8
+ },
+ {
+  "word": "decay",
+  "meaning": "腐烂；衰落",
+  "clues": [
+   {
+    "text": "谐音乱猜：听着像在念「decorate」→ 装饰；布置？",
+    "meaning": "装饰；布置",
+    "correct": false
+   },
+   {
+    "text": "de+cay(落) → 衰落 → 腐烂",
+    "meaning": "腐烂；衰落",
+    "correct": true
+   },
+   {
+    "text": "词根误判：拼写看着像「好奇的；求知的」那一族？",
+    "meaning": "好奇的；求知的",
+    "correct": false
+   }
+  ],
+  "example": "Old leaves decay into soil.",
+  "tip": "de+cay(落) → 衰落 → 腐烂",
+  "chapter": 8
+ },
+ {
+  "word": "declare",
+  "meaning": "宣布；声明",
+  "clues": [
+   {
+    "text": "词根误判：拼写看着像「关键的；决定性的」那一族？",
+    "meaning": "关键的；决定性的",
+    "correct": false
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「下定义；界定」的场合？",
+    "meaning": "下定义；界定",
+    "correct": false
+   },
+   {
+    "text": "de+clare(清楚) → 讲清楚 → 宣布",
+    "meaning": "宣布；声明",
+    "correct": true
+   }
+  ],
+  "example": "She declared her goal aloud.",
+  "tip": "de+clare(清楚) → 讲清楚 → 宣布",
+  "chapter": 8
+ },
+ {
+  "word": "decline",
+  "meaning": "下降；婉拒",
+  "clues": [
+   {
+    "text": "de+cline(斜) → 向下斜 → 下降",
+    "meaning": "下降；婉拒",
+    "correct": true
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「要求；需求」的场合？",
+    "meaning": "要求；需求",
+    "correct": false
+   },
+   {
+    "text": "模糊印象：好像和「current」（当前的；水流）差不多？",
+    "meaning": "当前的；水流",
+    "correct": false
+   }
+  ],
+  "example": "Sales declined last month.",
+  "tip": "de+cline(斜) → 向下斜 → 下降",
+  "chapter": 8
+ },
+ {
+  "word": "decorate",
+  "meaning": "装饰；布置",
+  "clues": [
+   {
+    "text": "模糊印象：好像和「curious」（好奇的；求知的）差不多？",
+    "meaning": "好奇的；求知的",
+    "correct": false
+   },
+   {
+    "text": "decor(美)+ate → 使美 → 装饰",
+    "meaning": "装饰；布置",
+    "correct": true
+   },
+   {
+    "text": "谐音乱猜：听着像在念「deliver」→ 递送；发表？",
+    "meaning": "递送；发表",
+    "correct": false
+   }
+  ],
+  "example": "We decorated the hall with stars.",
+  "tip": "decor(美)+ate → 使美 → 装饰",
+  "chapter": 8
+ },
+ {
+  "word": "dedicate",
+  "meaning": "奉献；致力于",
+  "clues": [
+   {
+    "text": "谐音乱猜：听着像在念「damage」→ 损害；损失？",
+    "meaning": "损害；损失",
+    "correct": false
+   },
+   {
+    "text": "词根误判：拼写看着像「精致的；脆弱的」那一族？",
+    "meaning": "精致的；脆弱的",
+    "correct": false
+   },
+   {
+    "text": "de+dic(说)+ate → 郑重宣告献出 → 奉献",
+    "meaning": "奉献；致力于",
+    "correct": true
+   }
+  ],
+  "example": "He dedicated his life to teaching.",
+  "tip": "de+dic(说)+ate → 郑重宣告献出 → 奉献",
+  "chapter": 8
+ },
+ {
+  "word": "defeat",
+  "meaning": "击败；战胜",
+  "clues": [
+   {
+    "text": "de+feat(做) → 做倒对方 → 击败",
+    "meaning": "击败；战胜",
+    "correct": true
+   },
+   {
+    "text": "词根误判：拼写看着像「腐烂；衰落」那一族？",
+    "meaning": "腐烂；衰落",
+    "correct": false
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「诅咒；咒骂」的场合？",
+    "meaning": "诅咒；咒骂",
+    "correct": false
+   }
+  ],
+  "example": "Our team defeated the champions.",
+  "tip": "de+feat(做) → 做倒对方 → 击败",
+  "chapter": 8
+ },
+ {
+  "word": "defend",
+  "meaning": "保卫；辩护",
+  "clues": [
+   {
+    "text": "语境陷阱：似乎有人把它用在「装饰；布置」的场合？",
+    "meaning": "装饰；布置",
+    "correct": false
+   },
+   {
+    "text": "de+fend(挡) → 挡开攻击 → 保卫",
+    "meaning": "保卫；辩护",
+    "correct": true
+   },
+   {
+    "text": "模糊印象：好像和「curious」（好奇的；求知的）差不多？",
+    "meaning": "好奇的；求知的",
+    "correct": false
+   }
+  ],
+  "example": "Knights defend the tree court.",
+  "tip": "de+fend(挡) → 挡开攻击 → 保卫",
+  "chapter": 8
+ },
+ {
+  "word": "define",
+  "meaning": "下定义；界定",
+  "clues": [
+   {
+    "text": "模糊印象：好像和「debate」（辩论；争论）差不多？",
+    "meaning": "辩论；争论",
+    "correct": false
+   },
+   {
+    "text": "谐音乱猜：听着像在念「decorate」→ 装饰；布置？",
+    "meaning": "装饰；布置",
+    "correct": false
+   },
+   {
+    "text": "de+fine(界限) → 划定界限 → 下定义",
+    "meaning": "下定义；界定",
+    "correct": true
+   }
+  ],
+  "example": "Can you define this word?",
+  "tip": "de+fine(界限) → 划定界限 → 下定义",
+  "chapter": 8
+ },
+ {
+  "word": "delay",
+  "meaning": "推迟；耽搁",
+  "clues": [
+   {
+    "text": "de+lay(放) → 往后放 → 推迟",
+    "meaning": "推迟；耽搁",
+    "correct": true
+   },
+   {
+    "text": "谐音乱猜：听着像在念「declare」→ 宣布；声明？",
+    "meaning": "宣布；声明",
+    "correct": false
+   },
+   {
+    "text": "词根误判：拼写看着像「习俗；惯例」那一族？",
+    "meaning": "习俗；惯例",
+    "correct": false
+   }
+  ],
+  "example": "The flight was delayed by fog.",
+  "tip": "de+lay(放) → 往后放 → 推迟",
+  "chapter": 8
+ },
+ {
+  "word": "delicate",
+  "meaning": "精致的；脆弱的",
+  "clues": [
+   {
+    "text": "词根误判：拼写看着像「保卫；辩护」那一族？",
+    "meaning": "保卫；辩护",
+    "correct": false
+   },
+   {
+    "text": "de+lic(诱)+ate → 美而需小心 → 精致",
+    "meaning": "精致的；脆弱的",
+    "correct": true
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「递送；发表」的场合？",
+    "meaning": "递送；发表",
+    "correct": false
+   }
+  ],
+  "example": "This is a delicate glass cup.",
+  "tip": "de+lic(诱)+ate → 美而需小心 → 精致",
+  "chapter": 8
+ },
+ {
+  "word": "deliver",
+  "meaning": "递送；发表",
+  "clues": [
+   {
+    "text": "语境陷阱：似乎有人把它用在「宣布；声明」的场合？",
+    "meaning": "宣布；声明",
+    "correct": false
+   },
+   {
+    "text": "模糊印象：好像和「delay」（推迟；耽搁）差不多？",
+    "meaning": "推迟；耽搁",
+    "correct": false
+   },
+   {
+    "text": "de+liver(自由) → 送抵解脱 → 递送",
+    "meaning": "递送；发表",
+    "correct": true
+   }
+  ],
+  "example": "The mailman delivers letters daily.",
+  "tip": "de+liver(自由) → 送抵解脱 → 递送",
+  "chapter": 8
+ },
+ {
+  "word": "demand",
+  "meaning": "要求；需求",
+  "clues": [
+   {
+    "text": "de+mand(委托) → 郑重托付 → 要求",
+    "meaning": "要求；需求",
+    "correct": true
+   },
+   {
+    "text": "模糊印象：好像和「crucial」（关键的；决定性的）差不多？",
+    "meaning": "关键的；决定性的",
+    "correct": false
+   },
+   {
+    "text": "谐音乱猜：听着像在念「delicate」→ 精致的；脆弱的？",
+    "meaning": "精致的；脆弱的",
+    "correct": false
+   }
+  ],
+  "example": "The task demands patience.",
+  "tip": "de+mand(委托) → 郑重托付 → 要求",
+  "chapter": 8
+ },
+ {
+  "word": "democracy",
+  "meaning": "民主；民主制",
+  "clues": [
+   {
+    "text": "谐音乱猜：听着像在念「describe」→ 描述；形容？",
+    "meaning": "描述；形容",
+    "correct": false
+   },
+   {
+    "text": "demo(人民)+cracy(统治) → 人民统治 → 民主",
+    "meaning": "民主；民主制",
+    "correct": true
+   },
+   {
+    "text": "词根误判：拼写看着像「离开；出发」那一族？",
+    "meaning": "离开；出发",
+    "correct": false
+   }
+  ],
+  "example": "Democracy matters in our club votes.",
+  "tip": "demo(人民)+cracy(统治) → 人民统治 → 民主",
+  "chapter": 9
+ },
+ {
+  "word": "demonstrate",
+  "meaning": "演示；证明",
+  "clues": [
+   {
+    "text": "词根误判：拼写看着像「依靠；取决于」那一族？",
+    "meaning": "依靠；取决于",
+    "correct": false
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「源自；获得」的场合？",
+    "meaning": "源自；获得",
+    "correct": false
+   },
+   {
+    "text": "de+monstr(显示)+ate → 清楚显示 → 演示",
+    "meaning": "演示；证明",
+    "correct": true
+   }
+  ],
+  "example": "Let me demonstrate the experiment.",
+  "tip": "de+monstr(显示)+ate → 清楚显示 → 演示",
+  "chapter": 9
+ },
+ {
+  "word": "dense",
+  "meaning": "密集的；浓厚的",
+  "clues": [
+   {
+    "text": "谐音「等死」→ 人多挤到等死 → 密集",
+    "meaning": "密集的；浓厚的",
+    "correct": true
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「离开；出发」的场合？",
+    "meaning": "离开；出发",
+    "correct": false
+   },
+   {
+    "text": "模糊印象：好像和「diagnose」（诊断；判断）差不多？",
+    "meaning": "诊断；判断",
+    "correct": false
+   }
+  ],
+  "example": "The forest is dense with trees.",
+  "tip": "谐音「等死」→ 人多挤到等死 → 密集",
+  "chapter": 9
+ },
+ {
+  "word": "deny",
+  "meaning": "否认；拒绝",
+  "clues": [
+   {
+    "text": "模糊印象：好像和「devote」（奉献；投入）差不多？",
+    "meaning": "奉献；投入",
+    "correct": false
+   },
+   {
+    "text": "de+ny(说不) → 否认",
+    "meaning": "否认；拒绝",
+    "correct": true
+   },
+   {
+    "text": "谐音乱猜：听着像在念「depend」→ 依靠；取决于？",
+    "meaning": "依靠；取决于",
+    "correct": false
+   }
+  ],
+  "example": "He denied breaking the window.",
+  "tip": "de+ny(说不) → 否认",
+  "chapter": 9
+ },
+ {
+  "word": "depart",
+  "meaning": "离开；出发",
+  "clues": [
+   {
+    "text": "谐音乱猜：听着像在念「derive」→ 源自；获得？",
+    "meaning": "源自；获得",
+    "correct": false
+   },
+   {
+    "text": "词根误判：拼写看着像「描述；形容」那一族？",
+    "meaning": "描述；形容",
+    "correct": false
+   },
+   {
+    "text": "de+part(分开) → 分开走 → 离开",
+    "meaning": "离开；出发",
+    "correct": true
+   }
+  ],
+  "example": "The train departs at nine.",
+  "tip": "de+part(分开) → 分开走 → 离开",
+  "chapter": 9
+ },
+ {
+  "word": "depend",
+  "meaning": "依靠；取决于",
+  "clues": [
+   {
+    "text": "de+pend(挂) → 挂在上面 → 依靠",
+    "meaning": "依靠；取决于",
+    "correct": true
+   },
+   {
+    "text": "词根误判：拼写看着像「存放；存款」那一族？",
+    "meaning": "存放；存款",
+    "correct": false
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「值得；应得」的场合？",
+    "meaning": "值得；应得",
+    "correct": false
+   }
+  ],
+  "example": "Children depend on their parents.",
+  "tip": "de+pend(挂) → 挂在上面 → 依靠",
+  "chapter": 9
+ },
+ {
+  "word": "depict",
+  "meaning": "描绘；刻画",
+  "clues": [
+   {
+    "text": "语境陷阱：似乎有人把它用在「存放；存款」的场合？",
+    "meaning": "存放；存款",
+    "correct": false
+   },
+   {
+    "text": "de+pict(画) → 描绘",
+    "meaning": "描绘；刻画",
+    "correct": true
+   },
+   {
+    "text": "模糊印象：好像和「derive」（源自；获得）差不多？",
+    "meaning": "源自；获得",
+    "correct": false
+   }
+  ],
+  "example": "The poem depicts a quiet lake.",
+  "tip": "de+pict(画) → 描绘",
+  "chapter": 9
+ },
+ {
+  "word": "deposit",
+  "meaning": "存放；存款",
+  "clues": [
+   {
+    "text": "模糊印象：好像和「determine」（决定；确定）差不多？",
+    "meaning": "决定；确定",
+    "correct": false
+   },
+   {
+    "text": "谐音乱猜：听着像在念「detect」→ 察觉；探测？",
+    "meaning": "察觉；探测",
+    "correct": false
+   },
+   {
+    "text": "de+posit(放) → 放下存起 → 存放",
+    "meaning": "存放；存款",
+    "correct": true
+   }
+  ],
+  "example": "She deposited money in the bank.",
+  "tip": "de+posit(放) → 放下存起 → 存放",
+  "chapter": 9
+ },
+ {
+  "word": "depress",
+  "meaning": "使沮丧；压低",
+  "clues": [
+   {
+    "text": "de+press(压) → 向下压 → 使沮丧",
+    "meaning": "使沮丧；压低",
+    "correct": true
+   },
+   {
+    "text": "谐音乱猜：听着像在念「derive」→ 源自；获得？",
+    "meaning": "源自；获得",
+    "correct": false
+   },
+   {
+    "text": "词根误判：拼写看着像「演示；证明」那一族？",
+    "meaning": "演示；证明",
+    "correct": false
+   }
+  ],
+  "example": "The grey sky depressed everyone.",
+  "tip": "de+press(压) → 向下压 → 使沮丧",
+  "chapter": 9
+ },
+ {
+  "word": "derive",
+  "meaning": "源自；获得",
+  "clues": [
+   {
+    "text": "词根误判：拼写看着像「密集的；浓厚的」那一族？",
+    "meaning": "密集的；浓厚的",
+    "correct": false
+   },
+   {
+    "text": "de+rive(河流) → 从源头流下 → 源自",
+    "meaning": "源自；获得",
+    "correct": true
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「尽管；任凭」的场合？",
+    "meaning": "尽管；任凭",
+    "correct": false
+   }
+  ],
+  "example": "Many words derive from Latin.",
+  "tip": "de+rive(河流) → 从源头流下 → 源自",
+  "chapter": 9
+ },
+ {
+  "word": "describe",
+  "meaning": "描述；形容",
+  "clues": [
+   {
+    "text": "语境陷阱：似乎有人把它用在「使沮丧；压低」的场合？",
+    "meaning": "使沮丧；压低",
+    "correct": false
+   },
+   {
+    "text": "模糊印象：好像和「demonstrate」（演示；证明）差不多？",
+    "meaning": "演示；证明",
+    "correct": false
+   },
+   {
+    "text": "de+scribe(写) → 写下来 → 描述",
+    "meaning": "描述；形容",
+    "correct": true
+   }
+  ],
+  "example": "Describe the picture in English.",
+  "tip": "de+scribe(写) → 写下来 → 描述",
+  "chapter": 9
+ },
+ {
+  "word": "deserve",
+  "meaning": "值得；应得",
+  "clues": [
+   {
+    "text": "de+serve(服务) → 服务到位 → 值得",
+    "meaning": "值得；应得",
+    "correct": true
+   },
+   {
+    "text": "模糊印象：好像和「democracy」（民主；民主制）差不多？",
+    "meaning": "民主；民主制",
+    "correct": false
+   },
+   {
+    "text": "谐音乱猜：听着像在念「describe」→ 描述；形容？",
+    "meaning": "描述；形容",
+    "correct": false
+   }
+  ],
+  "example": "You deserve a good rest.",
+  "tip": "de+serve(服务) → 服务到位 → 值得",
+  "chapter": 9
+ },
+ {
+  "word": "design",
+  "meaning": "设计；图案",
+  "clues": [
+   {
+    "text": "谐音乱猜：听着像在念「depart」→ 离开；出发？",
+    "meaning": "离开；出发",
+    "correct": false
+   },
+   {
+    "text": "de+sign(标记) → 画出标记 → 设计",
+    "meaning": "设计；图案",
+    "correct": true
+   },
+   {
+    "text": "词根误判：拼写看着像「使沮丧；压低」那一族？",
+    "meaning": "使沮丧；压低",
+    "correct": false
+   }
+  ],
+  "example": "She designed the festival poster.",
+  "tip": "de+sign(标记) → 画出标记 → 设计",
+  "chapter": 9
+ },
+ {
+  "word": "desire",
+  "meaning": "渴望；愿望",
+  "clues": [
+   {
+    "text": "词根误判：拼写看着像「依靠；取决于」那一族？",
+    "meaning": "依靠；取决于",
+    "correct": false
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「摧毁；破坏」的场合？",
+    "meaning": "摧毁；破坏",
+    "correct": false
+   },
+   {
+    "text": "de+sire(星) → 对星许愿 → 渴望",
+    "meaning": "渴望；愿望",
+    "correct": true
+   }
+  ],
+  "example": "He has a strong desire to learn.",
+  "tip": "de+sire(星) → 对星许愿 → 渴望",
+  "chapter": 9
+ },
+ {
+  "word": "despite",
+  "meaning": "尽管；任凭",
+  "clues": [
+   {
+    "text": "de+spite(恶意) → 任凭恶意 → 尽管",
+    "meaning": "尽管；任凭",
+    "correct": true
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「奉献；投入」的场合？",
+    "meaning": "奉献；投入",
+    "correct": false
+   },
+   {
+    "text": "模糊印象：好像和「desire」（渴望；愿望）差不多？",
+    "meaning": "渴望；愿望",
+    "correct": false
+   }
+  ],
+  "example": "Despite the rain, we kept walking.",
+  "tip": "de+spite(恶意) → 任凭恶意 → 尽管",
+  "chapter": 9
+ },
+ {
+  "word": "destroy",
+  "meaning": "摧毁；破坏",
+  "clues": [
+   {
+    "text": "模糊印象：好像和「devote」（奉献；投入）差不多？",
+    "meaning": "奉献；投入",
+    "correct": false
+   },
+   {
+    "text": "de+stroy(建) → 建之反面 → 摧毁",
+    "meaning": "摧毁；破坏",
+    "correct": true
+   },
+   {
+    "text": "谐音乱猜：听着像在念「democracy」→ 民主；民主制？",
+    "meaning": "民主；民主制",
+    "correct": false
+   }
+  ],
+  "example": "The fire destroyed the old mill.",
+  "tip": "de+stroy(建) → 建之反面 → 摧毁",
+  "chapter": 9
+ },
+ {
+  "word": "detect",
+  "meaning": "察觉；探测",
+  "clues": [
+   {
+    "text": "谐音乱猜：听着像在念「deny」→ 否认；拒绝？",
+    "meaning": "否认；拒绝",
+    "correct": false
+   },
+   {
+    "text": "词根误判：拼写看着像「密集的；浓厚的」那一族？",
+    "meaning": "密集的；浓厚的",
+    "correct": false
+   },
+   {
+    "text": "de+tect(盖) → 揭开盖子 → 察觉",
+    "meaning": "察觉；探测",
+    "correct": true
+   }
+  ],
+  "example": "I detected a strange smell.",
+  "tip": "de+tect(盖) → 揭开盖子 → 察觉",
+  "chapter": 9
+ },
+ {
+  "word": "determine",
+  "meaning": "决定；确定",
+  "clues": [
+   {
+    "text": "de+termin(界限) → 划定界限 → 决定",
+    "meaning": "决定；确定",
+    "correct": true
+   },
+   {
+    "text": "词根误判：拼写看着像「离开；出发」那一族？",
+    "meaning": "离开；出发",
+    "correct": false
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「奉献；投入」的场合？",
+    "meaning": "奉献；投入",
+    "correct": false
+   }
+  ],
+  "example": "We determined to finish today.",
+  "tip": "de+termin(界限) → 划定界限 → 决定",
+  "chapter": 9
+ },
+ {
+  "word": "devote",
+  "meaning": "奉献；投入",
+  "clues": [
+   {
+    "text": "语境陷阱：似乎有人把它用在「演示；证明」的场合？",
+    "meaning": "演示；证明",
+    "correct": false
+   },
+   {
+    "text": "de+vote(发誓) → 发誓献出 → 奉献",
+    "meaning": "奉献；投入",
+    "correct": true
+   },
+   {
+    "text": "模糊印象：好像和「deserve」（值得；应得）差不多？",
+    "meaning": "值得；应得",
+    "correct": false
+   }
+  ],
+  "example": "She devotes her time to charity.",
+  "tip": "de+vote(发誓) → 发誓献出 → 奉献",
+  "chapter": 9
+ },
+ {
+  "word": "diagnose",
+  "meaning": "诊断；判断",
+  "clues": [
+   {
+    "text": "模糊印象：好像和「devote」（奉献；投入）差不多？",
+    "meaning": "奉献；投入",
+    "correct": false
+   },
+   {
+    "text": "谐音乱猜：听着像在念「determine」→ 决定；确定？",
+    "meaning": "决定；确定",
+    "correct": false
+   },
+   {
+    "text": "dia(穿过)+gnose(知) → 透视知病 → 诊断",
+    "meaning": "诊断；判断",
+    "correct": true
+   }
+  ],
+  "example": "The doctor diagnosed a cold.",
+  "tip": "dia(穿过)+gnose(知) → 透视知病 → 诊断",
+  "chapter": 9
+ },
+ {
+  "word": "dialogue",
+  "meaning": "对话；对白",
+  "clues": [
+   {
+    "text": "dia(对)+logue(说) → 对说 → 对话",
+    "meaning": "对话；对白",
+    "correct": true
+   },
+   {
+    "text": "谐音乱猜：听着像在念「disaster」→ 灾难；灾祸？",
+    "meaning": "灾难；灾祸",
+    "correct": false
+   },
+   {
+    "text": "词根误判：拼写看着像「争论；争端」那一族？",
+    "meaning": "争论；争端",
+    "correct": false
+   }
+  ],
+  "example": "Our whole lesson is a dialogue.",
+  "tip": "dia(对)+logue(说) → 对说 → 对话",
+  "chapter": 10
+ },
+ {
+  "word": "dignity",
+  "meaning": "尊严；庄重",
+  "clues": [
+   {
+    "text": "词根误判：拼写看着像「灾难；灾祸」那一族？",
+    "meaning": "灾难；灾祸",
+    "correct": false
+   },
+   {
+    "text": "dign(值得)+ity → 值得敬重 → 尊严",
+    "meaning": "尊严；庄重",
+    "correct": true
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「两难；困境」的场合？",
+    "meaning": "两难；困境",
+    "correct": false
+   }
+  ],
+  "example": "Keep your dignity in failure.",
+  "tip": "dign(值得)+ity → 值得敬重 → 尊严",
+  "chapter": 10
+ },
+ {
+  "word": "dilemma",
+  "meaning": "两难；困境",
+  "clues": [
+   {
+    "text": "语境陷阱：似乎有人把它用在「解散；不予理会」的场合？",
+    "meaning": "解散；不予理会",
+    "correct": false
+   },
+   {
+    "text": "模糊印象：好像和「display」（展示；陈列）差不多？",
+    "meaning": "展示；陈列",
+    "correct": false
+   },
+   {
+    "text": "di(二)+lemma(命题) → 两个命题 → 两难",
+    "meaning": "两难；困境",
+    "correct": true
+   }
+  ],
+  "example": "She faced a difficult dilemma.",
+  "tip": "di(二)+lemma(命题) → 两个命题 → 两难",
+  "chapter": 10
+ },
+ {
+  "word": "diligent",
+  "meaning": "勤奋的；刻苦的",
+  "clues": [
+   {
+    "text": "di+lig(选)+ent → 精选细做 → 勤奋",
+    "meaning": "勤奋的；刻苦的",
+    "correct": true
+   },
+   {
+    "text": "模糊印象：好像和「dignity」（尊严；庄重）差不多？",
+    "meaning": "尊严；庄重",
+    "correct": false
+   },
+   {
+    "text": "谐音乱猜：听着像在念「display」→ 展示；陈列？",
+    "meaning": "展示；陈列",
+    "correct": false
+   }
+  ],
+  "example": "Diligent students master words fast.",
+  "tip": "di+lig(选)+ent → 精选细做 → 勤奋",
+  "chapter": 10
+ },
+ {
+  "word": "dimension",
+  "meaning": "维度；尺寸",
+  "clues": [
+   {
+    "text": "谐音乱猜：听着像在念「discipline」→ 纪律；自律？",
+    "meaning": "纪律；自律",
+    "correct": false
+   },
+   {
+    "text": "di+mens(测量)+ion → 测出之量 → 维度",
+    "meaning": "维度；尺寸",
+    "correct": true
+   },
+   {
+    "text": "词根误判：拼写看着像「折扣；打折」那一族？",
+    "meaning": "折扣；打折",
+    "correct": false
+   }
+  ],
+  "example": "A line has only one dimension.",
+  "tip": "di+mens(测量)+ion → 测出之量 → 维度",
+  "chapter": 10
+ },
+ {
+  "word": "disaster",
+  "meaning": "灾难；灾祸",
+  "clues": [
+   {
+    "text": "词根误判：拼写看着像「勤奋的；刻苦的」那一族？",
+    "meaning": "勤奋的；刻苦的",
+    "correct": false
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「展示；陈列」的场合？",
+    "meaning": "展示；陈列",
+    "correct": false
+   },
+   {
+    "text": "dis(坏)+aster(星) → 星位不正 → 灾难",
+    "meaning": "灾难；灾祸",
+    "correct": true
+   }
+  ],
+  "example": "The flood was a disaster.",
+  "tip": "dis(坏)+aster(星) → 星位不正 → 灾难",
+  "chapter": 10
+ },
+ {
+  "word": "discard",
+  "meaning": "丢弃；抛弃",
+  "clues": [
+   {
+    "text": "dis(去)+card(牌) → 丢牌 → 丢弃",
+    "meaning": "丢弃；抛弃",
+    "correct": true
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「分发；分布」的场合？",
+    "meaning": "分发；分布",
+    "correct": false
+   },
+   {
+    "text": "模糊印象：好像和「dispute」（争论；争端）差不多？",
+    "meaning": "争论；争端",
+    "correct": false
+   }
+  ],
+  "example": "Discard your doubts and begin.",
+  "tip": "dis(去)+card(牌) → 丢牌 → 丢弃",
+  "chapter": 10
+ },
+ {
+  "word": "discipline",
+  "meaning": "纪律；自律",
+  "clues": [
+   {
+    "text": "模糊印象：好像和「dimension」（维度；尺寸）差不多？",
+    "meaning": "维度；尺寸",
+    "correct": false
+   },
+   {
+    "text": "discipl(弟子)+ine → 弟子守则 → 纪律",
+    "meaning": "纪律；自律",
+    "correct": true
+   },
+   {
+    "text": "谐音乱猜：听着像在念「discount」→ 折扣；打折？",
+    "meaning": "折扣；打折",
+    "correct": false
+   }
+  ],
+  "example": "Self-discipline brings freedom.",
+  "tip": "discipl(弟子)+ine → 弟子守则 → 纪律",
+  "chapter": 10
+ },
+ {
+  "word": "discount",
+  "meaning": "折扣；打折",
+  "clues": [
+   {
+    "text": "谐音乱猜：听着像在念「disaster」→ 灾难；灾祸？",
+    "meaning": "灾难；灾祸",
+    "correct": false
+   },
+   {
+    "text": "词根误判：拼写看着像「多样的；不同的」那一族？",
+    "meaning": "多样的；不同的",
+    "correct": false
+   },
+   {
+    "text": "dis(去)+count(算) → 少算钱 → 折扣",
+    "meaning": "折扣；打折",
+    "correct": true
+   }
+  ],
+  "example": "Students get a discount here.",
+  "tip": "dis(去)+count(算) → 少算钱 → 折扣",
+  "chapter": 10
+ },
+ {
+  "word": "discover",
+  "meaning": "发现；找到",
+  "clues": [
+   {
+    "text": "dis(去)+cover(盖) → 揭开盖子 → 发现",
+    "meaning": "发现；找到",
+    "correct": true
+   },
+   {
+    "text": "词根误判：拼写看着像「争论；争端」那一族？",
+    "meaning": "争论；争端",
+    "correct": false
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「对话；对白」的场合？",
+    "meaning": "对话；对白",
+    "correct": false
+   }
+  ],
+  "example": "Columbus discovered America.",
+  "tip": "dis(去)+cover(盖) → 揭开盖子 → 发现",
+  "chapter": 10
+ },
+ {
+  "word": "dismiss",
+  "meaning": "解散；不予理会",
+  "clues": [
+   {
+    "text": "语境陷阱：似乎有人把它用在「灾难；灾祸」的场合？",
+    "meaning": "灾难；灾祸",
+    "correct": false
+   },
+   {
+    "text": "dis+miss(送) → 送走 → 解散",
+    "meaning": "解散；不予理会",
+    "correct": true
+   },
+   {
+    "text": "模糊印象：好像和「disorder」（混乱；失调）差不多？",
+    "meaning": "混乱；失调",
+    "correct": false
+   }
+  ],
+  "example": "Class is dismissed at five.",
+  "tip": "dis+miss(送) → 送走 → 解散",
+  "chapter": 10
+ },
+ {
+  "word": "disorder",
+  "meaning": "混乱；失调",
+  "clues": [
+   {
+    "text": "模糊印象：好像和「dispute」（争论；争端）差不多？",
+    "meaning": "争论；争端",
+    "correct": false
+   },
+   {
+    "text": "谐音乱猜：听着像在念「discipline」→ 纪律；自律？",
+    "meaning": "纪律；自律",
+    "correct": false
+   },
+   {
+    "text": "dis+order(秩序) → 失去秩序 → 混乱",
+    "meaning": "混乱；失调",
+    "correct": true
+   }
+  ],
+  "example": "The room was in disorder.",
+  "tip": "dis+order(秩序) → 失去秩序 → 混乱",
+  "chapter": 10
+ },
+ {
+  "word": "display",
+  "meaning": "展示；陈列",
+  "clues": [
+   {
+    "text": "dis+play(展开) → 展开给人看 → 展示",
+    "meaning": "展示；陈列",
+    "correct": true
+   },
+   {
+    "text": "谐音乱猜：听着像在念「discount」→ 折扣；打折？",
+    "meaning": "折扣；打折",
+    "correct": false
+   },
+   {
+    "text": "词根误判：拼写看着像「灾难；灾祸」那一族？",
+    "meaning": "灾难；灾祸",
+    "correct": false
+   }
+  ],
+  "example": "The museum displays old maps.",
+  "tip": "dis+play(展开) → 展开给人看 → 展示",
+  "chapter": 10
+ },
+ {
+  "word": "dispose",
+  "meaning": "处理；处置",
+  "clues": [
+   {
+    "text": "词根误判：拼写看着像「勤奋的；刻苦的」那一族？",
+    "meaning": "勤奋的；刻苦的",
+    "correct": false
+   },
+   {
+    "text": "dis+pose(放) → 分开放好 → 处理",
+    "meaning": "处理；处置",
+    "correct": true
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「展示；陈列」的场合？",
+    "meaning": "展示；陈列",
+    "correct": false
+   }
+  ],
+  "example": "Dispose of waste properly.",
+  "tip": "dis+pose(放) → 分开放好 → 处理",
+  "chapter": 10
+ },
+ {
+  "word": "dispute",
+  "meaning": "争论；争端",
+  "clues": [
+   {
+    "text": "语境陷阱：似乎有人把它用在「尊严；庄重」的场合？",
+    "meaning": "尊严；庄重",
+    "correct": false
+   },
+   {
+    "text": "模糊印象：好像和「distinguish」（区分；辨别）差不多？",
+    "meaning": "区分；辨别",
+    "correct": false
+   },
+   {
+    "text": "dis+pute(想) → 想法相左 → 争论",
+    "meaning": "争论；争端",
+    "correct": true
+   }
+  ],
+  "example": "They disputed over the answer.",
+  "tip": "dis+pute(想) → 想法相左 → 争论",
+  "chapter": 10
+ },
+ {
+  "word": "distinct",
+  "meaning": "截然不同的；清楚的",
+  "clues": [
+   {
+    "text": "di+stinct(刺) → 刺点分明 → 截然不同",
+    "meaning": "截然不同的；清楚的",
+    "correct": true
+   },
+   {
+    "text": "模糊印象：好像和「discipline」（纪律；自律）差不多？",
+    "meaning": "纪律；自律",
+    "correct": false
+   },
+   {
+    "text": "谐音乱猜：听着像在念「discard」→ 丢弃；抛弃？",
+    "meaning": "丢弃；抛弃",
+    "correct": false
+   }
+  ],
+  "example": "The twins have distinct tastes.",
+  "tip": "di+stinct(刺) → 刺点分明 → 截然不同",
+  "chapter": 10
+ },
+ {
+  "word": "distinguish",
+  "meaning": "区分；辨别",
+  "clues": [
+   {
+    "text": "谐音乱猜：听着像在念「dispute」→ 争论；争端？",
+    "meaning": "争论；争端",
+    "correct": false
+   },
+   {
+    "text": "di+stingu(刺)+ish → 刺出差别 → 区分",
+    "meaning": "区分；辨别",
+    "correct": true
+   },
+   {
+    "text": "词根误判：拼写看着像「混乱；失调」那一族？",
+    "meaning": "混乱；失调",
+    "correct": false
+   }
+  ],
+  "example": "Distinguish fact from opinion.",
+  "tip": "di+stingu(刺)+ish → 刺出差别 → 区分",
+  "chapter": 10
+ },
+ {
+  "word": "distract",
+  "meaning": "使分心；转移注意",
+  "clues": [
+   {
+    "text": "词根误判：拼写看着像「发现；找到」那一族？",
+    "meaning": "发现；找到",
+    "correct": false
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「纪律；自律」的场合？",
+    "meaning": "纪律；自律",
+    "correct": false
+   },
+   {
+    "text": "dis+tract(拉) → 把注意力拉走 → 分心",
+    "meaning": "使分心；转移注意",
+    "correct": true
+   }
+  ],
+  "example": "Noise distracts me from reading.",
+  "tip": "dis+tract(拉) → 把注意力拉走 → 分心",
+  "chapter": 10
+ },
+ {
+  "word": "distribute",
+  "meaning": "分发；分布",
+  "clues": [
+   {
+    "text": "dis+tribute(给) → 分头给予 → 分发",
+    "meaning": "分发；分布",
+    "correct": true
+   },
+   {
+    "text": "语境陷阱：似乎有人把它用在「纪律；自律」的场合？",
+    "meaning": "纪律；自律",
+    "correct": false
+   },
+   {
+    "text": "模糊印象：好像和「dialogue」（对话；对白）差不多？",
+    "meaning": "对话；对白",
+    "correct": false
+   }
+  ],
+  "example": "She distributed papers to the class.",
+  "tip": "dis+tribute(给) → 分头给予 → 分发",
+  "chapter": 10
+ },
+ {
+  "word": "diverse",
+  "meaning": "多样的；不同的",
+  "clues": [
+   {
+    "text": "模糊印象：好像和「discard」（丢弃；抛弃）差不多？",
+    "meaning": "丢弃；抛弃",
+    "correct": false
+   },
+   {
+    "text": "di+verse(转) → 转出多面 → 多样",
+    "meaning": "多样的；不同的",
+    "correct": true
+   },
+   {
+    "text": "谐音乱猜：听着像在念「display」→ 展示；陈列？",
+    "meaning": "展示；陈列",
+    "correct": false
+   }
+  ],
+  "example": "Our club has diverse hobbies.",
+  "tip": "di+verse(转) → 转出多面 → 多样",
+  "chapter": 10
+ }
+]
